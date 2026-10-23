@@ -45,12 +45,6 @@ Prices are in **yen**, average of surveyed stores in each city.
 
 Item 2165 starts January 2015. Sapporo and Kyoto are blank for May 2020 (no data published, likely COVID closures).
 
-## Important caveats
-
-**Bag sizes shrank a lot (ground coffee, item 1922).** The surveyed bag went from 450 to 500g in 2010 down to 200 to 260g by May 2026, in steps (2011, 2015, 2016, 2017, 2021, 2023, 2026). Prices are per 100g, so they stay comparable, but smaller bags usually cost more per gram. Part of the per-100g rise is "shrinkflation," not just coffee costs. This is a story angle in itself.
-
-**Instant coffee unit changed in 2014.** Before 2014 the price was per jar (100g jar until 2013, then a 90g jar). From 2014 it is per 100g. Treat early-2014 as a possible break.
-
 **Retail prices are raw; the CPI is adjusted.** The CPI adjusts for specification changes like the bag sizes above. For the "how much did prices really rise" question, use the CPI. Use the city retail prices for the city comparison (is Naha cheaper? does it lag Tokyo?).
 
 **Single-city monthly prices are noisy.** Ground coffee and instant coffee jump around from month to month because of store sales. Use 3 or 12-month averages for charts.
