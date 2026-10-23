@@ -1,0 +1,2961 @@
+month,city,item_code,item,unit,price_yen
+2010-01,Kyoto,1921,Instant coffee,per 100g,665
+2010-02,Kyoto,1921,Instant coffee,per 100g,703
+2010-03,Kyoto,1921,Instant coffee,per 100g,673
+2010-04,Kyoto,1921,Instant coffee,per 100g,703
+2010-05,Kyoto,1921,Instant coffee,per 100g,703
+2010-06,Kyoto,1921,Instant coffee,per 100g,665
+2010-07,Kyoto,1921,Instant coffee,per 100g,656
+2010-08,Kyoto,1921,Instant coffee,per 100g,703
+2010-09,Kyoto,1921,Instant coffee,per 100g,670
+2010-10,Kyoto,1921,Instant coffee,per 100g,656
+2010-11,Kyoto,1921,Instant coffee,per 100g,656
+2010-12,Kyoto,1921,Instant coffee,per 100g,656
+2011-01,Kyoto,1921,Instant coffee,per 100g,600
+2011-02,Kyoto,1921,Instant coffee,per 100g,590
+2011-03,Kyoto,1921,Instant coffee,per 100g,633
+2011-04,Kyoto,1921,Instant coffee,per 100g,650
+2011-05,Kyoto,1921,Instant coffee,per 100g,650
+2011-06,Kyoto,1921,Instant coffee,per 100g,690
+2011-07,Kyoto,1921,Instant coffee,per 100g,690
+2011-08,Kyoto,1921,Instant coffee,per 100g,690
+2011-09,Kyoto,1921,Instant coffee,per 100g,705
+2011-10,Kyoto,1921,Instant coffee,per 100g,688
+2011-11,Kyoto,1921,Instant coffee,per 100g,688
+2011-12,Kyoto,1921,Instant coffee,per 100g,696
+2012-01,Kyoto,1921,Instant coffee,per 100g,696
+2012-02,Kyoto,1921,Instant coffee,per 100g,696
+2012-03,Kyoto,1921,Instant coffee,per 100g,696
+2012-04,Kyoto,1921,Instant coffee,per 100g,696
+2012-05,Kyoto,1921,Instant coffee,per 100g,696
+2012-06,Kyoto,1921,Instant coffee,per 100g,606
+2012-07,Kyoto,1921,Instant coffee,per 100g,688
+2012-08,Kyoto,1921,Instant coffee,per 100g,696
+2012-09,Kyoto,1921,Instant coffee,per 100g,743
+2012-10,Kyoto,1921,Instant coffee,per 100g,751
+2012-11,Kyoto,1921,Instant coffee,per 100g,751
+2012-12,Kyoto,1921,Instant coffee,per 100g,663
+2013-01,Kyoto,1921,Instant coffee,per 100g,726
+2013-02,Kyoto,1921,Instant coffee,per 100g,726
+2013-03,Kyoto,1921,Instant coffee,per 100g,656
+2013-04,Kyoto,1921,Instant coffee,per 100g,656
+2013-05,Kyoto,1921,Instant coffee,per 100g,656
+2013-06,Kyoto,1921,Instant coffee,per 100g,656
+2013-07,Kyoto,1921,Instant coffee,per 100g,656
+2013-08,Kyoto,1921,Instant coffee,per 100g,656
+2013-09,Kyoto,1921,Instant coffee,per 100g,723
+2013-10,Kyoto,1921,Instant coffee,per 100g,733
+2013-11,Kyoto,1921,Instant coffee,per 100g,733
+2013-12,Kyoto,1921,Instant coffee,per 100g,666
+2014-01,Kyoto,1921,Instant coffee,per 100g,650
+2014-02,Kyoto,1921,Instant coffee,per 100g,666
+2014-03,Kyoto,1921,Instant coffee,per 100g,768
+2014-04,Kyoto,1921,Instant coffee,per 100g,723
+2014-05,Kyoto,1921,Instant coffee,per 100g,723
+2014-06,Kyoto,1921,Instant coffee,per 100g,723
+2014-07,Kyoto,1921,Instant coffee,per 100g,723
+2014-08,Kyoto,1921,Instant coffee,per 100g,742
+2014-09,Kyoto,1921,Instant coffee,per 100g,739
+2014-10,Kyoto,1921,Instant coffee,per 100g,739
+2014-11,Kyoto,1921,Instant coffee,per 100g,739
+2014-12,Kyoto,1921,Instant coffee,per 100g,739
+2015-01,Kyoto,1921,Instant coffee,per 100g,739
+2015-02,Kyoto,1921,Instant coffee,per 100g,739
+2015-03,Kyoto,1921,Instant coffee,per 100g,739
+2015-04,Kyoto,1921,Instant coffee,per 100g,739
+2015-05,Kyoto,1921,Instant coffee,per 100g,847
+2015-06,Kyoto,1921,Instant coffee,per 100g,829
+2015-07,Kyoto,1921,Instant coffee,per 100g,845
+2015-08,Kyoto,1921,Instant coffee,per 100g,845
+2015-09,Kyoto,1921,Instant coffee,per 100g,845
+2015-10,Kyoto,1921,Instant coffee,per 100g,861
+2015-11,Kyoto,1921,Instant coffee,per 100g,861
+2015-12,Kyoto,1921,Instant coffee,per 100g,861
+2016-01,Kyoto,1921,Instant coffee,per 100g,861
+2016-02,Kyoto,1921,Instant coffee,per 100g,861
+2016-03,Kyoto,1921,Instant coffee,per 100g,861
+2016-04,Kyoto,1921,Instant coffee,per 100g,861
+2016-05,Kyoto,1921,Instant coffee,per 100g,861
+2016-06,Kyoto,1921,Instant coffee,per 100g,861
+2016-07,Kyoto,1921,Instant coffee,per 100g,861
+2016-08,Kyoto,1921,Instant coffee,per 100g,861
+2016-09,Kyoto,1921,Instant coffee,per 100g,861
+2016-10,Kyoto,1921,Instant coffee,per 100g,861
+2016-11,Kyoto,1921,Instant coffee,per 100g,861
+2016-12,Kyoto,1921,Instant coffee,per 100g,861
+2017-01,Kyoto,1921,Instant coffee,per 100g,861
+2017-02,Kyoto,1921,Instant coffee,per 100g,861
+2017-03,Kyoto,1921,Instant coffee,per 100g,861
+2017-04,Kyoto,1921,Instant coffee,per 100g,861
+2017-05,Kyoto,1921,Instant coffee,per 100g,861
+2017-06,Kyoto,1921,Instant coffee,per 100g,861
+2017-07,Kyoto,1921,Instant coffee,per 100g,861
+2017-08,Kyoto,1921,Instant coffee,per 100g,861
+2017-09,Kyoto,1921,Instant coffee,per 100g,813
+2017-10,Kyoto,1921,Instant coffee,per 100g,930
+2017-11,Kyoto,1921,Instant coffee,per 100g,880
+2017-12,Kyoto,1921,Instant coffee,per 100g,891
+2018-01,Kyoto,1921,Instant coffee,per 100g,891
+2018-02,Kyoto,1921,Instant coffee,per 100g,891
+2018-03,Kyoto,1921,Instant coffee,per 100g,891
+2018-04,Kyoto,1921,Instant coffee,per 100g,891
+2018-05,Kyoto,1921,Instant coffee,per 100g,907
+2018-06,Kyoto,1921,Instant coffee,per 100g,935
+2018-07,Kyoto,1921,Instant coffee,per 100g,919
+2018-08,Kyoto,1921,Instant coffee,per 100g,948
+2018-09,Kyoto,1921,Instant coffee,per 100g,989
+2018-10,Kyoto,1921,Instant coffee,per 100g,989
+2018-11,Kyoto,1921,Instant coffee,per 100g,989
+2018-12,Kyoto,1921,Instant coffee,per 100g,989
+2019-01,Kyoto,1921,Instant coffee,per 100g,989
+2019-02,Kyoto,1921,Instant coffee,per 100g,989
+2019-03,Kyoto,1921,Instant coffee,per 100g,989
+2019-04,Kyoto,1921,Instant coffee,per 100g,989
+2019-05,Kyoto,1921,Instant coffee,per 100g,980
+2019-06,Kyoto,1921,Instant coffee,per 100g,980
+2019-07,Kyoto,1921,Instant coffee,per 100g,989
+2019-08,Kyoto,1921,Instant coffee,per 100g,989
+2019-09,Kyoto,1921,Instant coffee,per 100g,989
+2019-10,Kyoto,1921,Instant coffee,per 100g,989
+2019-11,Kyoto,1921,Instant coffee,per 100g,973
+2019-12,Kyoto,1921,Instant coffee,per 100g,969
+2020-01,Kyoto,1921,Instant coffee,per 100g,969
+2020-02,Kyoto,1921,Instant coffee,per 100g,975
+2020-03,Kyoto,1921,Instant coffee,per 100g,935
+2020-04,Kyoto,1921,Instant coffee,per 100g,935
+2020-05,Kyoto,1921,Instant coffee,per 100g,935
+2020-06,Kyoto,1921,Instant coffee,per 100g,924
+2020-07,Kyoto,1921,Instant coffee,per 100g,924
+2020-08,Kyoto,1921,Instant coffee,per 100g,879
+2020-09,Kyoto,1921,Instant coffee,per 100g,879
+2020-10,Kyoto,1921,Instant coffee,per 100g,879
+2020-11,Kyoto,1921,Instant coffee,per 100g,878
+2020-12,Kyoto,1921,Instant coffee,per 100g,878
+2021-01,Kyoto,1921,Instant coffee,per 100g,878
+2021-02,Kyoto,1921,Instant coffee,per 100g,878
+2021-03,Kyoto,1921,Instant coffee,per 100g,847
+2021-04,Kyoto,1921,Instant coffee,per 100g,847
+2021-05,Kyoto,1921,Instant coffee,per 100g,847
+2021-06,Kyoto,1921,Instant coffee,per 100g,903
+2021-07,Kyoto,1921,Instant coffee,per 100g,926
+2021-08,Kyoto,1921,Instant coffee,per 100g,903
+2021-09,Kyoto,1921,Instant coffee,per 100g,903
+2021-10,Kyoto,1921,Instant coffee,per 100g,903
+2021-11,Kyoto,1921,Instant coffee,per 100g,903
+2021-12,Kyoto,1921,Instant coffee,per 100g,903
+2022-01,Kyoto,1921,Instant coffee,per 100g,858
+2022-02,Kyoto,1921,Instant coffee,per 100g,935
+2022-03,Kyoto,1921,Instant coffee,per 100g,1003
+2022-04,Kyoto,1921,Instant coffee,per 100g,940
+2022-05,Kyoto,1921,Instant coffee,per 100g,940
+2022-06,Kyoto,1921,Instant coffee,per 100g,968
+2022-07,Kyoto,1921,Instant coffee,per 100g,1003
+2022-08,Kyoto,1921,Instant coffee,per 100g,1003
+2022-09,Kyoto,1921,Instant coffee,per 100g,1003
+2022-10,Kyoto,1921,Instant coffee,per 100g,928
+2022-11,Kyoto,1921,Instant coffee,per 100g,890
+2022-12,Kyoto,1921,Instant coffee,per 100g,981
+2023-01,Kyoto,1921,Instant coffee,per 100g,996
+2023-02,Kyoto,1921,Instant coffee,per 100g,1003
+2023-03,Kyoto,1921,Instant coffee,per 100g,980
+2023-04,Kyoto,1921,Instant coffee,per 100g,992
+2023-05,Kyoto,1921,Instant coffee,per 100g,988
+2023-06,Kyoto,1921,Instant coffee,per 100g,980
+2023-07,Kyoto,1921,Instant coffee,per 100g,1003
+2023-08,Kyoto,1921,Instant coffee,per 100g,1003
+2023-09,Kyoto,1921,Instant coffee,per 100g,1003
+2023-10,Kyoto,1921,Instant coffee,per 100g,985
+2023-11,Kyoto,1921,Instant coffee,per 100g,968
+2023-12,Kyoto,1921,Instant coffee,per 100g,968
+2024-01,Kyoto,1921,Instant coffee,per 100g,1003
+2024-02,Kyoto,1921,Instant coffee,per 100g,1003
+2024-03,Kyoto,1921,Instant coffee,per 100g,1003
+2024-04,Kyoto,1921,Instant coffee,per 100g,1003
+2024-05,Kyoto,1921,Instant coffee,per 100g,962
+2024-06,Kyoto,1921,Instant coffee,per 100g,940
+2024-07,Kyoto,1921,Instant coffee,per 100g,962
+2024-08,Kyoto,1921,Instant coffee,per 100g,968
+2024-09,Kyoto,1921,Instant coffee,per 100g,985
+2024-10,Kyoto,1921,Instant coffee,per 100g,1003
+2024-11,Kyoto,1921,Instant coffee,per 100g,1003
+2024-12,Kyoto,1921,Instant coffee,per 100g,980
+2025-01,Kyoto,1921,Instant coffee,per 100g,1003
+2025-02,Kyoto,1921,Instant coffee,per 100g,980
+2025-03,Kyoto,1921,Instant coffee,per 100g,991
+2025-04,Kyoto,1921,Instant coffee,per 100g,930
+2025-05,Kyoto,1921,Instant coffee,per 100g,1025
+2025-06,Kyoto,1921,Instant coffee,per 100g,1147
+2025-07,Kyoto,1921,Instant coffee,per 100g,1169
+2025-08,Kyoto,1921,Instant coffee,per 100g,1169
+2025-09,Kyoto,1921,Instant coffee,per 100g,1169
+2025-10,Kyoto,1921,Instant coffee,per 100g,1151
+2025-11,Kyoto,1921,Instant coffee,per 100g,1129
+2025-12,Kyoto,1921,Instant coffee,per 100g,1129
+2026-01,Kyoto,1921,Instant coffee,per 100g,1129
+2026-02,Kyoto,1921,Instant coffee,per 100g,1129
+2026-03,Kyoto,1921,Instant coffee,per 100g,1151
+2026-04,Kyoto,1921,Instant coffee,per 100g,1151
+2026-05,Kyoto,1921,Instant coffee,per 100g,1151
+2026-06,Kyoto,1921,Instant coffee,per 100g,1151
+2026-07,Kyoto,1921,Instant coffee,per 100g,1151
+2026-08,Kyoto,1921,Instant coffee,per 100g,1151
+2010-01,Naha,1921,Instant coffee,per 100g,661
+2010-02,Naha,1921,Instant coffee,per 100g,661
+2010-03,Naha,1921,Instant coffee,per 100g,661
+2010-04,Naha,1921,Instant coffee,per 100g,661
+2010-05,Naha,1921,Instant coffee,per 100g,661
+2010-06,Naha,1921,Instant coffee,per 100g,661
+2010-07,Naha,1921,Instant coffee,per 100g,661
+2010-08,Naha,1921,Instant coffee,per 100g,661
+2010-09,Naha,1921,Instant coffee,per 100g,661
+2010-10,Naha,1921,Instant coffee,per 100g,661
+2010-11,Naha,1921,Instant coffee,per 100g,661
+2010-12,Naha,1921,Instant coffee,per 100g,598
+2011-01,Naha,1921,Instant coffee,per 100g,598
+2011-02,Naha,1921,Instant coffee,per 100g,598
+2011-03,Naha,1921,Instant coffee,per 100g,630
+2011-04,Naha,1921,Instant coffee,per 100g,665
+2011-05,Naha,1921,Instant coffee,per 100g,698
+2011-06,Naha,1921,Instant coffee,per 100g,698
+2011-07,Naha,1921,Instant coffee,per 100g,631
+2011-08,Naha,1921,Instant coffee,per 100g,631
+2011-09,Naha,1921,Instant coffee,per 100g,631
+2011-10,Naha,1921,Instant coffee,per 100g,631
+2011-11,Naha,1921,Instant coffee,per 100g,698
+2011-12,Naha,1921,Instant coffee,per 100g,718
+2012-01,Naha,1921,Instant coffee,per 100g,718
+2012-02,Naha,1921,Instant coffee,per 100g,718
+2012-03,Naha,1921,Instant coffee,per 100g,718
+2012-04,Naha,1921,Instant coffee,per 100g,718
+2012-05,Naha,1921,Instant coffee,per 100g,718
+2012-06,Naha,1921,Instant coffee,per 100g,718
+2012-07,Naha,1921,Instant coffee,per 100g,718
+2012-08,Naha,1921,Instant coffee,per 100g,718
+2012-09,Naha,1921,Instant coffee,per 100g,718
+2012-10,Naha,1921,Instant coffee,per 100g,718
+2012-11,Naha,1921,Instant coffee,per 100g,718
+2012-12,Naha,1921,Instant coffee,per 100g,718
+2013-01,Naha,1921,Instant coffee,per 100g,718
+2013-02,Naha,1921,Instant coffee,per 100g,718
+2013-03,Naha,1921,Instant coffee,per 100g,718
+2013-04,Naha,1921,Instant coffee,per 100g,685
+2013-05,Naha,1921,Instant coffee,per 100g,685
+2013-06,Naha,1921,Instant coffee,per 100g,685
+2013-07,Naha,1921,Instant coffee,per 100g,685
+2013-08,Naha,1921,Instant coffee,per 100g,685
+2013-09,Naha,1921,Instant coffee,per 100g,685
+2013-10,Naha,1921,Instant coffee,per 100g,531
+2013-11,Naha,1921,Instant coffee,per 100g,598
+2013-12,Naha,1921,Instant coffee,per 100g,531
+2014-01,Naha,1921,Instant coffee,per 100g,531
+2014-02,Naha,1921,Instant coffee,per 100g,598
+2014-03,Naha,1921,Instant coffee,per 100g,590
+2014-04,Naha,1921,Instant coffee,per 100g,608
+2014-05,Naha,1921,Instant coffee,per 100g,608
+2014-06,Naha,1921,Instant coffee,per 100g,596
+2014-07,Naha,1921,Instant coffee,per 100g,596
+2014-08,Naha,1921,Instant coffee,per 100g,568
+2014-09,Naha,1921,Instant coffee,per 100g,555
+2014-10,Naha,1921,Instant coffee,per 100g,555
+2014-11,Naha,1921,Instant coffee,per 100g,555
+2014-12,Naha,1921,Instant coffee,per 100g,597
+2015-01,Naha,1921,Instant coffee,per 100g,597
+2015-02,Naha,1921,Instant coffee,per 100g,613
+2015-03,Naha,1921,Instant coffee,per 100g,613
+2015-04,Naha,1921,Instant coffee,per 100g,597
+2015-05,Naha,1921,Instant coffee,per 100g,613
+2015-06,Naha,1921,Instant coffee,per 100g,674
+2015-07,Naha,1921,Instant coffee,per 100g,675
+2015-08,Naha,1921,Instant coffee,per 100g,674
+2015-09,Naha,1921,Instant coffee,per 100g,653
+2015-10,Naha,1921,Instant coffee,per 100g,693
+2015-11,Naha,1921,Instant coffee,per 100g,693
+2015-12,Naha,1921,Instant coffee,per 100g,693
+2016-01,Naha,1921,Instant coffee,per 100g,693
+2016-02,Naha,1921,Instant coffee,per 100g,693
+2016-03,Naha,1921,Instant coffee,per 100g,693
+2016-04,Naha,1921,Instant coffee,per 100g,693
+2016-05,Naha,1921,Instant coffee,per 100g,693
+2016-06,Naha,1921,Instant coffee,per 100g,693
+2016-07,Naha,1921,Instant coffee,per 100g,693
+2016-08,Naha,1921,Instant coffee,per 100g,653
+2016-09,Naha,1921,Instant coffee,per 100g,653
+2016-10,Naha,1921,Instant coffee,per 100g,653
+2016-11,Naha,1921,Instant coffee,per 100g,653
+2016-12,Naha,1921,Instant coffee,per 100g,653
+2017-01,Naha,1921,Instant coffee,per 100g,653
+2017-02,Naha,1921,Instant coffee,per 100g,653
+2017-03,Naha,1921,Instant coffee,per 100g,653
+2017-04,Naha,1921,Instant coffee,per 100g,653
+2017-05,Naha,1921,Instant coffee,per 100g,653
+2017-06,Naha,1921,Instant coffee,per 100g,653
+2017-07,Naha,1921,Instant coffee,per 100g,653
+2017-08,Naha,1921,Instant coffee,per 100g,653
+2017-09,Naha,1921,Instant coffee,per 100g,653
+2017-10,Naha,1921,Instant coffee,per 100g,653
+2017-11,Naha,1921,Instant coffee,per 100g,625
+2017-12,Naha,1921,Instant coffee,per 100g,613
+2018-01,Naha,1921,Instant coffee,per 100g,613
+2018-02,Naha,1921,Instant coffee,per 100g,613
+2018-03,Naha,1921,Instant coffee,per 100g,613
+2018-04,Naha,1921,Instant coffee,per 100g,690
+2018-05,Naha,1921,Instant coffee,per 100g,690
+2018-06,Naha,1921,Instant coffee,per 100g,735
+2018-07,Naha,1921,Instant coffee,per 100g,753
+2018-08,Naha,1921,Instant coffee,per 100g,753
+2018-09,Naha,1921,Instant coffee,per 100g,735
+2018-10,Naha,1921,Instant coffee,per 100g,717
+2018-11,Naha,1921,Instant coffee,per 100g,717
+2018-12,Naha,1921,Instant coffee,per 100g,735
+2019-01,Naha,1921,Instant coffee,per 100g,735
+2019-02,Naha,1921,Instant coffee,per 100g,735
+2019-03,Naha,1921,Instant coffee,per 100g,659
+2019-04,Naha,1921,Instant coffee,per 100g,659
+2019-05,Naha,1921,Instant coffee,per 100g,673
+2019-06,Naha,1921,Instant coffee,per 100g,673
+2019-07,Naha,1921,Instant coffee,per 100g,673
+2019-08,Naha,1921,Instant coffee,per 100g,673
+2019-09,Naha,1921,Instant coffee,per 100g,673
+2019-10,Naha,1921,Instant coffee,per 100g,673
+2019-11,Naha,1921,Instant coffee,per 100g,673
+2019-12,Naha,1921,Instant coffee,per 100g,673
+2020-01,Naha,1921,Instant coffee,per 100g,673
+2020-02,Naha,1921,Instant coffee,per 100g,673
+2020-03,Naha,1921,Instant coffee,per 100g,673
+2020-04,Naha,1921,Instant coffee,per 100g,673
+2020-05,Naha,1921,Instant coffee,per 100g,673
+2020-06,Naha,1921,Instant coffee,per 100g,668
+2020-07,Naha,1921,Instant coffee,per 100g,668
+2020-08,Naha,1921,Instant coffee,per 100g,668
+2020-09,Naha,1921,Instant coffee,per 100g,668
+2020-10,Naha,1921,Instant coffee,per 100g,668
+2020-11,Naha,1921,Instant coffee,per 100g,668
+2020-12,Naha,1921,Instant coffee,per 100g,659
+2021-01,Naha,1921,Instant coffee,per 100g,618
+2021-02,Naha,1921,Instant coffee,per 100g,659
+2021-03,Naha,1921,Instant coffee,per 100g,659
+2021-04,Naha,1921,Instant coffee,per 100g,673
+2021-05,Naha,1921,Instant coffee,per 100g,673
+2021-06,Naha,1921,Instant coffee,per 100g,673
+2021-07,Naha,1921,Instant coffee,per 100g,673
+2021-08,Naha,1921,Instant coffee,per 100g,673
+2021-09,Naha,1921,Instant coffee,per 100g,655
+2021-10,Naha,1921,Instant coffee,per 100g,655
+2021-11,Naha,1921,Instant coffee,per 100g,672
+2021-12,Naha,1921,Instant coffee,per 100g,663
+2022-01,Naha,1921,Instant coffee,per 100g,726
+2022-02,Naha,1921,Instant coffee,per 100g,726
+2022-03,Naha,1921,Instant coffee,per 100g,789
+2022-04,Naha,1921,Instant coffee,per 100g,798
+2022-05,Naha,1921,Instant coffee,per 100g,798
+2022-06,Naha,1921,Instant coffee,per 100g,798
+2022-07,Naha,1921,Instant coffee,per 100g,798
+2022-08,Naha,1921,Instant coffee,per 100g,798
+2022-09,Naha,1921,Instant coffee,per 100g,798
+2022-10,Naha,1921,Instant coffee,per 100g,798
+2022-11,Naha,1921,Instant coffee,per 100g,798
+2022-12,Naha,1921,Instant coffee,per 100g,771
+2023-01,Naha,1921,Instant coffee,per 100g,798
+2023-02,Naha,1921,Instant coffee,per 100g,798
+2023-03,Naha,1921,Instant coffee,per 100g,798
+2023-04,Naha,1921,Instant coffee,per 100g,798
+2023-05,Naha,1921,Instant coffee,per 100g,798
+2023-06,Naha,1921,Instant coffee,per 100g,798
+2023-07,Naha,1921,Instant coffee,per 100g,798
+2023-08,Naha,1921,Instant coffee,per 100g,798
+2023-09,Naha,1921,Instant coffee,per 100g,798
+2023-10,Naha,1921,Instant coffee,per 100g,778
+2023-11,Naha,1921,Instant coffee,per 100g,767
+2023-12,Naha,1921,Instant coffee,per 100g,739
+2024-01,Naha,1921,Instant coffee,per 100g,798
+2024-02,Naha,1921,Instant coffee,per 100g,794
+2024-03,Naha,1921,Instant coffee,per 100g,794
+2024-04,Naha,1921,Instant coffee,per 100g,712
+2024-05,Naha,1921,Instant coffee,per 100g,753
+2024-06,Naha,1921,Instant coffee,per 100g,716
+2024-07,Naha,1921,Instant coffee,per 100g,798
+2024-08,Naha,1921,Instant coffee,per 100g,716
+2024-09,Naha,1921,Instant coffee,per 100g,780
+2024-10,Naha,1921,Instant coffee,per 100g,739
+2024-11,Naha,1921,Instant coffee,per 100g,780
+2024-12,Naha,1921,Instant coffee,per 100g,739
+2025-01,Naha,1921,Instant coffee,per 100g,780
+2025-02,Naha,1921,Instant coffee,per 100g,753
+2025-03,Naha,1921,Instant coffee,per 100g,748
+2025-04,Naha,1921,Instant coffee,per 100g,798
+2025-05,Naha,1921,Instant coffee,per 100g,802
+2025-06,Naha,1921,Instant coffee,per 100g,933
+2025-07,Naha,1921,Instant coffee,per 100g,933
+2025-08,Naha,1921,Instant coffee,per 100g,851
+2025-09,Naha,1921,Instant coffee,per 100g,933
+2025-10,Naha,1921,Instant coffee,per 100g,851
+2025-11,Naha,1921,Instant coffee,per 100g,933
+2025-12,Naha,1921,Instant coffee,per 100g,933
+2026-01,Naha,1921,Instant coffee,per 100g,933
+2026-02,Naha,1921,Instant coffee,per 100g,933
+2026-03,Naha,1921,Instant coffee,per 100g,851
+2026-04,Naha,1921,Instant coffee,per 100g,851
+2026-05,Naha,1921,Instant coffee,per 100g,896
+2026-06,Naha,1921,Instant coffee,per 100g,978
+2026-07,Naha,1921,Instant coffee,per 100g,978
+2026-08,Naha,1921,Instant coffee,per 100g,896
+2010-01,Sapporo,1921,Instant coffee,per 100g,693
+2010-02,Sapporo,1921,Instant coffee,per 100g,668
+2010-03,Sapporo,1921,Instant coffee,per 100g,583
+2010-04,Sapporo,1921,Instant coffee,per 100g,628
+2010-05,Sapporo,1921,Instant coffee,per 100g,608
+2010-06,Sapporo,1921,Instant coffee,per 100g,608
+2010-07,Sapporo,1921,Instant coffee,per 100g,643
+2010-08,Sapporo,1921,Instant coffee,per 100g,643
+2010-09,Sapporo,1921,Instant coffee,per 100g,618
+2010-10,Sapporo,1921,Instant coffee,per 100g,588
+2010-11,Sapporo,1921,Instant coffee,per 100g,576
+2010-12,Sapporo,1921,Instant coffee,per 100g,586
+2011-01,Sapporo,1921,Instant coffee,per 100g,586
+2011-02,Sapporo,1921,Instant coffee,per 100g,586
+2011-03,Sapporo,1921,Instant coffee,per 100g,606
+2011-04,Sapporo,1921,Instant coffee,per 100g,560
+2011-05,Sapporo,1921,Instant coffee,per 100g,596
+2011-06,Sapporo,1921,Instant coffee,per 100g,630
+2011-07,Sapporo,1921,Instant coffee,per 100g,618
+2011-08,Sapporo,1921,Instant coffee,per 100g,606
+2011-09,Sapporo,1921,Instant coffee,per 100g,631
+2011-10,Sapporo,1921,Instant coffee,per 100g,631
+2011-11,Sapporo,1921,Instant coffee,per 100g,631
+2011-12,Sapporo,1921,Instant coffee,per 100g,631
+2012-01,Sapporo,1921,Instant coffee,per 100g,681
+2012-02,Sapporo,1921,Instant coffee,per 100g,631
+2012-03,Sapporo,1921,Instant coffee,per 100g,633
+2012-04,Sapporo,1921,Instant coffee,per 100g,633
+2012-05,Sapporo,1921,Instant coffee,per 100g,633
+2012-06,Sapporo,1921,Instant coffee,per 100g,606
+2012-07,Sapporo,1921,Instant coffee,per 100g,610
+2012-08,Sapporo,1921,Instant coffee,per 100g,610
+2012-09,Sapporo,1921,Instant coffee,per 100g,603
+2012-10,Sapporo,1921,Instant coffee,per 100g,603
+2012-11,Sapporo,1921,Instant coffee,per 100g,578
+2012-12,Sapporo,1921,Instant coffee,per 100g,578
+2013-01,Sapporo,1921,Instant coffee,per 100g,661
+2013-02,Sapporo,1921,Instant coffee,per 100g,661
+2013-03,Sapporo,1921,Instant coffee,per 100g,611
+2013-04,Sapporo,1921,Instant coffee,per 100g,638
+2013-05,Sapporo,1921,Instant coffee,per 100g,638
+2013-06,Sapporo,1921,Instant coffee,per 100g,713
+2013-07,Sapporo,1921,Instant coffee,per 100g,571
+2013-08,Sapporo,1921,Instant coffee,per 100g,613
+2013-09,Sapporo,1921,Instant coffee,per 100g,623
+2013-10,Sapporo,1921,Instant coffee,per 100g,623
+2013-11,Sapporo,1921,Instant coffee,per 100g,598
+2013-12,Sapporo,1921,Instant coffee,per 100g,623
+2014-01,Sapporo,1921,Instant coffee,per 100g,598
+2014-02,Sapporo,1921,Instant coffee,per 100g,573
+2014-03,Sapporo,1921,Instant coffee,per 100g,664
+2014-04,Sapporo,1921,Instant coffee,per 100g,674
+2014-05,Sapporo,1921,Instant coffee,per 100g,627
+2014-06,Sapporo,1921,Instant coffee,per 100g,674
+2014-07,Sapporo,1921,Instant coffee,per 100g,674
+2014-08,Sapporo,1921,Instant coffee,per 100g,632
+2014-09,Sapporo,1921,Instant coffee,per 100g,677
+2014-10,Sapporo,1921,Instant coffee,per 100g,638
+2014-11,Sapporo,1921,Instant coffee,per 100g,679
+2014-12,Sapporo,1921,Instant coffee,per 100g,679
+2015-01,Sapporo,1921,Instant coffee,per 100g,638
+2015-02,Sapporo,1921,Instant coffee,per 100g,638
+2015-03,Sapporo,1921,Instant coffee,per 100g,679
+2015-04,Sapporo,1921,Instant coffee,per 100g,679
+2015-05,Sapporo,1921,Instant coffee,per 100g,825
+2015-06,Sapporo,1921,Instant coffee,per 100g,757
+2015-07,Sapporo,1921,Instant coffee,per 100g,722
+2015-08,Sapporo,1921,Instant coffee,per 100g,825
+2015-09,Sapporo,1921,Instant coffee,per 100g,670
+2015-10,Sapporo,1921,Instant coffee,per 100g,670
+2015-11,Sapporo,1921,Instant coffee,per 100g,777
+2015-12,Sapporo,1921,Instant coffee,per 100g,697
+2016-01,Sapporo,1921,Instant coffee,per 100g,697
+2016-02,Sapporo,1921,Instant coffee,per 100g,697
+2016-03,Sapporo,1921,Instant coffee,per 100g,697
+2016-04,Sapporo,1921,Instant coffee,per 100g,724
+2016-05,Sapporo,1921,Instant coffee,per 100g,697
+2016-06,Sapporo,1921,Instant coffee,per 100g,724
+2016-07,Sapporo,1921,Instant coffee,per 100g,652
+2016-08,Sapporo,1921,Instant coffee,per 100g,667
+2016-09,Sapporo,1921,Instant coffee,per 100g,613
+2016-10,Sapporo,1921,Instant coffee,per 100g,634
+2016-11,Sapporo,1921,Instant coffee,per 100g,619
+2016-12,Sapporo,1921,Instant coffee,per 100g,679
+2017-01,Sapporo,1921,Instant coffee,per 100g,599
+2017-02,Sapporo,1921,Instant coffee,per 100g,577
+2017-03,Sapporo,1921,Instant coffee,per 100g,634
+2017-04,Sapporo,1921,Instant coffee,per 100g,615
+2017-05,Sapporo,1921,Instant coffee,per 100g,619
+2017-06,Sapporo,1921,Instant coffee,per 100g,674
+2017-07,Sapporo,1921,Instant coffee,per 100g,626
+2017-08,Sapporo,1921,Instant coffee,per 100g,649
+2017-09,Sapporo,1921,Instant coffee,per 100g,610
+2017-10,Sapporo,1921,Instant coffee,per 100g,620
+2017-11,Sapporo,1921,Instant coffee,per 100g,672
+2017-12,Sapporo,1921,Instant coffee,per 100g,705
+2018-01,Sapporo,1921,Instant coffee,per 100g,716
+2018-02,Sapporo,1921,Instant coffee,per 100g,716
+2018-03,Sapporo,1921,Instant coffee,per 100g,688
+2018-04,Sapporo,1921,Instant coffee,per 100g,754
+2018-05,Sapporo,1921,Instant coffee,per 100g,654
+2018-06,Sapporo,1921,Instant coffee,per 100g,619
+2018-07,Sapporo,1921,Instant coffee,per 100g,649
+2018-08,Sapporo,1921,Instant coffee,per 100g,592
+2018-09,Sapporo,1921,Instant coffee,per 100g,678
+2018-10,Sapporo,1921,Instant coffee,per 100g,654
+2018-11,Sapporo,1921,Instant coffee,per 100g,654
+2018-12,Sapporo,1921,Instant coffee,per 100g,704
+2019-01,Sapporo,1921,Instant coffee,per 100g,689
+2019-02,Sapporo,1921,Instant coffee,per 100g,654
+2019-03,Sapporo,1921,Instant coffee,per 100g,653
+2019-04,Sapporo,1921,Instant coffee,per 100g,653
+2019-05,Sapporo,1921,Instant coffee,per 100g,679
+2019-06,Sapporo,1921,Instant coffee,per 100g,638
+2019-07,Sapporo,1921,Instant coffee,per 100g,614
+2019-08,Sapporo,1921,Instant coffee,per 100g,614
+2019-09,Sapporo,1921,Instant coffee,per 100g,624
+2019-10,Sapporo,1921,Instant coffee,per 100g,689
+2019-11,Sapporo,1921,Instant coffee,per 100g,689
+2019-12,Sapporo,1921,Instant coffee,per 100g,689
+2020-01,Sapporo,1921,Instant coffee,per 100g,662
+2020-02,Sapporo,1921,Instant coffee,per 100g,662
+2020-03,Sapporo,1921,Instant coffee,per 100g,662
+2020-04,Sapporo,1921,Instant coffee,per 100g,662
+2020-05,Sapporo,1921,Instant coffee,per 100g,685
+2020-06,Sapporo,1921,Instant coffee,per 100g,614
+2020-07,Sapporo,1921,Instant coffee,per 100g,668
+2020-08,Sapporo,1921,Instant coffee,per 100g,689
+2020-09,Sapporo,1921,Instant coffee,per 100g,648
+2020-10,Sapporo,1921,Instant coffee,per 100g,658
+2020-11,Sapporo,1921,Instant coffee,per 100g,634
+2020-12,Sapporo,1921,Instant coffee,per 100g,634
+2021-01,Sapporo,1921,Instant coffee,per 100g,634
+2021-02,Sapporo,1921,Instant coffee,per 100g,658
+2021-03,Sapporo,1921,Instant coffee,per 100g,671
+2021-04,Sapporo,1921,Instant coffee,per 100g,648
+2021-05,Sapporo,1921,Instant coffee,per 100g,648
+2021-06,Sapporo,1921,Instant coffee,per 100g,634
+2021-07,Sapporo,1921,Instant coffee,per 100g,634
+2021-08,Sapporo,1921,Instant coffee,per 100g,634
+2021-09,Sapporo,1921,Instant coffee,per 100g,634
+2021-10,Sapporo,1921,Instant coffee,per 100g,671
+2021-11,Sapporo,1921,Instant coffee,per 100g,671
+2021-12,Sapporo,1921,Instant coffee,per 100g,624
+2022-01,Sapporo,1921,Instant coffee,per 100g,658
+2022-02,Sapporo,1921,Instant coffee,per 100g,695
+2022-03,Sapporo,1921,Instant coffee,per 100g,761
+2022-04,Sapporo,1921,Instant coffee,per 100g,630
+2022-05,Sapporo,1921,Instant coffee,per 100g,679
+2022-06,Sapporo,1921,Instant coffee,per 100g,679
+2022-07,Sapporo,1921,Instant coffee,per 100g,612
+2022-08,Sapporo,1921,Instant coffee,per 100g,631
+2022-09,Sapporo,1921,Instant coffee,per 100g,705
+2022-10,Sapporo,1921,Instant coffee,per 100g,782
+2022-11,Sapporo,1921,Instant coffee,per 100g,757
+2022-12,Sapporo,1921,Instant coffee,per 100g,782
+2023-01,Sapporo,1921,Instant coffee,per 100g,783
+2023-02,Sapporo,1921,Instant coffee,per 100g,792
+2023-03,Sapporo,1921,Instant coffee,per 100g,766
+2023-04,Sapporo,1921,Instant coffee,per 100g,813
+2023-05,Sapporo,1921,Instant coffee,per 100g,739
+2023-06,Sapporo,1921,Instant coffee,per 100g,715
+2023-07,Sapporo,1921,Instant coffee,per 100g,715
+2023-08,Sapporo,1921,Instant coffee,per 100g,714
+2023-09,Sapporo,1921,Instant coffee,per 100g,751
+2023-10,Sapporo,1921,Instant coffee,per 100g,783
+2023-11,Sapporo,1921,Instant coffee,per 100g,739
+2023-12,Sapporo,1921,Instant coffee,per 100g,656
+2024-01,Sapporo,1921,Instant coffee,per 100g,710
+2024-02,Sapporo,1921,Instant coffee,per 100g,728
+2024-03,Sapporo,1921,Instant coffee,per 100g,756
+2024-04,Sapporo,1921,Instant coffee,per 100g,756
+2024-05,Sapporo,1921,Instant coffee,per 100g,692
+2024-06,Sapporo,1921,Instant coffee,per 100g,601
+2024-07,Sapporo,1921,Instant coffee,per 100g,626
+2024-08,Sapporo,1921,Instant coffee,per 100g,673
+2024-09,Sapporo,1921,Instant coffee,per 100g,753
+2024-10,Sapporo,1921,Instant coffee,per 100g,756
+2024-11,Sapporo,1921,Instant coffee,per 100g,753
+2024-12,Sapporo,1921,Instant coffee,per 100g,671
+2025-01,Sapporo,1921,Instant coffee,per 100g,746
+2025-02,Sapporo,1921,Instant coffee,per 100g,671
+2025-03,Sapporo,1921,Instant coffee,per 100g,806
+2025-04,Sapporo,1921,Instant coffee,per 100g,806
+2025-05,Sapporo,1921,Instant coffee,per 100g,806
+2025-06,Sapporo,1921,Instant coffee,per 100g,1076
+2025-07,Sapporo,1921,Instant coffee,per 100g,1059
+2025-08,Sapporo,1921,Instant coffee,per 100g,965
+2025-09,Sapporo,1921,Instant coffee,per 100g,958
+2025-10,Sapporo,1921,Instant coffee,per 100g,1009
+2025-11,Sapporo,1921,Instant coffee,per 100g,1072
+2025-12,Sapporo,1921,Instant coffee,per 100g,1076
+2026-01,Sapporo,1921,Instant coffee,per 100g,946
+2026-02,Sapporo,1921,Instant coffee,per 100g,1076
+2026-03,Sapporo,1921,Instant coffee,per 100g,1073
+2026-04,Sapporo,1921,Instant coffee,per 100g,1076
+2026-05,Sapporo,1921,Instant coffee,per 100g,1073
+2026-06,Sapporo,1921,Instant coffee,per 100g,1043
+2026-07,Sapporo,1921,Instant coffee,per 100g,951
+2026-08,Sapporo,1921,Instant coffee,per 100g,962
+2010-01,Tokyo (23 wards),1921,Instant coffee,per 100g,638
+2010-02,Tokyo (23 wards),1921,Instant coffee,per 100g,647
+2010-03,Tokyo (23 wards),1921,Instant coffee,per 100g,650
+2010-04,Tokyo (23 wards),1921,Instant coffee,per 100g,629
+2010-05,Tokyo (23 wards),1921,Instant coffee,per 100g,631
+2010-06,Tokyo (23 wards),1921,Instant coffee,per 100g,602
+2010-07,Tokyo (23 wards),1921,Instant coffee,per 100g,599
+2010-08,Tokyo (23 wards),1921,Instant coffee,per 100g,581
+2010-09,Tokyo (23 wards),1921,Instant coffee,per 100g,591
+2010-10,Tokyo (23 wards),1921,Instant coffee,per 100g,606
+2010-11,Tokyo (23 wards),1921,Instant coffee,per 100g,569
+2010-12,Tokyo (23 wards),1921,Instant coffee,per 100g,596
+2011-01,Tokyo (23 wards),1921,Instant coffee,per 100g,602
+2011-02,Tokyo (23 wards),1921,Instant coffee,per 100g,588
+2011-03,Tokyo (23 wards),1921,Instant coffee,per 100g,588
+2011-04,Tokyo (23 wards),1921,Instant coffee,per 100g,620
+2011-05,Tokyo (23 wards),1921,Instant coffee,per 100g,632
+2011-06,Tokyo (23 wards),1921,Instant coffee,per 100g,641
+2011-07,Tokyo (23 wards),1921,Instant coffee,per 100g,642
+2011-08,Tokyo (23 wards),1921,Instant coffee,per 100g,666
+2011-09,Tokyo (23 wards),1921,Instant coffee,per 100g,665
+2011-10,Tokyo (23 wards),1921,Instant coffee,per 100g,656
+2011-11,Tokyo (23 wards),1921,Instant coffee,per 100g,662
+2011-12,Tokyo (23 wards),1921,Instant coffee,per 100g,685
+2012-01,Tokyo (23 wards),1921,Instant coffee,per 100g,662
+2012-02,Tokyo (23 wards),1921,Instant coffee,per 100g,636
+2012-03,Tokyo (23 wards),1921,Instant coffee,per 100g,671
+2012-04,Tokyo (23 wards),1921,Instant coffee,per 100g,652
+2012-05,Tokyo (23 wards),1921,Instant coffee,per 100g,626
+2012-06,Tokyo (23 wards),1921,Instant coffee,per 100g,652
+2012-07,Tokyo (23 wards),1921,Instant coffee,per 100g,659
+2012-08,Tokyo (23 wards),1921,Instant coffee,per 100g,656
+2012-09,Tokyo (23 wards),1921,Instant coffee,per 100g,650
+2012-10,Tokyo (23 wards),1921,Instant coffee,per 100g,652
+2012-11,Tokyo (23 wards),1921,Instant coffee,per 100g,620
+2012-12,Tokyo (23 wards),1921,Instant coffee,per 100g,610
+2013-01,Tokyo (23 wards),1921,Instant coffee,per 100g,618
+2013-02,Tokyo (23 wards),1921,Instant coffee,per 100g,615
+2013-03,Tokyo (23 wards),1921,Instant coffee,per 100g,625
+2013-04,Tokyo (23 wards),1921,Instant coffee,per 100g,643
+2013-05,Tokyo (23 wards),1921,Instant coffee,per 100g,634
+2013-06,Tokyo (23 wards),1921,Instant coffee,per 100g,654
+2013-07,Tokyo (23 wards),1921,Instant coffee,per 100g,652
+2013-08,Tokyo (23 wards),1921,Instant coffee,per 100g,645
+2013-09,Tokyo (23 wards),1921,Instant coffee,per 100g,583
+2013-10,Tokyo (23 wards),1921,Instant coffee,per 100g,582
+2013-11,Tokyo (23 wards),1921,Instant coffee,per 100g,639
+2013-12,Tokyo (23 wards),1921,Instant coffee,per 100g,577
+2014-01,Tokyo (23 wards),1921,Instant coffee,per 100g,601
+2014-02,Tokyo (23 wards),1921,Instant coffee,per 100g,596
+2014-03,Tokyo (23 wards),1921,Instant coffee,per 100g,711
+2014-04,Tokyo (23 wards),1921,Instant coffee,per 100g,712
+2014-05,Tokyo (23 wards),1921,Instant coffee,per 100g,724
+2014-06,Tokyo (23 wards),1921,Instant coffee,per 100g,693
+2014-07,Tokyo (23 wards),1921,Instant coffee,per 100g,740
+2014-08,Tokyo (23 wards),1921,Instant coffee,per 100g,726
+2014-09,Tokyo (23 wards),1921,Instant coffee,per 100g,676
+2014-10,Tokyo (23 wards),1921,Instant coffee,per 100g,690
+2014-11,Tokyo (23 wards),1921,Instant coffee,per 100g,653
+2014-12,Tokyo (23 wards),1921,Instant coffee,per 100g,643
+2015-01,Tokyo (23 wards),1921,Instant coffee,per 100g,679
+2015-02,Tokyo (23 wards),1921,Instant coffee,per 100g,705
+2015-03,Tokyo (23 wards),1921,Instant coffee,per 100g,661
+2015-04,Tokyo (23 wards),1921,Instant coffee,per 100g,654
+2015-05,Tokyo (23 wards),1921,Instant coffee,per 100g,737
+2015-06,Tokyo (23 wards),1921,Instant coffee,per 100g,792
+2015-07,Tokyo (23 wards),1921,Instant coffee,per 100g,822
+2015-08,Tokyo (23 wards),1921,Instant coffee,per 100g,826
+2015-09,Tokyo (23 wards),1921,Instant coffee,per 100g,757
+2015-10,Tokyo (23 wards),1921,Instant coffee,per 100g,804
+2015-11,Tokyo (23 wards),1921,Instant coffee,per 100g,775
+2015-12,Tokyo (23 wards),1921,Instant coffee,per 100g,762
+2016-01,Tokyo (23 wards),1921,Instant coffee,per 100g,821
+2016-02,Tokyo (23 wards),1921,Instant coffee,per 100g,776
+2016-03,Tokyo (23 wards),1921,Instant coffee,per 100g,769
+2016-04,Tokyo (23 wards),1921,Instant coffee,per 100g,761
+2016-05,Tokyo (23 wards),1921,Instant coffee,per 100g,767
+2016-06,Tokyo (23 wards),1921,Instant coffee,per 100g,786
+2016-07,Tokyo (23 wards),1921,Instant coffee,per 100g,769
+2016-08,Tokyo (23 wards),1921,Instant coffee,per 100g,803
+2016-09,Tokyo (23 wards),1921,Instant coffee,per 100g,786
+2016-10,Tokyo (23 wards),1921,Instant coffee,per 100g,779
+2016-11,Tokyo (23 wards),1921,Instant coffee,per 100g,775
+2016-12,Tokyo (23 wards),1921,Instant coffee,per 100g,761
+2017-01,Tokyo (23 wards),1921,Instant coffee,per 100g,755
+2017-02,Tokyo (23 wards),1921,Instant coffee,per 100g,775
+2017-03,Tokyo (23 wards),1921,Instant coffee,per 100g,781
+2017-04,Tokyo (23 wards),1921,Instant coffee,per 100g,753
+2017-05,Tokyo (23 wards),1921,Instant coffee,per 100g,758
+2017-06,Tokyo (23 wards),1921,Instant coffee,per 100g,743
+2017-07,Tokyo (23 wards),1921,Instant coffee,per 100g,757
+2017-08,Tokyo (23 wards),1921,Instant coffee,per 100g,746
+2017-09,Tokyo (23 wards),1921,Instant coffee,per 100g,773
+2017-10,Tokyo (23 wards),1921,Instant coffee,per 100g,763
+2017-11,Tokyo (23 wards),1921,Instant coffee,per 100g,770
+2017-12,Tokyo (23 wards),1921,Instant coffee,per 100g,791
+2018-01,Tokyo (23 wards),1921,Instant coffee,per 100g,807
+2018-02,Tokyo (23 wards),1921,Instant coffee,per 100g,796
+2018-03,Tokyo (23 wards),1921,Instant coffee,per 100g,782
+2018-04,Tokyo (23 wards),1921,Instant coffee,per 100g,764
+2018-05,Tokyo (23 wards),1921,Instant coffee,per 100g,760
+2018-06,Tokyo (23 wards),1921,Instant coffee,per 100g,800
+2018-07,Tokyo (23 wards),1921,Instant coffee,per 100g,808
+2018-08,Tokyo (23 wards),1921,Instant coffee,per 100g,792
+2018-09,Tokyo (23 wards),1921,Instant coffee,per 100g,793
+2018-10,Tokyo (23 wards),1921,Instant coffee,per 100g,803
+2018-11,Tokyo (23 wards),1921,Instant coffee,per 100g,802
+2018-12,Tokyo (23 wards),1921,Instant coffee,per 100g,786
+2019-01,Tokyo (23 wards),1921,Instant coffee,per 100g,814
+2019-02,Tokyo (23 wards),1921,Instant coffee,per 100g,843
+2019-03,Tokyo (23 wards),1921,Instant coffee,per 100g,828
+2019-04,Tokyo (23 wards),1921,Instant coffee,per 100g,794
+2019-05,Tokyo (23 wards),1921,Instant coffee,per 100g,801
+2019-06,Tokyo (23 wards),1921,Instant coffee,per 100g,767
+2019-07,Tokyo (23 wards),1921,Instant coffee,per 100g,794
+2019-08,Tokyo (23 wards),1921,Instant coffee,per 100g,774
+2019-09,Tokyo (23 wards),1921,Instant coffee,per 100g,812
+2019-10,Tokyo (23 wards),1921,Instant coffee,per 100g,786
+2019-11,Tokyo (23 wards),1921,Instant coffee,per 100g,769
+2019-12,Tokyo (23 wards),1921,Instant coffee,per 100g,788
+2020-01,Tokyo (23 wards),1921,Instant coffee,per 100g,734
+2020-02,Tokyo (23 wards),1921,Instant coffee,per 100g,801
+2020-03,Tokyo (23 wards),1921,Instant coffee,per 100g,806
+2020-04,Tokyo (23 wards),1921,Instant coffee,per 100g,745
+2020-05,Tokyo (23 wards),1921,Instant coffee,per 100g,790
+2020-06,Tokyo (23 wards),1921,Instant coffee,per 100g,830
+2020-07,Tokyo (23 wards),1921,Instant coffee,per 100g,834
+2020-08,Tokyo (23 wards),1921,Instant coffee,per 100g,839
+2020-09,Tokyo (23 wards),1921,Instant coffee,per 100g,854
+2020-10,Tokyo (23 wards),1921,Instant coffee,per 100g,794
+2020-11,Tokyo (23 wards),1921,Instant coffee,per 100g,793
+2020-12,Tokyo (23 wards),1921,Instant coffee,per 100g,786
+2021-01,Tokyo (23 wards),1921,Instant coffee,per 100g,763
+2021-02,Tokyo (23 wards),1921,Instant coffee,per 100g,840
+2021-03,Tokyo (23 wards),1921,Instant coffee,per 100g,839
+2021-04,Tokyo (23 wards),1921,Instant coffee,per 100g,787
+2021-05,Tokyo (23 wards),1921,Instant coffee,per 100g,808
+2021-06,Tokyo (23 wards),1921,Instant coffee,per 100g,794
+2021-07,Tokyo (23 wards),1921,Instant coffee,per 100g,830
+2021-08,Tokyo (23 wards),1921,Instant coffee,per 100g,815
+2021-09,Tokyo (23 wards),1921,Instant coffee,per 100g,812
+2021-10,Tokyo (23 wards),1921,Instant coffee,per 100g,798
+2021-11,Tokyo (23 wards),1921,Instant coffee,per 100g,804
+2021-12,Tokyo (23 wards),1921,Instant coffee,per 100g,746
+2022-01,Tokyo (23 wards),1921,Instant coffee,per 100g,751
+2022-02,Tokyo (23 wards),1921,Instant coffee,per 100g,811
+2022-03,Tokyo (23 wards),1921,Instant coffee,per 100g,869
+2022-04,Tokyo (23 wards),1921,Instant coffee,per 100g,863
+2022-05,Tokyo (23 wards),1921,Instant coffee,per 100g,869
+2022-06,Tokyo (23 wards),1921,Instant coffee,per 100g,833
+2022-07,Tokyo (23 wards),1921,Instant coffee,per 100g,877
+2022-08,Tokyo (23 wards),1921,Instant coffee,per 100g,855
+2022-09,Tokyo (23 wards),1921,Instant coffee,per 100g,834
+2022-10,Tokyo (23 wards),1921,Instant coffee,per 100g,874
+2022-11,Tokyo (23 wards),1921,Instant coffee,per 100g,845
+2022-12,Tokyo (23 wards),1921,Instant coffee,per 100g,856
+2023-01,Tokyo (23 wards),1921,Instant coffee,per 100g,886
+2023-02,Tokyo (23 wards),1921,Instant coffee,per 100g,903
+2023-03,Tokyo (23 wards),1921,Instant coffee,per 100g,969
+2023-04,Tokyo (23 wards),1921,Instant coffee,per 100g,907
+2023-05,Tokyo (23 wards),1921,Instant coffee,per 100g,932
+2023-06,Tokyo (23 wards),1921,Instant coffee,per 100g,913
+2023-07,Tokyo (23 wards),1921,Instant coffee,per 100g,942
+2023-08,Tokyo (23 wards),1921,Instant coffee,per 100g,845
+2023-09,Tokyo (23 wards),1921,Instant coffee,per 100g,945
+2023-10,Tokyo (23 wards),1921,Instant coffee,per 100g,946
+2023-11,Tokyo (23 wards),1921,Instant coffee,per 100g,909
+2023-12,Tokyo (23 wards),1921,Instant coffee,per 100g,897
+2024-01,Tokyo (23 wards),1921,Instant coffee,per 100g,872
+2024-02,Tokyo (23 wards),1921,Instant coffee,per 100g,894
+2024-03,Tokyo (23 wards),1921,Instant coffee,per 100g,891
+2024-04,Tokyo (23 wards),1921,Instant coffee,per 100g,846
+2024-05,Tokyo (23 wards),1921,Instant coffee,per 100g,821
+2024-06,Tokyo (23 wards),1921,Instant coffee,per 100g,813
+2024-07,Tokyo (23 wards),1921,Instant coffee,per 100g,836
+2024-08,Tokyo (23 wards),1921,Instant coffee,per 100g,878
+2024-09,Tokyo (23 wards),1921,Instant coffee,per 100g,869
+2024-10,Tokyo (23 wards),1921,Instant coffee,per 100g,793
+2024-11,Tokyo (23 wards),1921,Instant coffee,per 100g,840
+2024-12,Tokyo (23 wards),1921,Instant coffee,per 100g,818
+2025-01,Tokyo (23 wards),1921,Instant coffee,per 100g,814
+2025-02,Tokyo (23 wards),1921,Instant coffee,per 100g,861
+2025-03,Tokyo (23 wards),1921,Instant coffee,per 100g,874
+2025-04,Tokyo (23 wards),1921,Instant coffee,per 100g,871
+2025-05,Tokyo (23 wards),1921,Instant coffee,per 100g,926
+2025-06,Tokyo (23 wards),1921,Instant coffee,per 100g,1051
+2025-07,Tokyo (23 wards),1921,Instant coffee,per 100g,1007
+2025-08,Tokyo (23 wards),1921,Instant coffee,per 100g,1057
+2025-09,Tokyo (23 wards),1921,Instant coffee,per 100g,1069
+2025-10,Tokyo (23 wards),1921,Instant coffee,per 100g,1037
+2025-11,Tokyo (23 wards),1921,Instant coffee,per 100g,1094
+2025-12,Tokyo (23 wards),1921,Instant coffee,per 100g,1085
+2026-01,Tokyo (23 wards),1921,Instant coffee,per 100g,1072
+2026-02,Tokyo (23 wards),1921,Instant coffee,per 100g,1094
+2026-03,Tokyo (23 wards),1921,Instant coffee,per 100g,1073
+2026-04,Tokyo (23 wards),1921,Instant coffee,per 100g,1081
+2026-05,Tokyo (23 wards),1921,Instant coffee,per 100g,1081
+2026-06,Tokyo (23 wards),1921,Instant coffee,per 100g,1089
+2026-07,Tokyo (23 wards),1921,Instant coffee,per 100g,1092
+2026-08,Tokyo (23 wards),1921,Instant coffee,per 100g,1095
+2010-01,Kyoto,1922,Ground coffee (regular coffee),per 100g,127
+2010-02,Kyoto,1922,Ground coffee (regular coffee),per 100g,118
+2010-03,Kyoto,1922,Ground coffee (regular coffee),per 100g,155
+2010-04,Kyoto,1922,Ground coffee (regular coffee),per 100g,127
+2010-05,Kyoto,1922,Ground coffee (regular coffee),per 100g,122
+2010-06,Kyoto,1922,Ground coffee (regular coffee),per 100g,122
+2010-07,Kyoto,1922,Ground coffee (regular coffee),per 100g,121
+2010-08,Kyoto,1922,Ground coffee (regular coffee),per 100g,122
+2010-09,Kyoto,1922,Ground coffee (regular coffee),per 100g,127
+2010-10,Kyoto,1922,Ground coffee (regular coffee),per 100g,127
+2010-11,Kyoto,1922,Ground coffee (regular coffee),per 100g,127
+2010-12,Kyoto,1922,Ground coffee (regular coffee),per 100g,120
+2011-01,Kyoto,1922,Ground coffee (regular coffee),per 100g,120
+2011-02,Kyoto,1922,Ground coffee (regular coffee),per 100g,120
+2011-03,Kyoto,1922,Ground coffee (regular coffee),per 100g,108
+2011-04,Kyoto,1922,Ground coffee (regular coffee),per 100g,111
+2011-05,Kyoto,1922,Ground coffee (regular coffee),per 100g,124
+2011-06,Kyoto,1922,Ground coffee (regular coffee),per 100g,127
+2011-07,Kyoto,1922,Ground coffee (regular coffee),per 100g,129
+2011-08,Kyoto,1922,Ground coffee (regular coffee),per 100g,131
+2011-09,Kyoto,1922,Ground coffee (regular coffee),per 100g,129
+2011-10,Kyoto,1922,Ground coffee (regular coffee),per 100g,119
+2011-11,Kyoto,1922,Ground coffee (regular coffee),per 100g,126
+2011-12,Kyoto,1922,Ground coffee (regular coffee),per 100g,129
+2012-01,Kyoto,1922,Ground coffee (regular coffee),per 100g,126
+2012-02,Kyoto,1922,Ground coffee (regular coffee),per 100g,131
+2012-03,Kyoto,1922,Ground coffee (regular coffee),per 100g,120
+2012-04,Kyoto,1922,Ground coffee (regular coffee),per 100g,125
+2012-05,Kyoto,1922,Ground coffee (regular coffee),per 100g,123
+2012-06,Kyoto,1922,Ground coffee (regular coffee),per 100g,123
+2012-07,Kyoto,1922,Ground coffee (regular coffee),per 100g,120
+2012-08,Kyoto,1922,Ground coffee (regular coffee),per 100g,120
+2012-09,Kyoto,1922,Ground coffee (regular coffee),per 100g,125
+2012-10,Kyoto,1922,Ground coffee (regular coffee),per 100g,120
+2012-11,Kyoto,1922,Ground coffee (regular coffee),per 100g,125
+2012-12,Kyoto,1922,Ground coffee (regular coffee),per 100g,120
+2013-01,Kyoto,1922,Ground coffee (regular coffee),per 100g,131
+2013-02,Kyoto,1922,Ground coffee (regular coffee),per 100g,125
+2013-03,Kyoto,1922,Ground coffee (regular coffee),per 100g,131
+2013-04,Kyoto,1922,Ground coffee (regular coffee),per 100g,125
+2013-05,Kyoto,1922,Ground coffee (regular coffee),per 100g,125
+2013-06,Kyoto,1922,Ground coffee (regular coffee),per 100g,120
+2013-07,Kyoto,1922,Ground coffee (regular coffee),per 100g,125
+2013-08,Kyoto,1922,Ground coffee (regular coffee),per 100g,125
+2013-09,Kyoto,1922,Ground coffee (regular coffee),per 100g,125
+2013-10,Kyoto,1922,Ground coffee (regular coffee),per 100g,125
+2013-11,Kyoto,1922,Ground coffee (regular coffee),per 100g,118
+2013-12,Kyoto,1922,Ground coffee (regular coffee),per 100g,122
+2014-01,Kyoto,1922,Ground coffee (regular coffee),per 100g,125
+2014-02,Kyoto,1922,Ground coffee (regular coffee),per 100g,125
+2014-03,Kyoto,1922,Ground coffee (regular coffee),per 100g,125
+2014-04,Kyoto,1922,Ground coffee (regular coffee),per 100g,126
+2014-05,Kyoto,1922,Ground coffee (regular coffee),per 100g,126
+2014-06,Kyoto,1922,Ground coffee (regular coffee),per 100g,126
+2014-07,Kyoto,1922,Ground coffee (regular coffee),per 100g,117
+2014-08,Kyoto,1922,Ground coffee (regular coffee),per 100g,126
+2014-09,Kyoto,1922,Ground coffee (regular coffee),per 100g,126
+2014-10,Kyoto,1922,Ground coffee (regular coffee),per 100g,122
+2014-11,Kyoto,1922,Ground coffee (regular coffee),per 100g,124
+2014-12,Kyoto,1922,Ground coffee (regular coffee),per 100g,139
+2015-01,Kyoto,1922,Ground coffee (regular coffee),per 100g,131
+2015-02,Kyoto,1922,Ground coffee (regular coffee),per 100g,149
+2015-03,Kyoto,1922,Ground coffee (regular coffee),per 100g,133
+2015-04,Kyoto,1922,Ground coffee (regular coffee),per 100g,145
+2015-05,Kyoto,1922,Ground coffee (regular coffee),per 100g,148
+2015-06,Kyoto,1922,Ground coffee (regular coffee),per 100g,148
+2015-07,Kyoto,1922,Ground coffee (regular coffee),per 100g,148
+2015-08,Kyoto,1922,Ground coffee (regular coffee),per 100g,136
+2015-09,Kyoto,1922,Ground coffee (regular coffee),per 100g,148
+2015-10,Kyoto,1922,Ground coffee (regular coffee),per 100g,141
+2015-11,Kyoto,1922,Ground coffee (regular coffee),per 100g,148
+2015-12,Kyoto,1922,Ground coffee (regular coffee),per 100g,148
+2016-01,Kyoto,1922,Ground coffee (regular coffee),per 100g,141
+2016-02,Kyoto,1922,Ground coffee (regular coffee),per 100g,148
+2016-03,Kyoto,1922,Ground coffee (regular coffee),per 100g,143
+2016-04,Kyoto,1922,Ground coffee (regular coffee),per 100g,136
+2016-05,Kyoto,1922,Ground coffee (regular coffee),per 100g,133
+2016-06,Kyoto,1922,Ground coffee (regular coffee),per 100g,143
+2016-07,Kyoto,1922,Ground coffee (regular coffee),per 100g,143
+2016-08,Kyoto,1922,Ground coffee (regular coffee),per 100g,136
+2016-09,Kyoto,1922,Ground coffee (regular coffee),per 100g,138
+2016-10,Kyoto,1922,Ground coffee (regular coffee),per 100g,129
+2016-11,Kyoto,1922,Ground coffee (regular coffee),per 100g,132
+2016-12,Kyoto,1922,Ground coffee (regular coffee),per 100g,138
+2017-01,Kyoto,1922,Ground coffee (regular coffee),per 100g,124
+2017-02,Kyoto,1922,Ground coffee (regular coffee),per 100g,131
+2017-03,Kyoto,1922,Ground coffee (regular coffee),per 100g,129
+2017-04,Kyoto,1922,Ground coffee (regular coffee),per 100g,124
+2017-05,Kyoto,1922,Ground coffee (regular coffee),per 100g,133
+2017-06,Kyoto,1922,Ground coffee (regular coffee),per 100g,134
+2017-07,Kyoto,1922,Ground coffee (regular coffee),per 100g,134
+2017-08,Kyoto,1922,Ground coffee (regular coffee),per 100g,134
+2017-09,Kyoto,1922,Ground coffee (regular coffee),per 100g,134
+2017-10,Kyoto,1922,Ground coffee (regular coffee),per 100g,138
+2017-11,Kyoto,1922,Ground coffee (regular coffee),per 100g,133
+2017-12,Kyoto,1922,Ground coffee (regular coffee),per 100g,138
+2018-01,Kyoto,1922,Ground coffee (regular coffee),per 100g,136
+2018-02,Kyoto,1922,Ground coffee (regular coffee),per 100g,138
+2018-03,Kyoto,1922,Ground coffee (regular coffee),per 100g,136
+2018-04,Kyoto,1922,Ground coffee (regular coffee),per 100g,132
+2018-05,Kyoto,1922,Ground coffee (regular coffee),per 100g,129
+2018-06,Kyoto,1922,Ground coffee (regular coffee),per 100g,128
+2018-07,Kyoto,1922,Ground coffee (regular coffee),per 100g,143
+2018-08,Kyoto,1922,Ground coffee (regular coffee),per 100g,130
+2018-09,Kyoto,1922,Ground coffee (regular coffee),per 100g,136
+2018-10,Kyoto,1922,Ground coffee (regular coffee),per 100g,125
+2018-11,Kyoto,1922,Ground coffee (regular coffee),per 100g,131
+2018-12,Kyoto,1922,Ground coffee (regular coffee),per 100g,136
+2019-01,Kyoto,1922,Ground coffee (regular coffee),per 100g,128
+2019-02,Kyoto,1922,Ground coffee (regular coffee),per 100g,136
+2019-03,Kyoto,1922,Ground coffee (regular coffee),per 100g,133
+2019-04,Kyoto,1922,Ground coffee (regular coffee),per 100g,138
+2019-05,Kyoto,1922,Ground coffee (regular coffee),per 100g,132
+2019-06,Kyoto,1922,Ground coffee (regular coffee),per 100g,127
+2019-07,Kyoto,1922,Ground coffee (regular coffee),per 100g,122
+2019-08,Kyoto,1922,Ground coffee (regular coffee),per 100g,132
+2019-09,Kyoto,1922,Ground coffee (regular coffee),per 100g,132
+2019-10,Kyoto,1922,Ground coffee (regular coffee),per 100g,126
+2019-11,Kyoto,1922,Ground coffee (regular coffee),per 100g,132
+2019-12,Kyoto,1922,Ground coffee (regular coffee),per 100g,132
+2020-01,Kyoto,1922,Ground coffee (regular coffee),per 100g,132
+2020-02,Kyoto,1922,Ground coffee (regular coffee),per 100g,132
+2020-03,Kyoto,1922,Ground coffee (regular coffee),per 100g,132
+2020-04,Kyoto,1922,Ground coffee (regular coffee),per 100g,121
+2020-05,Kyoto,1922,Ground coffee (regular coffee),per 100g,132
+2020-06,Kyoto,1922,Ground coffee (regular coffee),per 100g,132
+2020-07,Kyoto,1922,Ground coffee (regular coffee),per 100g,132
+2020-08,Kyoto,1922,Ground coffee (regular coffee),per 100g,121
+2020-09,Kyoto,1922,Ground coffee (regular coffee),per 100g,132
+2020-10,Kyoto,1922,Ground coffee (regular coffee),per 100g,121
+2020-11,Kyoto,1922,Ground coffee (regular coffee),per 100g,132
+2020-12,Kyoto,1922,Ground coffee (regular coffee),per 100g,132
+2021-01,Kyoto,1922,Ground coffee (regular coffee),per 100g,132
+2021-02,Kyoto,1922,Ground coffee (regular coffee),per 100g,118
+2021-03,Kyoto,1922,Ground coffee (regular coffee),per 100g,126
+2021-04,Kyoto,1922,Ground coffee (regular coffee),per 100g,132
+2021-05,Kyoto,1922,Ground coffee (regular coffee),per 100g,156
+2021-06,Kyoto,1922,Ground coffee (regular coffee),per 100g,121
+2021-07,Kyoto,1922,Ground coffee (regular coffee),per 100g,132
+2021-08,Kyoto,1922,Ground coffee (regular coffee),per 100g,132
+2021-09,Kyoto,1922,Ground coffee (regular coffee),per 100g,129
+2021-10,Kyoto,1922,Ground coffee (regular coffee),per 100g,163
+2021-11,Kyoto,1922,Ground coffee (regular coffee),per 100g,163
+2021-12,Kyoto,1922,Ground coffee (regular coffee),per 100g,160
+2022-01,Kyoto,1922,Ground coffee (regular coffee),per 100g,160
+2022-02,Kyoto,1922,Ground coffee (regular coffee),per 100g,160
+2022-03,Kyoto,1922,Ground coffee (regular coffee),per 100g,150
+2022-04,Kyoto,1922,Ground coffee (regular coffee),per 100g,150
+2022-05,Kyoto,1922,Ground coffee (regular coffee),per 100g,160
+2022-06,Kyoto,1922,Ground coffee (regular coffee),per 100g,146
+2022-07,Kyoto,1922,Ground coffee (regular coffee),per 100g,146
+2022-08,Kyoto,1922,Ground coffee (regular coffee),per 100g,146
+2022-09,Kyoto,1922,Ground coffee (regular coffee),per 100g,153
+2022-10,Kyoto,1922,Ground coffee (regular coffee),per 100g,168
+2022-11,Kyoto,1922,Ground coffee (regular coffee),per 100g,174
+2022-12,Kyoto,1922,Ground coffee (regular coffee),per 100g,168
+2023-01,Kyoto,1922,Ground coffee (regular coffee),per 100g,168
+2023-02,Kyoto,1922,Ground coffee (regular coffee),per 100g,168
+2023-03,Kyoto,1922,Ground coffee (regular coffee),per 100g,166
+2023-04,Kyoto,1922,Ground coffee (regular coffee),per 100g,149
+2023-05,Kyoto,1922,Ground coffee (regular coffee),per 100g,168
+2023-06,Kyoto,1922,Ground coffee (regular coffee),per 100g,192
+2023-07,Kyoto,1922,Ground coffee (regular coffee),per 100g,180
+2023-08,Kyoto,1922,Ground coffee (regular coffee),per 100g,180
+2023-09,Kyoto,1922,Ground coffee (regular coffee),per 100g,180
+2023-10,Kyoto,1922,Ground coffee (regular coffee),per 100g,192
+2023-11,Kyoto,1922,Ground coffee (regular coffee),per 100g,174
+2023-12,Kyoto,1922,Ground coffee (regular coffee),per 100g,168
+2024-01,Kyoto,1922,Ground coffee (regular coffee),per 100g,166
+2024-02,Kyoto,1922,Ground coffee (regular coffee),per 100g,192
+2024-03,Kyoto,1922,Ground coffee (regular coffee),per 100g,188
+2024-04,Kyoto,1922,Ground coffee (regular coffee),per 100g,207
+2024-05,Kyoto,1922,Ground coffee (regular coffee),per 100g,211
+2024-06,Kyoto,1922,Ground coffee (regular coffee),per 100g,185
+2024-07,Kyoto,1922,Ground coffee (regular coffee),per 100g,188
+2024-08,Kyoto,1922,Ground coffee (regular coffee),per 100g,177
+2024-09,Kyoto,1922,Ground coffee (regular coffee),per 100g,173
+2024-10,Kyoto,1922,Ground coffee (regular coffee),per 100g,210
+2024-11,Kyoto,1922,Ground coffee (regular coffee),per 100g,210
+2024-12,Kyoto,1922,Ground coffee (regular coffee),per 100g,230
+2025-01,Kyoto,1922,Ground coffee (regular coffee),per 100g,205
+2025-02,Kyoto,1922,Ground coffee (regular coffee),per 100g,213
+2025-03,Kyoto,1922,Ground coffee (regular coffee),per 100g,201
+2025-04,Kyoto,1922,Ground coffee (regular coffee),per 100g,215
+2025-05,Kyoto,1922,Ground coffee (regular coffee),per 100g,221
+2025-06,Kyoto,1922,Ground coffee (regular coffee),per 100g,247
+2025-07,Kyoto,1922,Ground coffee (regular coffee),per 100g,265
+2025-08,Kyoto,1922,Ground coffee (regular coffee),per 100g,247
+2025-09,Kyoto,1922,Ground coffee (regular coffee),per 100g,314
+2025-10,Kyoto,1922,Ground coffee (regular coffee),per 100g,291
+2025-11,Kyoto,1922,Ground coffee (regular coffee),per 100g,325
+2025-12,Kyoto,1922,Ground coffee (regular coffee),per 100g,310
+2026-01,Kyoto,1922,Ground coffee (regular coffee),per 100g,345
+2026-02,Kyoto,1922,Ground coffee (regular coffee),per 100g,359
+2026-03,Kyoto,1922,Ground coffee (regular coffee),per 100g,359
+2026-04,Kyoto,1922,Ground coffee (regular coffee),per 100g,336
+2026-05,Kyoto,1922,Ground coffee (regular coffee),per 100g,296
+2026-06,Kyoto,1922,Ground coffee (regular coffee),per 100g,309
+2026-07,Kyoto,1922,Ground coffee (regular coffee),per 100g,341
+2026-08,Kyoto,1922,Ground coffee (regular coffee),per 100g,330
+2010-01,Naha,1922,Ground coffee (regular coffee),per 100g,133
+2010-02,Naha,1922,Ground coffee (regular coffee),per 100g,133
+2010-03,Naha,1922,Ground coffee (regular coffee),per 100g,133
+2010-04,Naha,1922,Ground coffee (regular coffee),per 100g,133
+2010-05,Naha,1922,Ground coffee (regular coffee),per 100g,133
+2010-06,Naha,1922,Ground coffee (regular coffee),per 100g,133
+2010-07,Naha,1922,Ground coffee (regular coffee),per 100g,133
+2010-08,Naha,1922,Ground coffee (regular coffee),per 100g,133
+2010-09,Naha,1922,Ground coffee (regular coffee),per 100g,133
+2010-10,Naha,1922,Ground coffee (regular coffee),per 100g,133
+2010-11,Naha,1922,Ground coffee (regular coffee),per 100g,133
+2010-12,Naha,1922,Ground coffee (regular coffee),per 100g,133
+2011-01,Naha,1922,Ground coffee (regular coffee),per 100g,133
+2011-02,Naha,1922,Ground coffee (regular coffee),per 100g,133
+2011-03,Naha,1922,Ground coffee (regular coffee),per 100g,133
+2011-04,Naha,1922,Ground coffee (regular coffee),per 100g,133
+2011-05,Naha,1922,Ground coffee (regular coffee),per 100g,133
+2011-06,Naha,1922,Ground coffee (regular coffee),per 100g,150
+2011-07,Naha,1922,Ground coffee (regular coffee),per 100g,150
+2011-08,Naha,1922,Ground coffee (regular coffee),per 100g,150
+2011-09,Naha,1922,Ground coffee (regular coffee),per 100g,150
+2011-10,Naha,1922,Ground coffee (regular coffee),per 100g,150
+2011-11,Naha,1922,Ground coffee (regular coffee),per 100g,150
+2011-12,Naha,1922,Ground coffee (regular coffee),per 100g,150
+2012-01,Naha,1922,Ground coffee (regular coffee),per 100g,150
+2012-02,Naha,1922,Ground coffee (regular coffee),per 100g,150
+2012-03,Naha,1922,Ground coffee (regular coffee),per 100g,150
+2012-04,Naha,1922,Ground coffee (regular coffee),per 100g,150
+2012-05,Naha,1922,Ground coffee (regular coffee),per 100g,150
+2012-06,Naha,1922,Ground coffee (regular coffee),per 100g,150
+2012-07,Naha,1922,Ground coffee (regular coffee),per 100g,150
+2012-08,Naha,1922,Ground coffee (regular coffee),per 100g,150
+2012-09,Naha,1922,Ground coffee (regular coffee),per 100g,150
+2012-10,Naha,1922,Ground coffee (regular coffee),per 100g,150
+2012-11,Naha,1922,Ground coffee (regular coffee),per 100g,150
+2012-12,Naha,1922,Ground coffee (regular coffee),per 100g,150
+2013-01,Naha,1922,Ground coffee (regular coffee),per 100g,141
+2013-02,Naha,1922,Ground coffee (regular coffee),per 100g,150
+2013-03,Naha,1922,Ground coffee (regular coffee),per 100g,150
+2013-04,Naha,1922,Ground coffee (regular coffee),per 100g,150
+2013-05,Naha,1922,Ground coffee (regular coffee),per 100g,150
+2013-06,Naha,1922,Ground coffee (regular coffee),per 100g,150
+2013-07,Naha,1922,Ground coffee (regular coffee),per 100g,150
+2013-08,Naha,1922,Ground coffee (regular coffee),per 100g,150
+2013-09,Naha,1922,Ground coffee (regular coffee),per 100g,150
+2013-10,Naha,1922,Ground coffee (regular coffee),per 100g,150
+2013-11,Naha,1922,Ground coffee (regular coffee),per 100g,150
+2013-12,Naha,1922,Ground coffee (regular coffee),per 100g,150
+2014-01,Naha,1922,Ground coffee (regular coffee),per 100g,150
+2014-02,Naha,1922,Ground coffee (regular coffee),per 100g,150
+2014-03,Naha,1922,Ground coffee (regular coffee),per 100g,150
+2014-04,Naha,1922,Ground coffee (regular coffee),per 100g,154
+2014-05,Naha,1922,Ground coffee (regular coffee),per 100g,154
+2014-06,Naha,1922,Ground coffee (regular coffee),per 100g,154
+2014-07,Naha,1922,Ground coffee (regular coffee),per 100g,154
+2014-08,Naha,1922,Ground coffee (regular coffee),per 100g,154
+2014-09,Naha,1922,Ground coffee (regular coffee),per 100g,154
+2014-10,Naha,1922,Ground coffee (regular coffee),per 100g,154
+2014-11,Naha,1922,Ground coffee (regular coffee),per 100g,154
+2014-12,Naha,1922,Ground coffee (regular coffee),per 100g,154
+2015-01,Naha,1922,Ground coffee (regular coffee),per 100g,154
+2015-02,Naha,1922,Ground coffee (regular coffee),per 100g,154
+2015-03,Naha,1922,Ground coffee (regular coffee),per 100g,162
+2015-04,Naha,1922,Ground coffee (regular coffee),per 100g,162
+2015-05,Naha,1922,Ground coffee (regular coffee),per 100g,162
+2015-06,Naha,1922,Ground coffee (regular coffee),per 100g,162
+2015-07,Naha,1922,Ground coffee (regular coffee),per 100g,162
+2015-08,Naha,1922,Ground coffee (regular coffee),per 100g,162
+2015-09,Naha,1922,Ground coffee (regular coffee),per 100g,162
+2015-10,Naha,1922,Ground coffee (regular coffee),per 100g,162
+2015-11,Naha,1922,Ground coffee (regular coffee),per 100g,162
+2015-12,Naha,1922,Ground coffee (regular coffee),per 100g,162
+2016-01,Naha,1922,Ground coffee (regular coffee),per 100g,162
+2016-02,Naha,1922,Ground coffee (regular coffee),per 100g,162
+2016-03,Naha,1922,Ground coffee (regular coffee),per 100g,162
+2016-04,Naha,1922,Ground coffee (regular coffee),per 100g,162
+2016-05,Naha,1922,Ground coffee (regular coffee),per 100g,162
+2016-06,Naha,1922,Ground coffee (regular coffee),per 100g,162
+2016-07,Naha,1922,Ground coffee (regular coffee),per 100g,162
+2016-08,Naha,1922,Ground coffee (regular coffee),per 100g,162
+2016-09,Naha,1922,Ground coffee (regular coffee),per 100g,135
+2016-10,Naha,1922,Ground coffee (regular coffee),per 100g,135
+2016-11,Naha,1922,Ground coffee (regular coffee),per 100g,135
+2016-12,Naha,1922,Ground coffee (regular coffee),per 100g,135
+2017-01,Naha,1922,Ground coffee (regular coffee),per 100g,135
+2017-02,Naha,1922,Ground coffee (regular coffee),per 100g,135
+2017-03,Naha,1922,Ground coffee (regular coffee),per 100g,135
+2017-04,Naha,1922,Ground coffee (regular coffee),per 100g,135
+2017-05,Naha,1922,Ground coffee (regular coffee),per 100g,135
+2017-06,Naha,1922,Ground coffee (regular coffee),per 100g,135
+2017-07,Naha,1922,Ground coffee (regular coffee),per 100g,135
+2017-08,Naha,1922,Ground coffee (regular coffee),per 100g,135
+2017-09,Naha,1922,Ground coffee (regular coffee),per 100g,135
+2017-10,Naha,1922,Ground coffee (regular coffee),per 100g,135
+2017-11,Naha,1922,Ground coffee (regular coffee),per 100g,125
+2017-12,Naha,1922,Ground coffee (regular coffee),per 100g,130
+2018-01,Naha,1922,Ground coffee (regular coffee),per 100g,130
+2018-02,Naha,1922,Ground coffee (regular coffee),per 100g,130
+2018-03,Naha,1922,Ground coffee (regular coffee),per 100g,130
+2018-04,Naha,1922,Ground coffee (regular coffee),per 100g,135
+2018-05,Naha,1922,Ground coffee (regular coffee),per 100g,135
+2018-06,Naha,1922,Ground coffee (regular coffee),per 100g,135
+2018-07,Naha,1922,Ground coffee (regular coffee),per 100g,130
+2018-08,Naha,1922,Ground coffee (regular coffee),per 100g,130
+2018-09,Naha,1922,Ground coffee (regular coffee),per 100g,135
+2018-10,Naha,1922,Ground coffee (regular coffee),per 100g,135
+2018-11,Naha,1922,Ground coffee (regular coffee),per 100g,162
+2018-12,Naha,1922,Ground coffee (regular coffee),per 100g,162
+2019-01,Naha,1922,Ground coffee (regular coffee),per 100g,162
+2019-02,Naha,1922,Ground coffee (regular coffee),per 100g,148
+2019-03,Naha,1922,Ground coffee (regular coffee),per 100g,151
+2019-04,Naha,1922,Ground coffee (regular coffee),per 100g,156
+2019-05,Naha,1922,Ground coffee (regular coffee),per 100g,159
+2019-06,Naha,1922,Ground coffee (regular coffee),per 100g,151
+2019-07,Naha,1922,Ground coffee (regular coffee),per 100g,151
+2019-08,Naha,1922,Ground coffee (regular coffee),per 100g,151
+2019-09,Naha,1922,Ground coffee (regular coffee),per 100g,151
+2019-10,Naha,1922,Ground coffee (regular coffee),per 100g,145
+2019-11,Naha,1922,Ground coffee (regular coffee),per 100g,148
+2019-12,Naha,1922,Ground coffee (regular coffee),per 100g,148
+2020-01,Naha,1922,Ground coffee (regular coffee),per 100g,148
+2020-02,Naha,1922,Ground coffee (regular coffee),per 100g,151
+2020-03,Naha,1922,Ground coffee (regular coffee),per 100g,151
+2020-04,Naha,1922,Ground coffee (regular coffee),per 100g,151
+2020-05,Naha,1922,Ground coffee (regular coffee),per 100g,148
+2020-06,Naha,1922,Ground coffee (regular coffee),per 100g,148
+2020-07,Naha,1922,Ground coffee (regular coffee),per 100g,151
+2020-08,Naha,1922,Ground coffee (regular coffee),per 100g,151
+2020-09,Naha,1922,Ground coffee (regular coffee),per 100g,151
+2020-10,Naha,1922,Ground coffee (regular coffee),per 100g,151
+2020-11,Naha,1922,Ground coffee (regular coffee),per 100g,151
+2020-12,Naha,1922,Ground coffee (regular coffee),per 100g,151
+2021-01,Naha,1922,Ground coffee (regular coffee),per 100g,148
+2021-02,Naha,1922,Ground coffee (regular coffee),per 100g,151
+2021-03,Naha,1922,Ground coffee (regular coffee),per 100g,151
+2021-04,Naha,1922,Ground coffee (regular coffee),per 100g,148
+2021-05,Naha,1922,Ground coffee (regular coffee),per 100g,148
+2021-06,Naha,1922,Ground coffee (regular coffee),per 100g,151
+2021-07,Naha,1922,Ground coffee (regular coffee),per 100g,151
+2021-08,Naha,1922,Ground coffee (regular coffee),per 100g,151
+2021-09,Naha,1922,Ground coffee (regular coffee),per 100g,153
+2021-10,Naha,1922,Ground coffee (regular coffee),per 100g,161
+2021-11,Naha,1922,Ground coffee (regular coffee),per 100g,161
+2021-12,Naha,1922,Ground coffee (regular coffee),per 100g,159
+2022-01,Naha,1922,Ground coffee (regular coffee),per 100g,159
+2022-02,Naha,1922,Ground coffee (regular coffee),per 100g,159
+2022-03,Naha,1922,Ground coffee (regular coffee),per 100g,158
+2022-04,Naha,1922,Ground coffee (regular coffee),per 100g,163
+2022-05,Naha,1922,Ground coffee (regular coffee),per 100g,163
+2022-06,Naha,1922,Ground coffee (regular coffee),per 100g,163
+2022-07,Naha,1922,Ground coffee (regular coffee),per 100g,163
+2022-08,Naha,1922,Ground coffee (regular coffee),per 100g,163
+2022-09,Naha,1922,Ground coffee (regular coffee),per 100g,163
+2022-10,Naha,1922,Ground coffee (regular coffee),per 100g,163
+2022-11,Naha,1922,Ground coffee (regular coffee),per 100g,163
+2022-12,Naha,1922,Ground coffee (regular coffee),per 100g,163
+2023-01,Naha,1922,Ground coffee (regular coffee),per 100g,192
+2023-02,Naha,1922,Ground coffee (regular coffee),per 100g,192
+2023-03,Naha,1922,Ground coffee (regular coffee),per 100g,192
+2023-04,Naha,1922,Ground coffee (regular coffee),per 100g,192
+2023-05,Naha,1922,Ground coffee (regular coffee),per 100g,192
+2023-06,Naha,1922,Ground coffee (regular coffee),per 100g,192
+2023-07,Naha,1922,Ground coffee (regular coffee),per 100g,184
+2023-08,Naha,1922,Ground coffee (regular coffee),per 100g,184
+2023-09,Naha,1922,Ground coffee (regular coffee),per 100g,192
+2023-10,Naha,1922,Ground coffee (regular coffee),per 100g,192
+2023-11,Naha,1922,Ground coffee (regular coffee),per 100g,192
+2023-12,Naha,1922,Ground coffee (regular coffee),per 100g,192
+2024-01,Naha,1922,Ground coffee (regular coffee),per 100g,192
+2024-02,Naha,1922,Ground coffee (regular coffee),per 100g,188
+2024-03,Naha,1922,Ground coffee (regular coffee),per 100g,184
+2024-04,Naha,1922,Ground coffee (regular coffee),per 100g,192
+2024-05,Naha,1922,Ground coffee (regular coffee),per 100g,192
+2024-06,Naha,1922,Ground coffee (regular coffee),per 100g,192
+2024-07,Naha,1922,Ground coffee (regular coffee),per 100g,192
+2024-08,Naha,1922,Ground coffee (regular coffee),per 100g,192
+2024-09,Naha,1922,Ground coffee (regular coffee),per 100g,180
+2024-10,Naha,1922,Ground coffee (regular coffee),per 100g,188
+2024-11,Naha,1922,Ground coffee (regular coffee),per 100g,192
+2024-12,Naha,1922,Ground coffee (regular coffee),per 100g,203
+2025-01,Naha,1922,Ground coffee (regular coffee),per 100g,203
+2025-02,Naha,1922,Ground coffee (regular coffee),per 100g,215
+2025-03,Naha,1922,Ground coffee (regular coffee),per 100g,215
+2025-04,Naha,1922,Ground coffee (regular coffee),per 100g,253
+2025-05,Naha,1922,Ground coffee (regular coffee),per 100g,288
+2025-06,Naha,1922,Ground coffee (regular coffee),per 100g,276
+2025-07,Naha,1922,Ground coffee (regular coffee),per 100g,288
+2025-08,Naha,1922,Ground coffee (regular coffee),per 100g,283
+2025-09,Naha,1922,Ground coffee (regular coffee),per 100g,283
+2025-10,Naha,1922,Ground coffee (regular coffee),per 100g,288
+2025-11,Naha,1922,Ground coffee (regular coffee),per 100g,321
+2025-12,Naha,1922,Ground coffee (regular coffee),per 100g,332
+2026-01,Naha,1922,Ground coffee (regular coffee),per 100g,332
+2026-02,Naha,1922,Ground coffee (regular coffee),per 100g,303
+2026-03,Naha,1922,Ground coffee (regular coffee),per 100g,348
+2026-04,Naha,1922,Ground coffee (regular coffee),per 100g,321
+2026-05,Naha,1922,Ground coffee (regular coffee),per 100g,314
+2026-06,Naha,1922,Ground coffee (regular coffee),per 100g,343
+2026-07,Naha,1922,Ground coffee (regular coffee),per 100g,373
+2026-08,Naha,1922,Ground coffee (regular coffee),per 100g,314
+2010-01,Sapporo,1922,Ground coffee (regular coffee),per 100g,111
+2010-02,Sapporo,1922,Ground coffee (regular coffee),per 100g,150
+2010-03,Sapporo,1922,Ground coffee (regular coffee),per 100g,117
+2010-04,Sapporo,1922,Ground coffee (regular coffee),per 100g,150
+2010-05,Sapporo,1922,Ground coffee (regular coffee),per 100g,117
+2010-06,Sapporo,1922,Ground coffee (regular coffee),per 100g,112
+2010-07,Sapporo,1922,Ground coffee (regular coffee),per 100g,105
+2010-08,Sapporo,1922,Ground coffee (regular coffee),per 100g,115
+2010-09,Sapporo,1922,Ground coffee (regular coffee),per 100g,115
+2010-10,Sapporo,1922,Ground coffee (regular coffee),per 100g,101
+2010-11,Sapporo,1922,Ground coffee (regular coffee),per 100g,104
+2010-12,Sapporo,1922,Ground coffee (regular coffee),per 100g,105
+2011-01,Sapporo,1922,Ground coffee (regular coffee),per 100g,98
+2011-02,Sapporo,1922,Ground coffee (regular coffee),per 100g,106
+2011-03,Sapporo,1922,Ground coffee (regular coffee),per 100g,116
+2011-04,Sapporo,1922,Ground coffee (regular coffee),per 100g,160
+2011-05,Sapporo,1922,Ground coffee (regular coffee),per 100g,161
+2011-06,Sapporo,1922,Ground coffee (regular coffee),per 100g,123
+2011-07,Sapporo,1922,Ground coffee (regular coffee),per 100g,125
+2011-08,Sapporo,1922,Ground coffee (regular coffee),per 100g,111
+2011-09,Sapporo,1922,Ground coffee (regular coffee),per 100g,123
+2011-10,Sapporo,1922,Ground coffee (regular coffee),per 100g,123
+2011-11,Sapporo,1922,Ground coffee (regular coffee),per 100g,123
+2011-12,Sapporo,1922,Ground coffee (regular coffee),per 100g,116
+2012-01,Sapporo,1922,Ground coffee (regular coffee),per 100g,116
+2012-02,Sapporo,1922,Ground coffee (regular coffee),per 100g,125
+2012-03,Sapporo,1922,Ground coffee (regular coffee),per 100g,116
+2012-04,Sapporo,1922,Ground coffee (regular coffee),per 100g,124
+2012-05,Sapporo,1922,Ground coffee (regular coffee),per 100g,124
+2012-06,Sapporo,1922,Ground coffee (regular coffee),per 100g,123
+2012-07,Sapporo,1922,Ground coffee (regular coffee),per 100g,114
+2012-08,Sapporo,1922,Ground coffee (regular coffee),per 100g,120
+2012-09,Sapporo,1922,Ground coffee (regular coffee),per 100g,123
+2012-10,Sapporo,1922,Ground coffee (regular coffee),per 100g,118
+2012-11,Sapporo,1922,Ground coffee (regular coffee),per 100g,118
+2012-12,Sapporo,1922,Ground coffee (regular coffee),per 100g,118
+2013-01,Sapporo,1922,Ground coffee (regular coffee),per 100g,120
+2013-02,Sapporo,1922,Ground coffee (regular coffee),per 100g,120
+2013-03,Sapporo,1922,Ground coffee (regular coffee),per 100g,118
+2013-04,Sapporo,1922,Ground coffee (regular coffee),per 100g,125
+2013-05,Sapporo,1922,Ground coffee (regular coffee),per 100g,122
+2013-06,Sapporo,1922,Ground coffee (regular coffee),per 100g,162
+2013-07,Sapporo,1922,Ground coffee (regular coffee),per 100g,162
+2013-08,Sapporo,1922,Ground coffee (regular coffee),per 100g,113
+2013-09,Sapporo,1922,Ground coffee (regular coffee),per 100g,108
+2013-10,Sapporo,1922,Ground coffee (regular coffee),per 100g,113
+2013-11,Sapporo,1922,Ground coffee (regular coffee),per 100g,125
+2013-12,Sapporo,1922,Ground coffee (regular coffee),per 100g,111
+2014-01,Sapporo,1922,Ground coffee (regular coffee),per 100g,118
+2014-02,Sapporo,1922,Ground coffee (regular coffee),per 100g,111
+2014-03,Sapporo,1922,Ground coffee (regular coffee),per 100g,111
+2014-04,Sapporo,1922,Ground coffee (regular coffee),per 100g,124
+2014-05,Sapporo,1922,Ground coffee (regular coffee),per 100g,124
+2014-06,Sapporo,1922,Ground coffee (regular coffee),per 100g,124
+2014-07,Sapporo,1922,Ground coffee (regular coffee),per 100g,122
+2014-08,Sapporo,1922,Ground coffee (regular coffee),per 100g,110
+2014-09,Sapporo,1922,Ground coffee (regular coffee),per 100g,113
+2014-10,Sapporo,1922,Ground coffee (regular coffee),per 100g,116
+2014-11,Sapporo,1922,Ground coffee (regular coffee),per 100g,113
+2014-12,Sapporo,1922,Ground coffee (regular coffee),per 100g,115
+2015-01,Sapporo,1922,Ground coffee (regular coffee),per 100g,120
+2015-02,Sapporo,1922,Ground coffee (regular coffee),per 100g,114
+2015-03,Sapporo,1922,Ground coffee (regular coffee),per 100g,136
+2015-04,Sapporo,1922,Ground coffee (regular coffee),per 100g,138
+2015-05,Sapporo,1922,Ground coffee (regular coffee),per 100g,150
+2015-06,Sapporo,1922,Ground coffee (regular coffee),per 100g,142
+2015-07,Sapporo,1922,Ground coffee (regular coffee),per 100g,142
+2015-08,Sapporo,1922,Ground coffee (regular coffee),per 100g,142
+2015-09,Sapporo,1922,Ground coffee (regular coffee),per 100g,150
+2015-10,Sapporo,1922,Ground coffee (regular coffee),per 100g,138
+2015-11,Sapporo,1922,Ground coffee (regular coffee),per 100g,150
+2015-12,Sapporo,1922,Ground coffee (regular coffee),per 100g,150
+2016-01,Sapporo,1922,Ground coffee (regular coffee),per 100g,150
+2016-02,Sapporo,1922,Ground coffee (regular coffee),per 100g,150
+2016-03,Sapporo,1922,Ground coffee (regular coffee),per 100g,150
+2016-04,Sapporo,1922,Ground coffee (regular coffee),per 100g,150
+2016-05,Sapporo,1922,Ground coffee (regular coffee),per 100g,133
+2016-06,Sapporo,1922,Ground coffee (regular coffee),per 100g,150
+2016-07,Sapporo,1922,Ground coffee (regular coffee),per 100g,150
+2016-08,Sapporo,1922,Ground coffee (regular coffee),per 100g,150
+2016-09,Sapporo,1922,Ground coffee (regular coffee),per 100g,133
+2016-10,Sapporo,1922,Ground coffee (regular coffee),per 100g,129
+2016-11,Sapporo,1922,Ground coffee (regular coffee),per 100g,129
+2016-12,Sapporo,1922,Ground coffee (regular coffee),per 100g,150
+2017-01,Sapporo,1922,Ground coffee (regular coffee),per 100g,129
+2017-02,Sapporo,1922,Ground coffee (regular coffee),per 100g,120
+2017-03,Sapporo,1922,Ground coffee (regular coffee),per 100g,123
+2017-04,Sapporo,1922,Ground coffee (regular coffee),per 100g,133
+2017-05,Sapporo,1922,Ground coffee (regular coffee),per 100g,118
+2017-06,Sapporo,1922,Ground coffee (regular coffee),per 100g,126
+2017-07,Sapporo,1922,Ground coffee (regular coffee),per 100g,126
+2017-08,Sapporo,1922,Ground coffee (regular coffee),per 100g,150
+2017-09,Sapporo,1922,Ground coffee (regular coffee),per 100g,150
+2017-10,Sapporo,1922,Ground coffee (regular coffee),per 100g,133
+2017-11,Sapporo,1922,Ground coffee (regular coffee),per 100g,133
+2017-12,Sapporo,1922,Ground coffee (regular coffee),per 100g,150
+2018-01,Sapporo,1922,Ground coffee (regular coffee),per 100g,129
+2018-02,Sapporo,1922,Ground coffee (regular coffee),per 100g,126
+2018-03,Sapporo,1922,Ground coffee (regular coffee),per 100g,126
+2018-04,Sapporo,1922,Ground coffee (regular coffee),per 100g,142
+2018-05,Sapporo,1922,Ground coffee (regular coffee),per 100g,137
+2018-06,Sapporo,1922,Ground coffee (regular coffee),per 100g,137
+2018-07,Sapporo,1922,Ground coffee (regular coffee),per 100g,121
+2018-08,Sapporo,1922,Ground coffee (regular coffee),per 100g,113
+2018-09,Sapporo,1922,Ground coffee (regular coffee),per 100g,134
+2018-10,Sapporo,1922,Ground coffee (regular coffee),per 100g,132
+2018-11,Sapporo,1922,Ground coffee (regular coffee),per 100g,150
+2018-12,Sapporo,1922,Ground coffee (regular coffee),per 100g,150
+2019-01,Sapporo,1922,Ground coffee (regular coffee),per 100g,132
+2019-02,Sapporo,1922,Ground coffee (regular coffee),per 100g,132
+2019-03,Sapporo,1922,Ground coffee (regular coffee),per 100g,130
+2019-04,Sapporo,1922,Ground coffee (regular coffee),per 100g,150
+2019-05,Sapporo,1922,Ground coffee (regular coffee),per 100g,113
+2019-06,Sapporo,1922,Ground coffee (regular coffee),per 100g,113
+2019-07,Sapporo,1922,Ground coffee (regular coffee),per 100g,150
+2019-08,Sapporo,1922,Ground coffee (regular coffee),per 100g,150
+2019-09,Sapporo,1922,Ground coffee (regular coffee),per 100g,150
+2019-10,Sapporo,1922,Ground coffee (regular coffee),per 100g,117
+2019-11,Sapporo,1922,Ground coffee (regular coffee),per 100g,150
+2019-12,Sapporo,1922,Ground coffee (regular coffee),per 100g,150
+2020-01,Sapporo,1922,Ground coffee (regular coffee),per 100g,150
+2020-02,Sapporo,1922,Ground coffee (regular coffee),per 100g,150
+2020-03,Sapporo,1922,Ground coffee (regular coffee),per 100g,130
+2020-04,Sapporo,1922,Ground coffee (regular coffee),per 100g,150
+2020-05,Sapporo,1922,Ground coffee (regular coffee),per 100g,113
+2020-06,Sapporo,1922,Ground coffee (regular coffee),per 100g,133
+2020-07,Sapporo,1922,Ground coffee (regular coffee),per 100g,113
+2020-08,Sapporo,1922,Ground coffee (regular coffee),per 100g,133
+2020-09,Sapporo,1922,Ground coffee (regular coffee),per 100g,125
+2020-10,Sapporo,1922,Ground coffee (regular coffee),per 100g,133
+2020-11,Sapporo,1922,Ground coffee (regular coffee),per 100g,125
+2020-12,Sapporo,1922,Ground coffee (regular coffee),per 100g,133
+2021-01,Sapporo,1922,Ground coffee (regular coffee),per 100g,120
+2021-02,Sapporo,1922,Ground coffee (regular coffee),per 100g,133
+2021-03,Sapporo,1922,Ground coffee (regular coffee),per 100g,134
+2021-04,Sapporo,1922,Ground coffee (regular coffee),per 100g,130
+2021-05,Sapporo,1922,Ground coffee (regular coffee),per 100g,125
+2021-06,Sapporo,1922,Ground coffee (regular coffee),per 100g,150
+2021-07,Sapporo,1922,Ground coffee (regular coffee),per 100g,125
+2021-08,Sapporo,1922,Ground coffee (regular coffee),per 100g,113
+2021-09,Sapporo,1922,Ground coffee (regular coffee),per 100g,148
+2021-10,Sapporo,1922,Ground coffee (regular coffee),per 100g,182
+2021-11,Sapporo,1922,Ground coffee (regular coffee),per 100g,156
+2021-12,Sapporo,1922,Ground coffee (regular coffee),per 100g,145
+2022-01,Sapporo,1922,Ground coffee (regular coffee),per 100g,145
+2022-02,Sapporo,1922,Ground coffee (regular coffee),per 100g,137
+2022-03,Sapporo,1922,Ground coffee (regular coffee),per 100g,156
+2022-04,Sapporo,1922,Ground coffee (regular coffee),per 100g,173
+2022-05,Sapporo,1922,Ground coffee (regular coffee),per 100g,168
+2022-06,Sapporo,1922,Ground coffee (regular coffee),per 100g,162
+2022-07,Sapporo,1922,Ground coffee (regular coffee),per 100g,148
+2022-08,Sapporo,1922,Ground coffee (regular coffee),per 100g,148
+2022-09,Sapporo,1922,Ground coffee (regular coffee),per 100g,184
+2022-10,Sapporo,1922,Ground coffee (regular coffee),per 100g,167
+2022-11,Sapporo,1922,Ground coffee (regular coffee),per 100g,184
+2022-12,Sapporo,1922,Ground coffee (regular coffee),per 100g,174
+2023-01,Sapporo,1922,Ground coffee (regular coffee),per 100g,161
+2023-02,Sapporo,1922,Ground coffee (regular coffee),per 100g,192
+2023-03,Sapporo,1922,Ground coffee (regular coffee),per 100g,167
+2023-04,Sapporo,1922,Ground coffee (regular coffee),per 100g,165
+2023-05,Sapporo,1922,Ground coffee (regular coffee),per 100g,192
+2023-06,Sapporo,1922,Ground coffee (regular coffee),per 100g,192
+2023-07,Sapporo,1922,Ground coffee (regular coffee),per 100g,192
+2023-08,Sapporo,1922,Ground coffee (regular coffee),per 100g,192
+2023-09,Sapporo,1922,Ground coffee (regular coffee),per 100g,192
+2023-10,Sapporo,1922,Ground coffee (regular coffee),per 100g,192
+2023-11,Sapporo,1922,Ground coffee (regular coffee),per 100g,184
+2023-12,Sapporo,1922,Ground coffee (regular coffee),per 100g,185
+2024-01,Sapporo,1922,Ground coffee (regular coffee),per 100g,185
+2024-02,Sapporo,1922,Ground coffee (regular coffee),per 100g,178
+2024-03,Sapporo,1922,Ground coffee (regular coffee),per 100g,192
+2024-04,Sapporo,1922,Ground coffee (regular coffee),per 100g,192
+2024-05,Sapporo,1922,Ground coffee (regular coffee),per 100g,192
+2024-06,Sapporo,1922,Ground coffee (regular coffee),per 100g,174
+2024-07,Sapporo,1922,Ground coffee (regular coffee),per 100g,161
+2024-08,Sapporo,1922,Ground coffee (regular coffee),per 100g,166
+2024-09,Sapporo,1922,Ground coffee (regular coffee),per 100g,174
+2024-10,Sapporo,1922,Ground coffee (regular coffee),per 100g,258
+2024-11,Sapporo,1922,Ground coffee (regular coffee),per 100g,258
+2024-12,Sapporo,1922,Ground coffee (regular coffee),per 100g,239
+2025-01,Sapporo,1922,Ground coffee (regular coffee),per 100g,228
+2025-02,Sapporo,1922,Ground coffee (regular coffee),per 100g,258
+2025-03,Sapporo,1922,Ground coffee (regular coffee),per 100g,215
+2025-04,Sapporo,1922,Ground coffee (regular coffee),per 100g,258
+2025-05,Sapporo,1922,Ground coffee (regular coffee),per 100g,211
+2025-06,Sapporo,1922,Ground coffee (regular coffee),per 100g,215
+2025-07,Sapporo,1922,Ground coffee (regular coffee),per 100g,215
+2025-08,Sapporo,1922,Ground coffee (regular coffee),per 100g,236
+2025-09,Sapporo,1922,Ground coffee (regular coffee),per 100g,352
+2025-10,Sapporo,1922,Ground coffee (regular coffee),per 100g,359
+2025-11,Sapporo,1922,Ground coffee (regular coffee),per 100g,359
+2025-12,Sapporo,1922,Ground coffee (regular coffee),per 100g,298
+2026-01,Sapporo,1922,Ground coffee (regular coffee),per 100g,331
+2026-02,Sapporo,1922,Ground coffee (regular coffee),per 100g,359
+2026-03,Sapporo,1922,Ground coffee (regular coffee),per 100g,359
+2026-04,Sapporo,1922,Ground coffee (regular coffee),per 100g,359
+2026-05,Sapporo,1922,Ground coffee (regular coffee),per 100g,331
+2026-06,Sapporo,1922,Ground coffee (regular coffee),per 100g,310
+2026-07,Sapporo,1922,Ground coffee (regular coffee),per 100g,359
+2026-08,Sapporo,1922,Ground coffee (regular coffee),per 100g,359
+2010-01,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,125
+2010-02,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,122
+2010-03,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,134
+2010-04,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,122
+2010-05,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,138
+2010-06,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,124
+2010-07,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,131
+2010-08,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,122
+2010-09,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,120
+2010-10,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,118
+2010-11,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,117
+2010-12,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,110
+2011-01,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,116
+2011-02,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,116
+2011-03,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,118
+2011-04,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,135
+2011-05,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,140
+2011-06,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,137
+2011-07,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,133
+2011-08,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,136
+2011-09,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,126
+2011-10,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,128
+2011-11,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,130
+2011-12,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,135
+2012-01,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,135
+2012-02,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,131
+2012-03,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,128
+2012-04,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,135
+2012-05,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,136
+2012-06,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,136
+2012-07,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,129
+2012-08,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,133
+2012-09,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,137
+2012-10,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,135
+2012-11,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,133
+2012-12,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,129
+2013-01,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,131
+2013-02,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,133
+2013-03,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,128
+2013-04,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,130
+2013-05,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,135
+2013-06,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,129
+2013-07,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,129
+2013-08,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,134
+2013-09,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,133
+2013-10,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,128
+2013-11,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,123
+2013-12,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,127
+2014-01,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,129
+2014-02,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,131
+2014-03,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,130
+2014-04,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,133
+2014-05,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,136
+2014-06,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,134
+2014-07,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,130
+2014-08,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,126
+2014-09,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,133
+2014-10,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,134
+2014-11,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,139
+2014-12,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,135
+2015-01,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,142
+2015-02,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,144
+2015-03,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,147
+2015-04,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,147
+2015-05,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,151
+2015-06,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,151
+2015-07,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,149
+2015-08,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,153
+2015-09,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,154
+2015-10,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,154
+2015-11,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,151
+2015-12,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,151
+2016-01,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,150
+2016-02,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,150
+2016-03,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,150
+2016-04,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,150
+2016-05,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,147
+2016-06,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,148
+2016-07,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,146
+2016-08,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,150
+2016-09,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,149
+2016-10,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,147
+2016-11,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,147
+2016-12,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,150
+2017-01,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,149
+2017-02,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,149
+2017-03,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,149
+2017-04,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,151
+2017-05,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,150
+2017-06,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,150
+2017-07,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,148
+2017-08,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,148
+2017-09,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,149
+2017-10,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,137
+2017-11,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,142
+2017-12,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,144
+2018-01,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,141
+2018-02,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,140
+2018-03,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,140
+2018-04,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,139
+2018-05,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,140
+2018-06,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,141
+2018-07,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,144
+2018-08,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,140
+2018-09,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,143
+2018-10,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,141
+2018-11,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,143
+2018-12,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,142
+2019-01,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,141
+2019-02,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,139
+2019-03,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,137
+2019-04,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,139
+2019-05,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,137
+2019-06,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,132
+2019-07,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,137
+2019-08,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,140
+2019-09,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,140
+2019-10,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,131
+2019-11,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,138
+2019-12,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,136
+2020-01,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,139
+2020-02,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,135
+2020-03,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,135
+2020-04,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,139
+2020-05,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,137
+2020-06,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,136
+2020-07,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,137
+2020-08,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,139
+2020-09,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,136
+2020-10,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,132
+2020-11,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,137
+2020-12,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,127
+2021-01,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,126
+2021-02,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,137
+2021-03,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,138
+2021-04,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,132
+2021-05,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,139
+2021-06,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,128
+2021-07,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,132
+2021-08,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,138
+2021-09,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,139
+2021-10,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,158
+2021-11,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,156
+2021-12,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,153
+2022-01,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,154
+2022-02,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,153
+2022-03,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,152
+2022-04,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,160
+2022-05,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,156
+2022-06,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,152
+2022-07,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,151
+2022-08,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,159
+2022-09,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,155
+2022-10,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,180
+2022-11,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,174
+2022-12,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,176
+2023-01,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,180
+2023-02,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,183
+2023-03,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,172
+2023-04,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,177
+2023-05,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,175
+2023-06,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,173
+2023-07,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,186
+2023-08,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,176
+2023-09,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,174
+2023-10,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,180
+2023-11,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,176
+2023-12,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,174
+2024-01,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,176
+2024-02,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,185
+2024-03,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,178
+2024-04,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,183
+2024-05,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,182
+2024-06,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,175
+2024-07,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,178
+2024-08,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,183
+2024-09,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,188
+2024-10,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,210
+2024-11,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,217
+2024-12,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,209
+2025-01,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,210
+2025-02,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,215
+2025-03,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,211
+2025-04,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,219
+2025-05,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,221
+2025-06,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,263
+2025-07,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,273
+2025-08,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,267
+2025-09,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,278
+2025-10,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,346
+2025-11,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,354
+2025-12,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,335
+2026-01,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,349
+2026-02,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,353
+2026-03,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,342
+2026-04,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,350
+2026-05,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,322
+2026-06,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,317
+2026-07,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,330
+2026-08,Tokyo (23 wards),1922,Ground coffee (regular coffee),per 100g,350
+2010-01,Kyoto,2162,"Cafe coffee, coffee shop",per cup,339
+2010-02,Kyoto,2162,"Cafe coffee, coffee shop",per cup,339
+2010-03,Kyoto,2162,"Cafe coffee, coffee shop",per cup,339
+2010-04,Kyoto,2162,"Cafe coffee, coffee shop",per cup,339
+2010-05,Kyoto,2162,"Cafe coffee, coffee shop",per cup,339
+2010-06,Kyoto,2162,"Cafe coffee, coffee shop",per cup,339
+2010-07,Kyoto,2162,"Cafe coffee, coffee shop",per cup,339
+2010-08,Kyoto,2162,"Cafe coffee, coffee shop",per cup,346
+2010-09,Kyoto,2162,"Cafe coffee, coffee shop",per cup,346
+2010-10,Kyoto,2162,"Cafe coffee, coffee shop",per cup,346
+2010-11,Kyoto,2162,"Cafe coffee, coffee shop",per cup,346
+2010-12,Kyoto,2162,"Cafe coffee, coffee shop",per cup,356
+2011-01,Kyoto,2162,"Cafe coffee, coffee shop",per cup,360
+2011-02,Kyoto,2162,"Cafe coffee, coffee shop",per cup,360
+2011-03,Kyoto,2162,"Cafe coffee, coffee shop",per cup,360
+2011-04,Kyoto,2162,"Cafe coffee, coffee shop",per cup,360
+2011-05,Kyoto,2162,"Cafe coffee, coffee shop",per cup,360
+2011-06,Kyoto,2162,"Cafe coffee, coffee shop",per cup,363
+2011-07,Kyoto,2162,"Cafe coffee, coffee shop",per cup,363
+2011-08,Kyoto,2162,"Cafe coffee, coffee shop",per cup,363
+2011-09,Kyoto,2162,"Cafe coffee, coffee shop",per cup,363
+2011-10,Kyoto,2162,"Cafe coffee, coffee shop",per cup,363
+2011-11,Kyoto,2162,"Cafe coffee, coffee shop",per cup,363
+2011-12,Kyoto,2162,"Cafe coffee, coffee shop",per cup,363
+2012-01,Kyoto,2162,"Cafe coffee, coffee shop",per cup,363
+2012-02,Kyoto,2162,"Cafe coffee, coffee shop",per cup,363
+2012-03,Kyoto,2162,"Cafe coffee, coffee shop",per cup,368
+2012-04,Kyoto,2162,"Cafe coffee, coffee shop",per cup,368
+2012-05,Kyoto,2162,"Cafe coffee, coffee shop",per cup,372
+2012-06,Kyoto,2162,"Cafe coffee, coffee shop",per cup,372
+2012-07,Kyoto,2162,"Cafe coffee, coffee shop",per cup,372
+2012-08,Kyoto,2162,"Cafe coffee, coffee shop",per cup,372
+2012-09,Kyoto,2162,"Cafe coffee, coffee shop",per cup,372
+2012-10,Kyoto,2162,"Cafe coffee, coffee shop",per cup,372
+2012-11,Kyoto,2162,"Cafe coffee, coffee shop",per cup,372
+2012-12,Kyoto,2162,"Cafe coffee, coffee shop",per cup,372
+2013-01,Kyoto,2162,"Cafe coffee, coffee shop",per cup,372
+2013-02,Kyoto,2162,"Cafe coffee, coffee shop",per cup,372
+2013-03,Kyoto,2162,"Cafe coffee, coffee shop",per cup,372
+2013-04,Kyoto,2162,"Cafe coffee, coffee shop",per cup,372
+2013-05,Kyoto,2162,"Cafe coffee, coffee shop",per cup,388
+2013-06,Kyoto,2162,"Cafe coffee, coffee shop",per cup,388
+2013-07,Kyoto,2162,"Cafe coffee, coffee shop",per cup,388
+2013-08,Kyoto,2162,"Cafe coffee, coffee shop",per cup,388
+2013-09,Kyoto,2162,"Cafe coffee, coffee shop",per cup,388
+2013-10,Kyoto,2162,"Cafe coffee, coffee shop",per cup,388
+2013-11,Kyoto,2162,"Cafe coffee, coffee shop",per cup,388
+2013-12,Kyoto,2162,"Cafe coffee, coffee shop",per cup,388
+2014-01,Kyoto,2162,"Cafe coffee, coffee shop",per cup,388
+2014-02,Kyoto,2162,"Cafe coffee, coffee shop",per cup,388
+2014-03,Kyoto,2162,"Cafe coffee, coffee shop",per cup,388
+2014-04,Kyoto,2162,"Cafe coffee, coffee shop",per cup,401
+2014-05,Kyoto,2162,"Cafe coffee, coffee shop",per cup,401
+2014-06,Kyoto,2162,"Cafe coffee, coffee shop",per cup,401
+2014-07,Kyoto,2162,"Cafe coffee, coffee shop",per cup,401
+2014-08,Kyoto,2162,"Cafe coffee, coffee shop",per cup,401
+2014-09,Kyoto,2162,"Cafe coffee, coffee shop",per cup,401
+2014-10,Kyoto,2162,"Cafe coffee, coffee shop",per cup,401
+2014-11,Kyoto,2162,"Cafe coffee, coffee shop",per cup,401
+2014-12,Kyoto,2162,"Cafe coffee, coffee shop",per cup,410
+2015-01,Kyoto,2162,"Cafe coffee, coffee shop",per cup,410
+2015-02,Kyoto,2162,"Cafe coffee, coffee shop",per cup,410
+2015-03,Kyoto,2162,"Cafe coffee, coffee shop",per cup,415
+2015-04,Kyoto,2162,"Cafe coffee, coffee shop",per cup,415
+2015-05,Kyoto,2162,"Cafe coffee, coffee shop",per cup,415
+2015-06,Kyoto,2162,"Cafe coffee, coffee shop",per cup,415
+2015-07,Kyoto,2162,"Cafe coffee, coffee shop",per cup,415
+2015-08,Kyoto,2162,"Cafe coffee, coffee shop",per cup,415
+2015-09,Kyoto,2162,"Cafe coffee, coffee shop",per cup,415
+2015-10,Kyoto,2162,"Cafe coffee, coffee shop",per cup,415
+2015-11,Kyoto,2162,"Cafe coffee, coffee shop",per cup,415
+2015-12,Kyoto,2162,"Cafe coffee, coffee shop",per cup,415
+2016-01,Kyoto,2162,"Cafe coffee, coffee shop",per cup,415
+2016-02,Kyoto,2162,"Cafe coffee, coffee shop",per cup,415
+2016-03,Kyoto,2162,"Cafe coffee, coffee shop",per cup,415
+2016-04,Kyoto,2162,"Cafe coffee, coffee shop",per cup,415
+2016-05,Kyoto,2162,"Cafe coffee, coffee shop",per cup,415
+2016-06,Kyoto,2162,"Cafe coffee, coffee shop",per cup,415
+2016-07,Kyoto,2162,"Cafe coffee, coffee shop",per cup,415
+2016-08,Kyoto,2162,"Cafe coffee, coffee shop",per cup,415
+2016-09,Kyoto,2162,"Cafe coffee, coffee shop",per cup,415
+2016-10,Kyoto,2162,"Cafe coffee, coffee shop",per cup,415
+2016-11,Kyoto,2162,"Cafe coffee, coffee shop",per cup,415
+2016-12,Kyoto,2162,"Cafe coffee, coffee shop",per cup,415
+2017-01,Kyoto,2162,"Cafe coffee, coffee shop",per cup,415
+2017-02,Kyoto,2162,"Cafe coffee, coffee shop",per cup,415
+2017-03,Kyoto,2162,"Cafe coffee, coffee shop",per cup,415
+2017-04,Kyoto,2162,"Cafe coffee, coffee shop",per cup,415
+2017-05,Kyoto,2162,"Cafe coffee, coffee shop",per cup,415
+2017-06,Kyoto,2162,"Cafe coffee, coffee shop",per cup,415
+2017-07,Kyoto,2162,"Cafe coffee, coffee shop",per cup,415
+2017-08,Kyoto,2162,"Cafe coffee, coffee shop",per cup,415
+2017-09,Kyoto,2162,"Cafe coffee, coffee shop",per cup,415
+2017-10,Kyoto,2162,"Cafe coffee, coffee shop",per cup,415
+2017-11,Kyoto,2162,"Cafe coffee, coffee shop",per cup,415
+2017-12,Kyoto,2162,"Cafe coffee, coffee shop",per cup,415
+2018-01,Kyoto,2162,"Cafe coffee, coffee shop",per cup,415
+2018-02,Kyoto,2162,"Cafe coffee, coffee shop",per cup,415
+2018-03,Kyoto,2162,"Cafe coffee, coffee shop",per cup,415
+2018-04,Kyoto,2162,"Cafe coffee, coffee shop",per cup,415
+2018-05,Kyoto,2162,"Cafe coffee, coffee shop",per cup,415
+2018-06,Kyoto,2162,"Cafe coffee, coffee shop",per cup,418
+2018-07,Kyoto,2162,"Cafe coffee, coffee shop",per cup,420
+2018-08,Kyoto,2162,"Cafe coffee, coffee shop",per cup,420
+2018-09,Kyoto,2162,"Cafe coffee, coffee shop",per cup,420
+2018-10,Kyoto,2162,"Cafe coffee, coffee shop",per cup,420
+2018-11,Kyoto,2162,"Cafe coffee, coffee shop",per cup,420
+2018-12,Kyoto,2162,"Cafe coffee, coffee shop",per cup,420
+2019-01,Kyoto,2162,"Cafe coffee, coffee shop",per cup,420
+2019-02,Kyoto,2162,"Cafe coffee, coffee shop",per cup,420
+2019-03,Kyoto,2162,"Cafe coffee, coffee shop",per cup,420
+2019-04,Kyoto,2162,"Cafe coffee, coffee shop",per cup,420
+2019-05,Kyoto,2162,"Cafe coffee, coffee shop",per cup,420
+2019-06,Kyoto,2162,"Cafe coffee, coffee shop",per cup,420
+2019-07,Kyoto,2162,"Cafe coffee, coffee shop",per cup,420
+2019-08,Kyoto,2162,"Cafe coffee, coffee shop",per cup,420
+2019-09,Kyoto,2162,"Cafe coffee, coffee shop",per cup,420
+2019-10,Kyoto,2162,"Cafe coffee, coffee shop",per cup,431
+2019-11,Kyoto,2162,"Cafe coffee, coffee shop",per cup,431
+2019-12,Kyoto,2162,"Cafe coffee, coffee shop",per cup,431
+2020-01,Kyoto,2162,"Cafe coffee, coffee shop",per cup,431
+2020-02,Kyoto,2162,"Cafe coffee, coffee shop",per cup,431
+2020-03,Kyoto,2162,"Cafe coffee, coffee shop",per cup,448
+2020-04,Kyoto,2162,"Cafe coffee, coffee shop",per cup,434
+2020-05,Kyoto,2162,"Cafe coffee, coffee shop",per cup,425
+2020-06,Kyoto,2162,"Cafe coffee, coffee shop",per cup,448
+2020-07,Kyoto,2162,"Cafe coffee, coffee shop",per cup,448
+2020-08,Kyoto,2162,"Cafe coffee, coffee shop",per cup,448
+2020-09,Kyoto,2162,"Cafe coffee, coffee shop",per cup,448
+2020-10,Kyoto,2162,"Cafe coffee, coffee shop",per cup,448
+2020-11,Kyoto,2162,"Cafe coffee, coffee shop",per cup,448
+2020-12,Kyoto,2162,"Cafe coffee, coffee shop",per cup,448
+2021-01,Kyoto,2162,"Cafe coffee, coffee shop",per cup,448
+2021-02,Kyoto,2162,"Cafe coffee, coffee shop",per cup,448
+2021-03,Kyoto,2162,"Cafe coffee, coffee shop",per cup,448
+2021-04,Kyoto,2162,"Cafe coffee, coffee shop",per cup,448
+2021-05,Kyoto,2162,"Cafe coffee, coffee shop",per cup,448
+2021-06,Kyoto,2162,"Cafe coffee, coffee shop",per cup,448
+2021-07,Kyoto,2162,"Cafe coffee, coffee shop",per cup,448
+2021-08,Kyoto,2162,"Cafe coffee, coffee shop",per cup,448
+2021-09,Kyoto,2162,"Cafe coffee, coffee shop",per cup,442
+2021-10,Kyoto,2162,"Cafe coffee, coffee shop",per cup,452
+2021-11,Kyoto,2162,"Cafe coffee, coffee shop",per cup,452
+2021-12,Kyoto,2162,"Cafe coffee, coffee shop",per cup,452
+2022-01,Kyoto,2162,"Cafe coffee, coffee shop",per cup,452
+2022-02,Kyoto,2162,"Cafe coffee, coffee shop",per cup,452
+2022-03,Kyoto,2162,"Cafe coffee, coffee shop",per cup,452
+2022-04,Kyoto,2162,"Cafe coffee, coffee shop",per cup,452
+2022-05,Kyoto,2162,"Cafe coffee, coffee shop",per cup,470
+2022-06,Kyoto,2162,"Cafe coffee, coffee shop",per cup,470
+2022-07,Kyoto,2162,"Cafe coffee, coffee shop",per cup,470
+2022-08,Kyoto,2162,"Cafe coffee, coffee shop",per cup,470
+2022-09,Kyoto,2162,"Cafe coffee, coffee shop",per cup,470
+2022-10,Kyoto,2162,"Cafe coffee, coffee shop",per cup,470
+2022-11,Kyoto,2162,"Cafe coffee, coffee shop",per cup,478
+2022-12,Kyoto,2162,"Cafe coffee, coffee shop",per cup,482
+2023-01,Kyoto,2162,"Cafe coffee, coffee shop",per cup,482
+2023-02,Kyoto,2162,"Cafe coffee, coffee shop",per cup,485
+2023-03,Kyoto,2162,"Cafe coffee, coffee shop",per cup,485
+2023-04,Kyoto,2162,"Cafe coffee, coffee shop",per cup,485
+2023-05,Kyoto,2162,"Cafe coffee, coffee shop",per cup,502
+2023-06,Kyoto,2162,"Cafe coffee, coffee shop",per cup,502
+2023-07,Kyoto,2162,"Cafe coffee, coffee shop",per cup,488
+2023-08,Kyoto,2162,"Cafe coffee, coffee shop",per cup,488
+2023-09,Kyoto,2162,"Cafe coffee, coffee shop",per cup,488
+2023-10,Kyoto,2162,"Cafe coffee, coffee shop",per cup,488
+2023-11,Kyoto,2162,"Cafe coffee, coffee shop",per cup,488
+2023-12,Kyoto,2162,"Cafe coffee, coffee shop",per cup,540
+2024-01,Kyoto,2162,"Cafe coffee, coffee shop",per cup,535
+2024-02,Kyoto,2162,"Cafe coffee, coffee shop",per cup,535
+2024-03,Kyoto,2162,"Cafe coffee, coffee shop",per cup,535
+2024-04,Kyoto,2162,"Cafe coffee, coffee shop",per cup,540
+2024-05,Kyoto,2162,"Cafe coffee, coffee shop",per cup,540
+2024-06,Kyoto,2162,"Cafe coffee, coffee shop",per cup,540
+2024-07,Kyoto,2162,"Cafe coffee, coffee shop",per cup,545
+2024-08,Kyoto,2162,"Cafe coffee, coffee shop",per cup,545
+2024-09,Kyoto,2162,"Cafe coffee, coffee shop",per cup,545
+2024-10,Kyoto,2162,"Cafe coffee, coffee shop",per cup,545
+2024-11,Kyoto,2162,"Cafe coffee, coffee shop",per cup,548
+2024-12,Kyoto,2162,"Cafe coffee, coffee shop",per cup,557
+2025-01,Kyoto,2162,"Cafe coffee, coffee shop",per cup,557
+2025-02,Kyoto,2162,"Cafe coffee, coffee shop",per cup,557
+2025-03,Kyoto,2162,"Cafe coffee, coffee shop",per cup,560
+2025-04,Kyoto,2162,"Cafe coffee, coffee shop",per cup,563
+2025-05,Kyoto,2162,"Cafe coffee, coffee shop",per cup,563
+2025-06,Kyoto,2162,"Cafe coffee, coffee shop",per cup,563
+2025-07,Kyoto,2162,"Cafe coffee, coffee shop",per cup,570
+2025-08,Kyoto,2162,"Cafe coffee, coffee shop",per cup,570
+2025-09,Kyoto,2162,"Cafe coffee, coffee shop",per cup,570
+2025-10,Kyoto,2162,"Cafe coffee, coffee shop",per cup,570
+2025-11,Kyoto,2162,"Cafe coffee, coffee shop",per cup,570
+2025-12,Kyoto,2162,"Cafe coffee, coffee shop",per cup,583
+2026-01,Kyoto,2162,"Cafe coffee, coffee shop",per cup,588
+2026-02,Kyoto,2162,"Cafe coffee, coffee shop",per cup,591
+2026-03,Kyoto,2162,"Cafe coffee, coffee shop",per cup,591
+2026-04,Kyoto,2162,"Cafe coffee, coffee shop",per cup,599
+2026-05,Kyoto,2162,"Cafe coffee, coffee shop",per cup,599
+2026-06,Kyoto,2162,"Cafe coffee, coffee shop",per cup,599
+2026-07,Kyoto,2162,"Cafe coffee, coffee shop",per cup,603
+2026-08,Kyoto,2162,"Cafe coffee, coffee shop",per cup,603
+2010-01,Naha,2162,"Cafe coffee, coffee shop",per cup,347
+2010-02,Naha,2162,"Cafe coffee, coffee shop",per cup,347
+2010-03,Naha,2162,"Cafe coffee, coffee shop",per cup,347
+2010-04,Naha,2162,"Cafe coffee, coffee shop",per cup,347
+2010-05,Naha,2162,"Cafe coffee, coffee shop",per cup,347
+2010-06,Naha,2162,"Cafe coffee, coffee shop",per cup,347
+2010-07,Naha,2162,"Cafe coffee, coffee shop",per cup,347
+2010-08,Naha,2162,"Cafe coffee, coffee shop",per cup,347
+2010-09,Naha,2162,"Cafe coffee, coffee shop",per cup,347
+2010-10,Naha,2162,"Cafe coffee, coffee shop",per cup,347
+2010-11,Naha,2162,"Cafe coffee, coffee shop",per cup,347
+2010-12,Naha,2162,"Cafe coffee, coffee shop",per cup,347
+2011-01,Naha,2162,"Cafe coffee, coffee shop",per cup,347
+2011-02,Naha,2162,"Cafe coffee, coffee shop",per cup,347
+2011-03,Naha,2162,"Cafe coffee, coffee shop",per cup,347
+2011-04,Naha,2162,"Cafe coffee, coffee shop",per cup,347
+2011-05,Naha,2162,"Cafe coffee, coffee shop",per cup,347
+2011-06,Naha,2162,"Cafe coffee, coffee shop",per cup,347
+2011-07,Naha,2162,"Cafe coffee, coffee shop",per cup,347
+2011-08,Naha,2162,"Cafe coffee, coffee shop",per cup,347
+2011-09,Naha,2162,"Cafe coffee, coffee shop",per cup,347
+2011-10,Naha,2162,"Cafe coffee, coffee shop",per cup,347
+2011-11,Naha,2162,"Cafe coffee, coffee shop",per cup,347
+2011-12,Naha,2162,"Cafe coffee, coffee shop",per cup,347
+2012-01,Naha,2162,"Cafe coffee, coffee shop",per cup,347
+2012-02,Naha,2162,"Cafe coffee, coffee shop",per cup,347
+2012-03,Naha,2162,"Cafe coffee, coffee shop",per cup,347
+2012-04,Naha,2162,"Cafe coffee, coffee shop",per cup,347
+2012-05,Naha,2162,"Cafe coffee, coffee shop",per cup,347
+2012-06,Naha,2162,"Cafe coffee, coffee shop",per cup,347
+2012-07,Naha,2162,"Cafe coffee, coffee shop",per cup,347
+2012-08,Naha,2162,"Cafe coffee, coffee shop",per cup,347
+2012-09,Naha,2162,"Cafe coffee, coffee shop",per cup,347
+2012-10,Naha,2162,"Cafe coffee, coffee shop",per cup,347
+2012-11,Naha,2162,"Cafe coffee, coffee shop",per cup,347
+2012-12,Naha,2162,"Cafe coffee, coffee shop",per cup,353
+2013-01,Naha,2162,"Cafe coffee, coffee shop",per cup,353
+2013-02,Naha,2162,"Cafe coffee, coffee shop",per cup,353
+2013-03,Naha,2162,"Cafe coffee, coffee shop",per cup,353
+2013-04,Naha,2162,"Cafe coffee, coffee shop",per cup,353
+2013-05,Naha,2162,"Cafe coffee, coffee shop",per cup,353
+2013-06,Naha,2162,"Cafe coffee, coffee shop",per cup,353
+2013-07,Naha,2162,"Cafe coffee, coffee shop",per cup,353
+2013-08,Naha,2162,"Cafe coffee, coffee shop",per cup,353
+2013-09,Naha,2162,"Cafe coffee, coffee shop",per cup,353
+2013-10,Naha,2162,"Cafe coffee, coffee shop",per cup,353
+2013-11,Naha,2162,"Cafe coffee, coffee shop",per cup,353
+2013-12,Naha,2162,"Cafe coffee, coffee shop",per cup,353
+2014-01,Naha,2162,"Cafe coffee, coffee shop",per cup,353
+2014-02,Naha,2162,"Cafe coffee, coffee shop",per cup,353
+2014-03,Naha,2162,"Cafe coffee, coffee shop",per cup,353
+2014-04,Naha,2162,"Cafe coffee, coffee shop",per cup,356
+2014-05,Naha,2162,"Cafe coffee, coffee shop",per cup,356
+2014-06,Naha,2162,"Cafe coffee, coffee shop",per cup,356
+2014-07,Naha,2162,"Cafe coffee, coffee shop",per cup,356
+2014-08,Naha,2162,"Cafe coffee, coffee shop",per cup,356
+2014-09,Naha,2162,"Cafe coffee, coffee shop",per cup,356
+2014-10,Naha,2162,"Cafe coffee, coffee shop",per cup,356
+2014-11,Naha,2162,"Cafe coffee, coffee shop",per cup,356
+2014-12,Naha,2162,"Cafe coffee, coffee shop",per cup,356
+2015-01,Naha,2162,"Cafe coffee, coffee shop",per cup,356
+2015-02,Naha,2162,"Cafe coffee, coffee shop",per cup,356
+2015-03,Naha,2162,"Cafe coffee, coffee shop",per cup,356
+2015-04,Naha,2162,"Cafe coffee, coffee shop",per cup,373
+2015-05,Naha,2162,"Cafe coffee, coffee shop",per cup,373
+2015-06,Naha,2162,"Cafe coffee, coffee shop",per cup,373
+2015-07,Naha,2162,"Cafe coffee, coffee shop",per cup,359
+2015-08,Naha,2162,"Cafe coffee, coffee shop",per cup,359
+2015-09,Naha,2162,"Cafe coffee, coffee shop",per cup,359
+2015-10,Naha,2162,"Cafe coffee, coffee shop",per cup,359
+2015-11,Naha,2162,"Cafe coffee, coffee shop",per cup,376
+2015-12,Naha,2162,"Cafe coffee, coffee shop",per cup,376
+2016-01,Naha,2162,"Cafe coffee, coffee shop",per cup,376
+2016-02,Naha,2162,"Cafe coffee, coffee shop",per cup,376
+2016-03,Naha,2162,"Cafe coffee, coffee shop",per cup,376
+2016-04,Naha,2162,"Cafe coffee, coffee shop",per cup,379
+2016-05,Naha,2162,"Cafe coffee, coffee shop",per cup,379
+2016-06,Naha,2162,"Cafe coffee, coffee shop",per cup,379
+2016-07,Naha,2162,"Cafe coffee, coffee shop",per cup,379
+2016-08,Naha,2162,"Cafe coffee, coffee shop",per cup,379
+2016-09,Naha,2162,"Cafe coffee, coffee shop",per cup,379
+2016-10,Naha,2162,"Cafe coffee, coffee shop",per cup,379
+2016-11,Naha,2162,"Cafe coffee, coffee shop",per cup,379
+2016-12,Naha,2162,"Cafe coffee, coffee shop",per cup,379
+2017-01,Naha,2162,"Cafe coffee, coffee shop",per cup,379
+2017-02,Naha,2162,"Cafe coffee, coffee shop",per cup,379
+2017-03,Naha,2162,"Cafe coffee, coffee shop",per cup,379
+2017-04,Naha,2162,"Cafe coffee, coffee shop",per cup,379
+2017-05,Naha,2162,"Cafe coffee, coffee shop",per cup,379
+2017-06,Naha,2162,"Cafe coffee, coffee shop",per cup,379
+2017-07,Naha,2162,"Cafe coffee, coffee shop",per cup,379
+2017-08,Naha,2162,"Cafe coffee, coffee shop",per cup,379
+2017-09,Naha,2162,"Cafe coffee, coffee shop",per cup,379
+2017-10,Naha,2162,"Cafe coffee, coffee shop",per cup,379
+2017-11,Naha,2162,"Cafe coffee, coffee shop",per cup,379
+2017-12,Naha,2162,"Cafe coffee, coffee shop",per cup,379
+2018-01,Naha,2162,"Cafe coffee, coffee shop",per cup,379
+2018-02,Naha,2162,"Cafe coffee, coffee shop",per cup,379
+2018-03,Naha,2162,"Cafe coffee, coffee shop",per cup,379
+2018-04,Naha,2162,"Cafe coffee, coffee shop",per cup,379
+2018-05,Naha,2162,"Cafe coffee, coffee shop",per cup,379
+2018-06,Naha,2162,"Cafe coffee, coffee shop",per cup,379
+2018-07,Naha,2162,"Cafe coffee, coffee shop",per cup,383
+2018-08,Naha,2162,"Cafe coffee, coffee shop",per cup,383
+2018-09,Naha,2162,"Cafe coffee, coffee shop",per cup,383
+2018-10,Naha,2162,"Cafe coffee, coffee shop",per cup,383
+2018-11,Naha,2162,"Cafe coffee, coffee shop",per cup,383
+2018-12,Naha,2162,"Cafe coffee, coffee shop",per cup,383
+2019-01,Naha,2162,"Cafe coffee, coffee shop",per cup,383
+2019-02,Naha,2162,"Cafe coffee, coffee shop",per cup,383
+2019-03,Naha,2162,"Cafe coffee, coffee shop",per cup,383
+2019-04,Naha,2162,"Cafe coffee, coffee shop",per cup,400
+2019-05,Naha,2162,"Cafe coffee, coffee shop",per cup,400
+2019-06,Naha,2162,"Cafe coffee, coffee shop",per cup,400
+2019-07,Naha,2162,"Cafe coffee, coffee shop",per cup,400
+2019-08,Naha,2162,"Cafe coffee, coffee shop",per cup,400
+2019-09,Naha,2162,"Cafe coffee, coffee shop",per cup,400
+2019-10,Naha,2162,"Cafe coffee, coffee shop",per cup,402
+2019-11,Naha,2162,"Cafe coffee, coffee shop",per cup,402
+2019-12,Naha,2162,"Cafe coffee, coffee shop",per cup,402
+2020-01,Naha,2162,"Cafe coffee, coffee shop",per cup,402
+2020-02,Naha,2162,"Cafe coffee, coffee shop",per cup,402
+2020-03,Naha,2162,"Cafe coffee, coffee shop",per cup,402
+2020-04,Naha,2162,"Cafe coffee, coffee shop",per cup,404
+2020-05,Naha,2162,"Cafe coffee, coffee shop",per cup,404
+2020-06,Naha,2162,"Cafe coffee, coffee shop",per cup,404
+2020-07,Naha,2162,"Cafe coffee, coffee shop",per cup,402
+2020-08,Naha,2162,"Cafe coffee, coffee shop",per cup,404
+2020-09,Naha,2162,"Cafe coffee, coffee shop",per cup,402
+2020-10,Naha,2162,"Cafe coffee, coffee shop",per cup,402
+2020-11,Naha,2162,"Cafe coffee, coffee shop",per cup,402
+2020-12,Naha,2162,"Cafe coffee, coffee shop",per cup,402
+2021-01,Naha,2162,"Cafe coffee, coffee shop",per cup,402
+2021-02,Naha,2162,"Cafe coffee, coffee shop",per cup,402
+2021-03,Naha,2162,"Cafe coffee, coffee shop",per cup,402
+2021-04,Naha,2162,"Cafe coffee, coffee shop",per cup,402
+2021-05,Naha,2162,"Cafe coffee, coffee shop",per cup,369
+2021-06,Naha,2162,"Cafe coffee, coffee shop",per cup,354
+2021-07,Naha,2162,"Cafe coffee, coffee shop",per cup,354
+2021-08,Naha,2162,"Cafe coffee, coffee shop",per cup,354
+2021-09,Naha,2162,"Cafe coffee, coffee shop",per cup,354
+2021-10,Naha,2162,"Cafe coffee, coffee shop",per cup,369
+2021-11,Naha,2162,"Cafe coffee, coffee shop",per cup,369
+2021-12,Naha,2162,"Cafe coffee, coffee shop",per cup,369
+2022-01,Naha,2162,"Cafe coffee, coffee shop",per cup,369
+2022-02,Naha,2162,"Cafe coffee, coffee shop",per cup,369
+2022-03,Naha,2162,"Cafe coffee, coffee shop",per cup,369
+2022-04,Naha,2162,"Cafe coffee, coffee shop",per cup,369
+2022-05,Naha,2162,"Cafe coffee, coffee shop",per cup,369
+2022-06,Naha,2162,"Cafe coffee, coffee shop",per cup,369
+2022-07,Naha,2162,"Cafe coffee, coffee shop",per cup,369
+2022-08,Naha,2162,"Cafe coffee, coffee shop",per cup,369
+2022-09,Naha,2162,"Cafe coffee, coffee shop",per cup,369
+2022-10,Naha,2162,"Cafe coffee, coffee shop",per cup,402
+2022-11,Naha,2162,"Cafe coffee, coffee shop",per cup,402
+2022-12,Naha,2162,"Cafe coffee, coffee shop",per cup,402
+2023-01,Naha,2162,"Cafe coffee, coffee shop",per cup,402
+2023-02,Naha,2162,"Cafe coffee, coffee shop",per cup,402
+2023-03,Naha,2162,"Cafe coffee, coffee shop",per cup,402
+2023-04,Naha,2162,"Cafe coffee, coffee shop",per cup,402
+2023-05,Naha,2162,"Cafe coffee, coffee shop",per cup,402
+2023-06,Naha,2162,"Cafe coffee, coffee shop",per cup,402
+2023-07,Naha,2162,"Cafe coffee, coffee shop",per cup,402
+2023-08,Naha,2162,"Cafe coffee, coffee shop",per cup,402
+2023-09,Naha,2162,"Cafe coffee, coffee shop",per cup,402
+2023-10,Naha,2162,"Cafe coffee, coffee shop",per cup,402
+2023-11,Naha,2162,"Cafe coffee, coffee shop",per cup,402
+2023-12,Naha,2162,"Cafe coffee, coffee shop",per cup,390
+2024-01,Naha,2162,"Cafe coffee, coffee shop",per cup,390
+2024-02,Naha,2162,"Cafe coffee, coffee shop",per cup,390
+2024-03,Naha,2162,"Cafe coffee, coffee shop",per cup,390
+2024-04,Naha,2162,"Cafe coffee, coffee shop",per cup,390
+2024-05,Naha,2162,"Cafe coffee, coffee shop",per cup,390
+2024-06,Naha,2162,"Cafe coffee, coffee shop",per cup,390
+2024-07,Naha,2162,"Cafe coffee, coffee shop",per cup,390
+2024-08,Naha,2162,"Cafe coffee, coffee shop",per cup,390
+2024-09,Naha,2162,"Cafe coffee, coffee shop",per cup,390
+2024-10,Naha,2162,"Cafe coffee, coffee shop",per cup,390
+2024-11,Naha,2162,"Cafe coffee, coffee shop",per cup,390
+2024-12,Naha,2162,"Cafe coffee, coffee shop",per cup,394
+2025-01,Naha,2162,"Cafe coffee, coffee shop",per cup,394
+2025-02,Naha,2162,"Cafe coffee, coffee shop",per cup,394
+2025-03,Naha,2162,"Cafe coffee, coffee shop",per cup,394
+2025-04,Naha,2162,"Cafe coffee, coffee shop",per cup,394
+2025-05,Naha,2162,"Cafe coffee, coffee shop",per cup,394
+2025-06,Naha,2162,"Cafe coffee, coffee shop",per cup,394
+2025-07,Naha,2162,"Cafe coffee, coffee shop",per cup,428
+2025-08,Naha,2162,"Cafe coffee, coffee shop",per cup,428
+2025-09,Naha,2162,"Cafe coffee, coffee shop",per cup,428
+2025-10,Naha,2162,"Cafe coffee, coffee shop",per cup,428
+2025-11,Naha,2162,"Cafe coffee, coffee shop",per cup,428
+2025-12,Naha,2162,"Cafe coffee, coffee shop",per cup,428
+2026-01,Naha,2162,"Cafe coffee, coffee shop",per cup,428
+2026-02,Naha,2162,"Cafe coffee, coffee shop",per cup,428
+2026-03,Naha,2162,"Cafe coffee, coffee shop",per cup,428
+2026-04,Naha,2162,"Cafe coffee, coffee shop",per cup,438
+2026-05,Naha,2162,"Cafe coffee, coffee shop",per cup,438
+2026-06,Naha,2162,"Cafe coffee, coffee shop",per cup,438
+2026-07,Naha,2162,"Cafe coffee, coffee shop",per cup,438
+2026-08,Naha,2162,"Cafe coffee, coffee shop",per cup,438
+2010-01,Sapporo,2162,"Cafe coffee, coffee shop",per cup,408
+2010-02,Sapporo,2162,"Cafe coffee, coffee shop",per cup,408
+2010-03,Sapporo,2162,"Cafe coffee, coffee shop",per cup,408
+2010-04,Sapporo,2162,"Cafe coffee, coffee shop",per cup,408
+2010-05,Sapporo,2162,"Cafe coffee, coffee shop",per cup,408
+2010-06,Sapporo,2162,"Cafe coffee, coffee shop",per cup,408
+2010-07,Sapporo,2162,"Cafe coffee, coffee shop",per cup,408
+2010-08,Sapporo,2162,"Cafe coffee, coffee shop",per cup,408
+2010-09,Sapporo,2162,"Cafe coffee, coffee shop",per cup,408
+2010-10,Sapporo,2162,"Cafe coffee, coffee shop",per cup,408
+2010-11,Sapporo,2162,"Cafe coffee, coffee shop",per cup,408
+2010-12,Sapporo,2162,"Cafe coffee, coffee shop",per cup,408
+2011-01,Sapporo,2162,"Cafe coffee, coffee shop",per cup,408
+2011-02,Sapporo,2162,"Cafe coffee, coffee shop",per cup,408
+2011-03,Sapporo,2162,"Cafe coffee, coffee shop",per cup,408
+2011-04,Sapporo,2162,"Cafe coffee, coffee shop",per cup,408
+2011-05,Sapporo,2162,"Cafe coffee, coffee shop",per cup,408
+2011-06,Sapporo,2162,"Cafe coffee, coffee shop",per cup,408
+2011-07,Sapporo,2162,"Cafe coffee, coffee shop",per cup,408
+2011-08,Sapporo,2162,"Cafe coffee, coffee shop",per cup,408
+2011-09,Sapporo,2162,"Cafe coffee, coffee shop",per cup,408
+2011-10,Sapporo,2162,"Cafe coffee, coffee shop",per cup,408
+2011-11,Sapporo,2162,"Cafe coffee, coffee shop",per cup,408
+2011-12,Sapporo,2162,"Cafe coffee, coffee shop",per cup,408
+2012-01,Sapporo,2162,"Cafe coffee, coffee shop",per cup,408
+2012-02,Sapporo,2162,"Cafe coffee, coffee shop",per cup,408
+2012-03,Sapporo,2162,"Cafe coffee, coffee shop",per cup,408
+2012-04,Sapporo,2162,"Cafe coffee, coffee shop",per cup,408
+2012-05,Sapporo,2162,"Cafe coffee, coffee shop",per cup,408
+2012-06,Sapporo,2162,"Cafe coffee, coffee shop",per cup,408
+2012-07,Sapporo,2162,"Cafe coffee, coffee shop",per cup,408
+2012-08,Sapporo,2162,"Cafe coffee, coffee shop",per cup,408
+2012-09,Sapporo,2162,"Cafe coffee, coffee shop",per cup,408
+2012-10,Sapporo,2162,"Cafe coffee, coffee shop",per cup,408
+2012-11,Sapporo,2162,"Cafe coffee, coffee shop",per cup,408
+2012-12,Sapporo,2162,"Cafe coffee, coffee shop",per cup,408
+2013-01,Sapporo,2162,"Cafe coffee, coffee shop",per cup,408
+2013-02,Sapporo,2162,"Cafe coffee, coffee shop",per cup,408
+2013-03,Sapporo,2162,"Cafe coffee, coffee shop",per cup,408
+2013-04,Sapporo,2162,"Cafe coffee, coffee shop",per cup,408
+2013-05,Sapporo,2162,"Cafe coffee, coffee shop",per cup,408
+2013-06,Sapporo,2162,"Cafe coffee, coffee shop",per cup,408
+2013-07,Sapporo,2162,"Cafe coffee, coffee shop",per cup,408
+2013-08,Sapporo,2162,"Cafe coffee, coffee shop",per cup,408
+2013-09,Sapporo,2162,"Cafe coffee, coffee shop",per cup,408
+2013-10,Sapporo,2162,"Cafe coffee, coffee shop",per cup,408
+2013-11,Sapporo,2162,"Cafe coffee, coffee shop",per cup,408
+2013-12,Sapporo,2162,"Cafe coffee, coffee shop",per cup,408
+2014-01,Sapporo,2162,"Cafe coffee, coffee shop",per cup,408
+2014-02,Sapporo,2162,"Cafe coffee, coffee shop",per cup,418
+2014-03,Sapporo,2162,"Cafe coffee, coffee shop",per cup,418
+2014-04,Sapporo,2162,"Cafe coffee, coffee shop",per cup,428
+2014-05,Sapporo,2162,"Cafe coffee, coffee shop",per cup,428
+2014-06,Sapporo,2162,"Cafe coffee, coffee shop",per cup,428
+2014-07,Sapporo,2162,"Cafe coffee, coffee shop",per cup,428
+2014-08,Sapporo,2162,"Cafe coffee, coffee shop",per cup,435
+2014-09,Sapporo,2162,"Cafe coffee, coffee shop",per cup,420
+2014-10,Sapporo,2162,"Cafe coffee, coffee shop",per cup,420
+2014-11,Sapporo,2162,"Cafe coffee, coffee shop",per cup,420
+2014-12,Sapporo,2162,"Cafe coffee, coffee shop",per cup,420
+2015-01,Sapporo,2162,"Cafe coffee, coffee shop",per cup,420
+2015-02,Sapporo,2162,"Cafe coffee, coffee shop",per cup,420
+2015-03,Sapporo,2162,"Cafe coffee, coffee shop",per cup,420
+2015-04,Sapporo,2162,"Cafe coffee, coffee shop",per cup,420
+2015-05,Sapporo,2162,"Cafe coffee, coffee shop",per cup,420
+2015-06,Sapporo,2162,"Cafe coffee, coffee shop",per cup,420
+2015-07,Sapporo,2162,"Cafe coffee, coffee shop",per cup,420
+2015-08,Sapporo,2162,"Cafe coffee, coffee shop",per cup,420
+2015-09,Sapporo,2162,"Cafe coffee, coffee shop",per cup,420
+2015-10,Sapporo,2162,"Cafe coffee, coffee shop",per cup,420
+2015-11,Sapporo,2162,"Cafe coffee, coffee shop",per cup,420
+2015-12,Sapporo,2162,"Cafe coffee, coffee shop",per cup,420
+2016-01,Sapporo,2162,"Cafe coffee, coffee shop",per cup,420
+2016-02,Sapporo,2162,"Cafe coffee, coffee shop",per cup,420
+2016-03,Sapporo,2162,"Cafe coffee, coffee shop",per cup,420
+2016-04,Sapporo,2162,"Cafe coffee, coffee shop",per cup,420
+2016-05,Sapporo,2162,"Cafe coffee, coffee shop",per cup,420
+2016-06,Sapporo,2162,"Cafe coffee, coffee shop",per cup,420
+2016-07,Sapporo,2162,"Cafe coffee, coffee shop",per cup,420
+2016-08,Sapporo,2162,"Cafe coffee, coffee shop",per cup,420
+2016-09,Sapporo,2162,"Cafe coffee, coffee shop",per cup,420
+2016-10,Sapporo,2162,"Cafe coffee, coffee shop",per cup,420
+2016-11,Sapporo,2162,"Cafe coffee, coffee shop",per cup,420
+2016-12,Sapporo,2162,"Cafe coffee, coffee shop",per cup,420
+2017-01,Sapporo,2162,"Cafe coffee, coffee shop",per cup,420
+2017-02,Sapporo,2162,"Cafe coffee, coffee shop",per cup,420
+2017-03,Sapporo,2162,"Cafe coffee, coffee shop",per cup,420
+2017-04,Sapporo,2162,"Cafe coffee, coffee shop",per cup,420
+2017-05,Sapporo,2162,"Cafe coffee, coffee shop",per cup,420
+2017-06,Sapporo,2162,"Cafe coffee, coffee shop",per cup,420
+2017-07,Sapporo,2162,"Cafe coffee, coffee shop",per cup,420
+2017-08,Sapporo,2162,"Cafe coffee, coffee shop",per cup,420
+2017-09,Sapporo,2162,"Cafe coffee, coffee shop",per cup,420
+2017-10,Sapporo,2162,"Cafe coffee, coffee shop",per cup,420
+2017-11,Sapporo,2162,"Cafe coffee, coffee shop",per cup,420
+2017-12,Sapporo,2162,"Cafe coffee, coffee shop",per cup,420
+2018-01,Sapporo,2162,"Cafe coffee, coffee shop",per cup,420
+2018-02,Sapporo,2162,"Cafe coffee, coffee shop",per cup,420
+2018-03,Sapporo,2162,"Cafe coffee, coffee shop",per cup,420
+2018-04,Sapporo,2162,"Cafe coffee, coffee shop",per cup,420
+2018-05,Sapporo,2162,"Cafe coffee, coffee shop",per cup,420
+2018-06,Sapporo,2162,"Cafe coffee, coffee shop",per cup,420
+2018-07,Sapporo,2162,"Cafe coffee, coffee shop",per cup,420
+2018-08,Sapporo,2162,"Cafe coffee, coffee shop",per cup,420
+2018-09,Sapporo,2162,"Cafe coffee, coffee shop",per cup,420
+2018-10,Sapporo,2162,"Cafe coffee, coffee shop",per cup,420
+2018-11,Sapporo,2162,"Cafe coffee, coffee shop",per cup,420
+2018-12,Sapporo,2162,"Cafe coffee, coffee shop",per cup,420
+2019-01,Sapporo,2162,"Cafe coffee, coffee shop",per cup,420
+2019-02,Sapporo,2162,"Cafe coffee, coffee shop",per cup,420
+2019-03,Sapporo,2162,"Cafe coffee, coffee shop",per cup,420
+2019-04,Sapporo,2162,"Cafe coffee, coffee shop",per cup,425
+2019-05,Sapporo,2162,"Cafe coffee, coffee shop",per cup,425
+2019-06,Sapporo,2162,"Cafe coffee, coffee shop",per cup,425
+2019-07,Sapporo,2162,"Cafe coffee, coffee shop",per cup,425
+2019-08,Sapporo,2162,"Cafe coffee, coffee shop",per cup,425
+2019-09,Sapporo,2162,"Cafe coffee, coffee shop",per cup,425
+2019-10,Sapporo,2162,"Cafe coffee, coffee shop",per cup,450
+2019-11,Sapporo,2162,"Cafe coffee, coffee shop",per cup,450
+2019-12,Sapporo,2162,"Cafe coffee, coffee shop",per cup,450
+2020-01,Sapporo,2162,"Cafe coffee, coffee shop",per cup,450
+2020-02,Sapporo,2162,"Cafe coffee, coffee shop",per cup,450
+2020-03,Sapporo,2162,"Cafe coffee, coffee shop",per cup,450
+2020-04,Sapporo,2162,"Cafe coffee, coffee shop",per cup,450
+2020-05,Sapporo,2162,"Cafe coffee, coffee shop",per cup,440
+2020-06,Sapporo,2162,"Cafe coffee, coffee shop",per cup,450
+2020-07,Sapporo,2162,"Cafe coffee, coffee shop",per cup,450
+2020-08,Sapporo,2162,"Cafe coffee, coffee shop",per cup,450
+2020-09,Sapporo,2162,"Cafe coffee, coffee shop",per cup,450
+2020-10,Sapporo,2162,"Cafe coffee, coffee shop",per cup,450
+2020-11,Sapporo,2162,"Cafe coffee, coffee shop",per cup,450
+2020-12,Sapporo,2162,"Cafe coffee, coffee shop",per cup,450
+2021-01,Sapporo,2162,"Cafe coffee, coffee shop",per cup,450
+2021-02,Sapporo,2162,"Cafe coffee, coffee shop",per cup,450
+2021-03,Sapporo,2162,"Cafe coffee, coffee shop",per cup,450
+2021-04,Sapporo,2162,"Cafe coffee, coffee shop",per cup,450
+2021-05,Sapporo,2162,"Cafe coffee, coffee shop",per cup,450
+2021-06,Sapporo,2162,"Cafe coffee, coffee shop",per cup,433
+2021-07,Sapporo,2162,"Cafe coffee, coffee shop",per cup,433
+2021-08,Sapporo,2162,"Cafe coffee, coffee shop",per cup,433
+2021-09,Sapporo,2162,"Cafe coffee, coffee shop",per cup,460
+2021-10,Sapporo,2162,"Cafe coffee, coffee shop",per cup,450
+2021-11,Sapporo,2162,"Cafe coffee, coffee shop",per cup,450
+2021-12,Sapporo,2162,"Cafe coffee, coffee shop",per cup,450
+2022-01,Sapporo,2162,"Cafe coffee, coffee shop",per cup,450
+2022-02,Sapporo,2162,"Cafe coffee, coffee shop",per cup,433
+2022-03,Sapporo,2162,"Cafe coffee, coffee shop",per cup,433
+2022-04,Sapporo,2162,"Cafe coffee, coffee shop",per cup,450
+2022-05,Sapporo,2162,"Cafe coffee, coffee shop",per cup,450
+2022-06,Sapporo,2162,"Cafe coffee, coffee shop",per cup,450
+2022-07,Sapporo,2162,"Cafe coffee, coffee shop",per cup,450
+2022-08,Sapporo,2162,"Cafe coffee, coffee shop",per cup,450
+2022-09,Sapporo,2162,"Cafe coffee, coffee shop",per cup,450
+2022-10,Sapporo,2162,"Cafe coffee, coffee shop",per cup,468
+2022-11,Sapporo,2162,"Cafe coffee, coffee shop",per cup,468
+2022-12,Sapporo,2162,"Cafe coffee, coffee shop",per cup,473
+2023-01,Sapporo,2162,"Cafe coffee, coffee shop",per cup,473
+2023-02,Sapporo,2162,"Cafe coffee, coffee shop",per cup,473
+2023-03,Sapporo,2162,"Cafe coffee, coffee shop",per cup,473
+2023-04,Sapporo,2162,"Cafe coffee, coffee shop",per cup,473
+2023-05,Sapporo,2162,"Cafe coffee, coffee shop",per cup,473
+2023-06,Sapporo,2162,"Cafe coffee, coffee shop",per cup,473
+2023-07,Sapporo,2162,"Cafe coffee, coffee shop",per cup,473
+2023-08,Sapporo,2162,"Cafe coffee, coffee shop",per cup,473
+2023-09,Sapporo,2162,"Cafe coffee, coffee shop",per cup,473
+2023-10,Sapporo,2162,"Cafe coffee, coffee shop",per cup,473
+2023-11,Sapporo,2162,"Cafe coffee, coffee shop",per cup,473
+2023-12,Sapporo,2162,"Cafe coffee, coffee shop",per cup,473
+2024-01,Sapporo,2162,"Cafe coffee, coffee shop",per cup,473
+2024-02,Sapporo,2162,"Cafe coffee, coffee shop",per cup,473
+2024-03,Sapporo,2162,"Cafe coffee, coffee shop",per cup,488
+2024-04,Sapporo,2162,"Cafe coffee, coffee shop",per cup,488
+2024-05,Sapporo,2162,"Cafe coffee, coffee shop",per cup,488
+2024-06,Sapporo,2162,"Cafe coffee, coffee shop",per cup,488
+2024-07,Sapporo,2162,"Cafe coffee, coffee shop",per cup,488
+2024-08,Sapporo,2162,"Cafe coffee, coffee shop",per cup,488
+2024-09,Sapporo,2162,"Cafe coffee, coffee shop",per cup,488
+2024-10,Sapporo,2162,"Cafe coffee, coffee shop",per cup,513
+2024-11,Sapporo,2162,"Cafe coffee, coffee shop",per cup,513
+2024-12,Sapporo,2162,"Cafe coffee, coffee shop",per cup,513
+2025-01,Sapporo,2162,"Cafe coffee, coffee shop",per cup,513
+2025-02,Sapporo,2162,"Cafe coffee, coffee shop",per cup,513
+2025-03,Sapporo,2162,"Cafe coffee, coffee shop",per cup,538
+2025-04,Sapporo,2162,"Cafe coffee, coffee shop",per cup,538
+2025-05,Sapporo,2162,"Cafe coffee, coffee shop",per cup,538
+2025-06,Sapporo,2162,"Cafe coffee, coffee shop",per cup,538
+2025-07,Sapporo,2162,"Cafe coffee, coffee shop",per cup,538
+2025-08,Sapporo,2162,"Cafe coffee, coffee shop",per cup,538
+2025-09,Sapporo,2162,"Cafe coffee, coffee shop",per cup,538
+2025-10,Sapporo,2162,"Cafe coffee, coffee shop",per cup,538
+2025-11,Sapporo,2162,"Cafe coffee, coffee shop",per cup,550
+2025-12,Sapporo,2162,"Cafe coffee, coffee shop",per cup,550
+2026-01,Sapporo,2162,"Cafe coffee, coffee shop",per cup,603
+2026-02,Sapporo,2162,"Cafe coffee, coffee shop",per cup,603
+2026-03,Sapporo,2162,"Cafe coffee, coffee shop",per cup,543
+2026-04,Sapporo,2162,"Cafe coffee, coffee shop",per cup,543
+2026-05,Sapporo,2162,"Cafe coffee, coffee shop",per cup,543
+2026-06,Sapporo,2162,"Cafe coffee, coffee shop",per cup,543
+2026-07,Sapporo,2162,"Cafe coffee, coffee shop",per cup,543
+2026-08,Sapporo,2162,"Cafe coffee, coffee shop",per cup,543
+2010-01,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,409
+2010-02,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,410
+2010-03,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,409
+2010-04,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,400
+2010-05,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,400
+2010-06,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,415
+2010-07,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,417
+2010-08,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,417
+2010-09,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,418
+2010-10,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,410
+2010-11,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,417
+2010-12,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,417
+2011-01,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,417
+2011-02,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,417
+2011-03,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,417
+2011-04,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,417
+2011-05,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,417
+2011-06,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,417
+2011-07,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,418
+2011-08,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,418
+2011-09,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,418
+2011-10,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,420
+2011-11,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,420
+2011-12,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,417
+2012-01,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,417
+2012-02,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,417
+2012-03,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,418
+2012-04,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,418
+2012-05,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,417
+2012-06,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,427
+2012-07,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,420
+2012-08,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,420
+2012-09,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,420
+2012-10,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,420
+2012-11,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,420
+2012-12,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,420
+2013-01,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,417
+2013-02,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,417
+2013-03,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,417
+2013-04,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,404
+2013-05,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,404
+2013-06,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,409
+2013-07,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,417
+2013-08,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,414
+2013-09,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,414
+2013-10,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,414
+2013-11,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,411
+2013-12,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,411
+2014-01,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,411
+2014-02,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,411
+2014-03,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,409
+2014-04,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,414
+2014-05,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,414
+2014-06,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,414
+2014-07,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,414
+2014-08,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,416
+2014-09,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,416
+2014-10,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,416
+2014-11,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,414
+2014-12,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,414
+2015-01,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,414
+2015-02,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,414
+2015-03,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,414
+2015-04,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,421
+2015-05,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,421
+2015-06,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,421
+2015-07,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,423
+2015-08,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,412
+2015-09,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,430
+2015-10,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,431
+2015-11,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,431
+2015-12,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,431
+2016-01,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,431
+2016-02,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,431
+2016-03,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,431
+2016-04,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,431
+2016-05,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,431
+2016-06,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,431
+2016-07,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,431
+2016-08,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,433
+2016-09,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,437
+2016-10,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,439
+2016-11,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,438
+2016-12,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,438
+2017-01,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,442
+2017-02,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,442
+2017-03,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,442
+2017-04,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,453
+2017-05,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,451
+2017-06,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,451
+2017-07,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,451
+2017-08,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,451
+2017-09,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,451
+2017-10,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,451
+2017-11,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,451
+2017-12,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,463
+2018-01,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,463
+2018-02,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,471
+2018-03,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,471
+2018-04,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,471
+2018-05,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,480
+2018-06,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,481
+2018-07,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,485
+2018-08,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,487
+2018-09,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,487
+2018-10,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,487
+2018-11,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,488
+2018-12,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,482
+2019-01,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,482
+2019-02,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,482
+2019-03,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,482
+2019-04,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,482
+2019-05,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,489
+2019-06,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,489
+2019-07,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,489
+2019-08,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,489
+2019-09,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,489
+2019-10,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,505
+2019-11,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,505
+2019-12,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,505
+2020-01,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,505
+2020-02,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,505
+2020-03,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,505
+2020-04,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,523
+2020-05,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,516
+2020-06,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,525
+2020-07,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,504
+2020-08,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,510
+2020-09,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,511
+2020-10,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,514
+2020-11,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,515
+2020-12,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,512
+2021-01,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,512
+2021-02,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,512
+2021-03,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,513
+2021-04,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,513
+2021-05,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,512
+2021-06,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,510
+2021-07,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,513
+2021-08,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,513
+2021-09,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,513
+2021-10,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,518
+2021-11,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,513
+2021-12,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,513
+2022-01,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,514
+2022-02,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,514
+2022-03,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,514
+2022-04,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,511
+2022-05,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,525
+2022-06,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,511
+2022-07,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,525
+2022-08,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,525
+2022-09,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,530
+2022-10,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,525
+2022-11,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,525
+2022-12,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,525
+2023-01,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,541
+2023-02,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,533
+2023-03,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,543
+2023-04,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,550
+2023-05,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,543
+2023-06,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,543
+2023-07,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,552
+2023-08,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,552
+2023-09,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,552
+2023-10,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,552
+2023-11,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,552
+2023-12,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,552
+2024-01,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,553
+2024-02,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,556
+2024-03,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,556
+2024-04,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,563
+2024-05,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,568
+2024-06,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,570
+2024-07,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,578
+2024-08,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,578
+2024-09,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,578
+2024-10,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,578
+2024-11,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,578
+2024-12,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,592
+2025-01,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,599
+2025-02,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,598
+2025-03,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,598
+2025-04,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,608
+2025-05,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,616
+2025-06,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,617
+2025-07,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,620
+2025-08,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,620
+2025-09,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,620
+2025-10,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,620
+2025-11,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,620
+2025-12,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,620
+2026-01,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,622
+2026-02,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,624
+2026-03,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,624
+2026-04,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,625
+2026-05,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,630
+2026-06,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,632
+2026-07,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,637
+2026-08,Tokyo (23 wards),2162,"Cafe coffee, coffee shop",per cup,637
+2015-01,Kyoto,2165,"Cafe coffee, self-service chain",per cup,302
+2015-02,Kyoto,2165,"Cafe coffee, self-service chain",per cup,302
+2015-03,Kyoto,2165,"Cafe coffee, self-service chain",per cup,302
+2015-04,Kyoto,2165,"Cafe coffee, self-service chain",per cup,302
+2015-05,Kyoto,2165,"Cafe coffee, self-service chain",per cup,302
+2015-06,Kyoto,2165,"Cafe coffee, self-service chain",per cup,302
+2015-07,Kyoto,2165,"Cafe coffee, self-service chain",per cup,302
+2015-08,Kyoto,2165,"Cafe coffee, self-service chain",per cup,302
+2015-09,Kyoto,2165,"Cafe coffee, self-service chain",per cup,302
+2015-10,Kyoto,2165,"Cafe coffee, self-service chain",per cup,302
+2015-11,Kyoto,2165,"Cafe coffee, self-service chain",per cup,302
+2015-12,Kyoto,2165,"Cafe coffee, self-service chain",per cup,302
+2016-01,Kyoto,2165,"Cafe coffee, self-service chain",per cup,302
+2016-02,Kyoto,2165,"Cafe coffee, self-service chain",per cup,302
+2016-03,Kyoto,2165,"Cafe coffee, self-service chain",per cup,302
+2016-04,Kyoto,2165,"Cafe coffee, self-service chain",per cup,302
+2016-05,Kyoto,2165,"Cafe coffee, self-service chain",per cup,302
+2016-06,Kyoto,2165,"Cafe coffee, self-service chain",per cup,302
+2016-07,Kyoto,2165,"Cafe coffee, self-service chain",per cup,302
+2016-08,Kyoto,2165,"Cafe coffee, self-service chain",per cup,302
+2016-09,Kyoto,2165,"Cafe coffee, self-service chain",per cup,302
+2016-10,Kyoto,2165,"Cafe coffee, self-service chain",per cup,302
+2016-11,Kyoto,2165,"Cafe coffee, self-service chain",per cup,302
+2016-12,Kyoto,2165,"Cafe coffee, self-service chain",per cup,302
+2017-01,Kyoto,2165,"Cafe coffee, self-service chain",per cup,302
+2017-02,Kyoto,2165,"Cafe coffee, self-service chain",per cup,302
+2017-03,Kyoto,2165,"Cafe coffee, self-service chain",per cup,302
+2017-04,Kyoto,2165,"Cafe coffee, self-service chain",per cup,302
+2017-05,Kyoto,2165,"Cafe coffee, self-service chain",per cup,302
+2017-06,Kyoto,2165,"Cafe coffee, self-service chain",per cup,302
+2017-07,Kyoto,2165,"Cafe coffee, self-service chain",per cup,302
+2017-08,Kyoto,2165,"Cafe coffee, self-service chain",per cup,302
+2017-09,Kyoto,2165,"Cafe coffee, self-service chain",per cup,302
+2017-10,Kyoto,2165,"Cafe coffee, self-service chain",per cup,302
+2017-11,Kyoto,2165,"Cafe coffee, self-service chain",per cup,302
+2017-12,Kyoto,2165,"Cafe coffee, self-service chain",per cup,302
+2018-01,Kyoto,2165,"Cafe coffee, self-service chain",per cup,302
+2018-02,Kyoto,2165,"Cafe coffee, self-service chain",per cup,302
+2018-03,Kyoto,2165,"Cafe coffee, self-service chain",per cup,302
+2018-04,Kyoto,2165,"Cafe coffee, self-service chain",per cup,302
+2018-05,Kyoto,2165,"Cafe coffee, self-service chain",per cup,302
+2018-06,Kyoto,2165,"Cafe coffee, self-service chain",per cup,302
+2018-07,Kyoto,2165,"Cafe coffee, self-service chain",per cup,302
+2018-08,Kyoto,2165,"Cafe coffee, self-service chain",per cup,302
+2018-09,Kyoto,2165,"Cafe coffee, self-service chain",per cup,302
+2018-10,Kyoto,2165,"Cafe coffee, self-service chain",per cup,302
+2018-11,Kyoto,2165,"Cafe coffee, self-service chain",per cup,302
+2018-12,Kyoto,2165,"Cafe coffee, self-service chain",per cup,302
+2019-01,Kyoto,2165,"Cafe coffee, self-service chain",per cup,302
+2019-02,Kyoto,2165,"Cafe coffee, self-service chain",per cup,302
+2019-03,Kyoto,2165,"Cafe coffee, self-service chain",per cup,313
+2019-04,Kyoto,2165,"Cafe coffee, self-service chain",per cup,313
+2019-05,Kyoto,2165,"Cafe coffee, self-service chain",per cup,313
+2019-06,Kyoto,2165,"Cafe coffee, self-service chain",per cup,313
+2019-07,Kyoto,2165,"Cafe coffee, self-service chain",per cup,313
+2019-08,Kyoto,2165,"Cafe coffee, self-service chain",per cup,313
+2019-09,Kyoto,2165,"Cafe coffee, self-service chain",per cup,313
+2019-10,Kyoto,2165,"Cafe coffee, self-service chain",per cup,319
+2019-11,Kyoto,2165,"Cafe coffee, self-service chain",per cup,319
+2019-12,Kyoto,2165,"Cafe coffee, self-service chain",per cup,319
+2020-01,Kyoto,2165,"Cafe coffee, self-service chain",per cup,319
+2020-02,Kyoto,2165,"Cafe coffee, self-service chain",per cup,319
+2020-03,Kyoto,2165,"Cafe coffee, self-service chain",per cup,319
+2020-04,Kyoto,2165,"Cafe coffee, self-service chain",per cup,319
+2020-05,Kyoto,2165,"Cafe coffee, self-service chain",per cup,
+2020-06,Kyoto,2165,"Cafe coffee, self-service chain",per cup,319
+2020-07,Kyoto,2165,"Cafe coffee, self-service chain",per cup,319
+2020-08,Kyoto,2165,"Cafe coffee, self-service chain",per cup,319
+2020-09,Kyoto,2165,"Cafe coffee, self-service chain",per cup,319
+2020-10,Kyoto,2165,"Cafe coffee, self-service chain",per cup,319
+2020-11,Kyoto,2165,"Cafe coffee, self-service chain",per cup,319
+2020-12,Kyoto,2165,"Cafe coffee, self-service chain",per cup,319
+2021-01,Kyoto,2165,"Cafe coffee, self-service chain",per cup,319
+2021-02,Kyoto,2165,"Cafe coffee, self-service chain",per cup,319
+2021-03,Kyoto,2165,"Cafe coffee, self-service chain",per cup,319
+2021-04,Kyoto,2165,"Cafe coffee, self-service chain",per cup,319
+2021-05,Kyoto,2165,"Cafe coffee, self-service chain",per cup,319
+2021-06,Kyoto,2165,"Cafe coffee, self-service chain",per cup,319
+2021-07,Kyoto,2165,"Cafe coffee, self-service chain",per cup,319
+2021-08,Kyoto,2165,"Cafe coffee, self-service chain",per cup,319
+2021-09,Kyoto,2165,"Cafe coffee, self-service chain",per cup,319
+2021-10,Kyoto,2165,"Cafe coffee, self-service chain",per cup,319
+2021-11,Kyoto,2165,"Cafe coffee, self-service chain",per cup,319
+2021-12,Kyoto,2165,"Cafe coffee, self-service chain",per cup,319
+2022-01,Kyoto,2165,"Cafe coffee, self-service chain",per cup,319
+2022-02,Kyoto,2165,"Cafe coffee, self-service chain",per cup,319
+2022-03,Kyoto,2165,"Cafe coffee, self-service chain",per cup,319
+2022-04,Kyoto,2165,"Cafe coffee, self-service chain",per cup,350
+2022-05,Kyoto,2165,"Cafe coffee, self-service chain",per cup,350
+2022-06,Kyoto,2165,"Cafe coffee, self-service chain",per cup,350
+2022-07,Kyoto,2165,"Cafe coffee, self-service chain",per cup,350
+2022-08,Kyoto,2165,"Cafe coffee, self-service chain",per cup,350
+2022-09,Kyoto,2165,"Cafe coffee, self-service chain",per cup,350
+2022-10,Kyoto,2165,"Cafe coffee, self-service chain",per cup,350
+2022-11,Kyoto,2165,"Cafe coffee, self-service chain",per cup,350
+2022-12,Kyoto,2165,"Cafe coffee, self-service chain",per cup,350
+2023-01,Kyoto,2165,"Cafe coffee, self-service chain",per cup,350
+2023-02,Kyoto,2165,"Cafe coffee, self-service chain",per cup,350
+2023-03,Kyoto,2165,"Cafe coffee, self-service chain",per cup,350
+2023-04,Kyoto,2165,"Cafe coffee, self-service chain",per cup,350
+2023-05,Kyoto,2165,"Cafe coffee, self-service chain",per cup,350
+2023-06,Kyoto,2165,"Cafe coffee, self-service chain",per cup,350
+2023-07,Kyoto,2165,"Cafe coffee, self-service chain",per cup,350
+2023-08,Kyoto,2165,"Cafe coffee, self-service chain",per cup,350
+2023-09,Kyoto,2165,"Cafe coffee, self-service chain",per cup,350
+2023-10,Kyoto,2165,"Cafe coffee, self-service chain",per cup,350
+2023-11,Kyoto,2165,"Cafe coffee, self-service chain",per cup,350
+2023-12,Kyoto,2165,"Cafe coffee, self-service chain",per cup,350
+2024-01,Kyoto,2165,"Cafe coffee, self-service chain",per cup,350
+2024-02,Kyoto,2165,"Cafe coffee, self-service chain",per cup,350
+2024-03,Kyoto,2165,"Cafe coffee, self-service chain",per cup,380
+2024-04,Kyoto,2165,"Cafe coffee, self-service chain",per cup,380
+2024-05,Kyoto,2165,"Cafe coffee, self-service chain",per cup,380
+2024-06,Kyoto,2165,"Cafe coffee, self-service chain",per cup,380
+2024-07,Kyoto,2165,"Cafe coffee, self-service chain",per cup,380
+2024-08,Kyoto,2165,"Cafe coffee, self-service chain",per cup,380
+2024-09,Kyoto,2165,"Cafe coffee, self-service chain",per cup,380
+2024-10,Kyoto,2165,"Cafe coffee, self-service chain",per cup,380
+2024-11,Kyoto,2165,"Cafe coffee, self-service chain",per cup,380
+2024-12,Kyoto,2165,"Cafe coffee, self-service chain",per cup,380
+2025-01,Kyoto,2165,"Cafe coffee, self-service chain",per cup,380
+2025-02,Kyoto,2165,"Cafe coffee, self-service chain",per cup,380
+2025-03,Kyoto,2165,"Cafe coffee, self-service chain",per cup,387
+2025-04,Kyoto,2165,"Cafe coffee, self-service chain",per cup,387
+2025-05,Kyoto,2165,"Cafe coffee, self-service chain",per cup,387
+2025-06,Kyoto,2165,"Cafe coffee, self-service chain",per cup,387
+2025-07,Kyoto,2165,"Cafe coffee, self-service chain",per cup,387
+2025-08,Kyoto,2165,"Cafe coffee, self-service chain",per cup,387
+2025-09,Kyoto,2165,"Cafe coffee, self-service chain",per cup,387
+2025-10,Kyoto,2165,"Cafe coffee, self-service chain",per cup,387
+2025-11,Kyoto,2165,"Cafe coffee, self-service chain",per cup,387
+2025-12,Kyoto,2165,"Cafe coffee, self-service chain",per cup,387
+2026-01,Kyoto,2165,"Cafe coffee, self-service chain",per cup,387
+2026-02,Kyoto,2165,"Cafe coffee, self-service chain",per cup,387
+2026-03,Kyoto,2165,"Cafe coffee, self-service chain",per cup,394
+2026-04,Kyoto,2165,"Cafe coffee, self-service chain",per cup,394
+2026-05,Kyoto,2165,"Cafe coffee, self-service chain",per cup,394
+2026-06,Kyoto,2165,"Cafe coffee, self-service chain",per cup,394
+2026-07,Kyoto,2165,"Cafe coffee, self-service chain",per cup,394
+2026-08,Kyoto,2165,"Cafe coffee, self-service chain",per cup,394
+2015-01,Naha,2165,"Cafe coffee, self-service chain",per cup,261
+2015-02,Naha,2165,"Cafe coffee, self-service chain",per cup,261
+2015-03,Naha,2165,"Cafe coffee, self-service chain",per cup,261
+2015-04,Naha,2165,"Cafe coffee, self-service chain",per cup,261
+2015-05,Naha,2165,"Cafe coffee, self-service chain",per cup,261
+2015-06,Naha,2165,"Cafe coffee, self-service chain",per cup,261
+2015-07,Naha,2165,"Cafe coffee, self-service chain",per cup,261
+2015-08,Naha,2165,"Cafe coffee, self-service chain",per cup,261
+2015-09,Naha,2165,"Cafe coffee, self-service chain",per cup,261
+2015-10,Naha,2165,"Cafe coffee, self-service chain",per cup,261
+2015-11,Naha,2165,"Cafe coffee, self-service chain",per cup,261
+2015-12,Naha,2165,"Cafe coffee, self-service chain",per cup,261
+2016-01,Naha,2165,"Cafe coffee, self-service chain",per cup,261
+2016-02,Naha,2165,"Cafe coffee, self-service chain",per cup,261
+2016-03,Naha,2165,"Cafe coffee, self-service chain",per cup,261
+2016-04,Naha,2165,"Cafe coffee, self-service chain",per cup,261
+2016-05,Naha,2165,"Cafe coffee, self-service chain",per cup,261
+2016-06,Naha,2165,"Cafe coffee, self-service chain",per cup,261
+2016-07,Naha,2165,"Cafe coffee, self-service chain",per cup,261
+2016-08,Naha,2165,"Cafe coffee, self-service chain",per cup,261
+2016-09,Naha,2165,"Cafe coffee, self-service chain",per cup,261
+2016-10,Naha,2165,"Cafe coffee, self-service chain",per cup,261
+2016-11,Naha,2165,"Cafe coffee, self-service chain",per cup,261
+2016-12,Naha,2165,"Cafe coffee, self-service chain",per cup,261
+2017-01,Naha,2165,"Cafe coffee, self-service chain",per cup,261
+2017-02,Naha,2165,"Cafe coffee, self-service chain",per cup,261
+2017-03,Naha,2165,"Cafe coffee, self-service chain",per cup,261
+2017-04,Naha,2165,"Cafe coffee, self-service chain",per cup,261
+2017-05,Naha,2165,"Cafe coffee, self-service chain",per cup,261
+2017-06,Naha,2165,"Cafe coffee, self-service chain",per cup,261
+2017-07,Naha,2165,"Cafe coffee, self-service chain",per cup,261
+2017-08,Naha,2165,"Cafe coffee, self-service chain",per cup,261
+2017-09,Naha,2165,"Cafe coffee, self-service chain",per cup,261
+2017-10,Naha,2165,"Cafe coffee, self-service chain",per cup,261
+2017-11,Naha,2165,"Cafe coffee, self-service chain",per cup,261
+2017-12,Naha,2165,"Cafe coffee, self-service chain",per cup,261
+2018-01,Naha,2165,"Cafe coffee, self-service chain",per cup,261
+2018-02,Naha,2165,"Cafe coffee, self-service chain",per cup,261
+2018-03,Naha,2165,"Cafe coffee, self-service chain",per cup,261
+2018-04,Naha,2165,"Cafe coffee, self-service chain",per cup,261
+2018-05,Naha,2165,"Cafe coffee, self-service chain",per cup,261
+2018-06,Naha,2165,"Cafe coffee, self-service chain",per cup,261
+2018-07,Naha,2165,"Cafe coffee, self-service chain",per cup,261
+2018-08,Naha,2165,"Cafe coffee, self-service chain",per cup,261
+2018-09,Naha,2165,"Cafe coffee, self-service chain",per cup,261
+2018-10,Naha,2165,"Cafe coffee, self-service chain",per cup,261
+2018-11,Naha,2165,"Cafe coffee, self-service chain",per cup,261
+2018-12,Naha,2165,"Cafe coffee, self-service chain",per cup,261
+2019-01,Naha,2165,"Cafe coffee, self-service chain",per cup,261
+2019-02,Naha,2165,"Cafe coffee, self-service chain",per cup,261
+2019-03,Naha,2165,"Cafe coffee, self-service chain",per cup,267
+2019-04,Naha,2165,"Cafe coffee, self-service chain",per cup,267
+2019-05,Naha,2165,"Cafe coffee, self-service chain",per cup,267
+2019-06,Naha,2165,"Cafe coffee, self-service chain",per cup,267
+2019-07,Naha,2165,"Cafe coffee, self-service chain",per cup,267
+2019-08,Naha,2165,"Cafe coffee, self-service chain",per cup,267
+2019-09,Naha,2165,"Cafe coffee, self-service chain",per cup,267
+2019-10,Naha,2165,"Cafe coffee, self-service chain",per cup,272
+2019-11,Naha,2165,"Cafe coffee, self-service chain",per cup,272
+2019-12,Naha,2165,"Cafe coffee, self-service chain",per cup,272
+2020-01,Naha,2165,"Cafe coffee, self-service chain",per cup,272
+2020-02,Naha,2165,"Cafe coffee, self-service chain",per cup,272
+2020-03,Naha,2165,"Cafe coffee, self-service chain",per cup,272
+2020-04,Naha,2165,"Cafe coffee, self-service chain",per cup,272
+2020-05,Naha,2165,"Cafe coffee, self-service chain",per cup,272
+2020-06,Naha,2165,"Cafe coffee, self-service chain",per cup,272
+2020-07,Naha,2165,"Cafe coffee, self-service chain",per cup,272
+2020-08,Naha,2165,"Cafe coffee, self-service chain",per cup,272
+2020-09,Naha,2165,"Cafe coffee, self-service chain",per cup,272
+2020-10,Naha,2165,"Cafe coffee, self-service chain",per cup,272
+2020-11,Naha,2165,"Cafe coffee, self-service chain",per cup,272
+2020-12,Naha,2165,"Cafe coffee, self-service chain",per cup,272
+2021-01,Naha,2165,"Cafe coffee, self-service chain",per cup,272
+2021-02,Naha,2165,"Cafe coffee, self-service chain",per cup,272
+2021-03,Naha,2165,"Cafe coffee, self-service chain",per cup,272
+2021-04,Naha,2165,"Cafe coffee, self-service chain",per cup,272
+2021-05,Naha,2165,"Cafe coffee, self-service chain",per cup,272
+2021-06,Naha,2165,"Cafe coffee, self-service chain",per cup,272
+2021-07,Naha,2165,"Cafe coffee, self-service chain",per cup,272
+2021-08,Naha,2165,"Cafe coffee, self-service chain",per cup,272
+2021-09,Naha,2165,"Cafe coffee, self-service chain",per cup,272
+2021-10,Naha,2165,"Cafe coffee, self-service chain",per cup,272
+2021-11,Naha,2165,"Cafe coffee, self-service chain",per cup,272
+2021-12,Naha,2165,"Cafe coffee, self-service chain",per cup,272
+2022-01,Naha,2165,"Cafe coffee, self-service chain",per cup,272
+2022-02,Naha,2165,"Cafe coffee, self-service chain",per cup,272
+2022-03,Naha,2165,"Cafe coffee, self-service chain",per cup,272
+2022-04,Naha,2165,"Cafe coffee, self-service chain",per cup,287
+2022-05,Naha,2165,"Cafe coffee, self-service chain",per cup,287
+2022-06,Naha,2165,"Cafe coffee, self-service chain",per cup,313
+2022-07,Naha,2165,"Cafe coffee, self-service chain",per cup,313
+2022-08,Naha,2165,"Cafe coffee, self-service chain",per cup,313
+2022-09,Naha,2165,"Cafe coffee, self-service chain",per cup,313
+2022-10,Naha,2165,"Cafe coffee, self-service chain",per cup,313
+2022-11,Naha,2165,"Cafe coffee, self-service chain",per cup,313
+2022-12,Naha,2165,"Cafe coffee, self-service chain",per cup,325
+2023-01,Naha,2165,"Cafe coffee, self-service chain",per cup,325
+2023-02,Naha,2165,"Cafe coffee, self-service chain",per cup,325
+2023-03,Naha,2165,"Cafe coffee, self-service chain",per cup,325
+2023-04,Naha,2165,"Cafe coffee, self-service chain",per cup,325
+2023-05,Naha,2165,"Cafe coffee, self-service chain",per cup,325
+2023-06,Naha,2165,"Cafe coffee, self-service chain",per cup,325
+2023-07,Naha,2165,"Cafe coffee, self-service chain",per cup,325
+2023-08,Naha,2165,"Cafe coffee, self-service chain",per cup,325
+2023-09,Naha,2165,"Cafe coffee, self-service chain",per cup,325
+2023-10,Naha,2165,"Cafe coffee, self-service chain",per cup,325
+2023-11,Naha,2165,"Cafe coffee, self-service chain",per cup,325
+2023-12,Naha,2165,"Cafe coffee, self-service chain",per cup,325
+2024-01,Naha,2165,"Cafe coffee, self-service chain",per cup,325
+2024-02,Naha,2165,"Cafe coffee, self-service chain",per cup,340
+2024-03,Naha,2165,"Cafe coffee, self-service chain",per cup,340
+2024-04,Naha,2165,"Cafe coffee, self-service chain",per cup,340
+2024-05,Naha,2165,"Cafe coffee, self-service chain",per cup,340
+2024-06,Naha,2165,"Cafe coffee, self-service chain",per cup,340
+2024-07,Naha,2165,"Cafe coffee, self-service chain",per cup,340
+2024-08,Naha,2165,"Cafe coffee, self-service chain",per cup,340
+2024-09,Naha,2165,"Cafe coffee, self-service chain",per cup,340
+2024-10,Naha,2165,"Cafe coffee, self-service chain",per cup,340
+2024-11,Naha,2165,"Cafe coffee, self-service chain",per cup,340
+2024-12,Naha,2165,"Cafe coffee, self-service chain",per cup,355
+2025-01,Naha,2165,"Cafe coffee, self-service chain",per cup,355
+2025-02,Naha,2165,"Cafe coffee, self-service chain",per cup,355
+2025-03,Naha,2165,"Cafe coffee, self-service chain",per cup,355
+2025-04,Naha,2165,"Cafe coffee, self-service chain",per cup,355
+2025-05,Naha,2165,"Cafe coffee, self-service chain",per cup,355
+2025-06,Naha,2165,"Cafe coffee, self-service chain",per cup,355
+2025-07,Naha,2165,"Cafe coffee, self-service chain",per cup,355
+2025-08,Naha,2165,"Cafe coffee, self-service chain",per cup,355
+2025-09,Naha,2165,"Cafe coffee, self-service chain",per cup,355
+2025-10,Naha,2165,"Cafe coffee, self-service chain",per cup,355
+2025-11,Naha,2165,"Cafe coffee, self-service chain",per cup,355
+2025-12,Naha,2165,"Cafe coffee, self-service chain",per cup,355
+2026-01,Naha,2165,"Cafe coffee, self-service chain",per cup,355
+2026-02,Naha,2165,"Cafe coffee, self-service chain",per cup,355
+2026-03,Naha,2165,"Cafe coffee, self-service chain",per cup,362
+2026-04,Naha,2165,"Cafe coffee, self-service chain",per cup,362
+2026-05,Naha,2165,"Cafe coffee, self-service chain",per cup,362
+2026-06,Naha,2165,"Cafe coffee, self-service chain",per cup,362
+2026-07,Naha,2165,"Cafe coffee, self-service chain",per cup,362
+2026-08,Naha,2165,"Cafe coffee, self-service chain",per cup,372
+2015-01,Sapporo,2165,"Cafe coffee, self-service chain",per cup,302
+2015-02,Sapporo,2165,"Cafe coffee, self-service chain",per cup,302
+2015-03,Sapporo,2165,"Cafe coffee, self-service chain",per cup,302
+2015-04,Sapporo,2165,"Cafe coffee, self-service chain",per cup,302
+2015-05,Sapporo,2165,"Cafe coffee, self-service chain",per cup,302
+2015-06,Sapporo,2165,"Cafe coffee, self-service chain",per cup,302
+2015-07,Sapporo,2165,"Cafe coffee, self-service chain",per cup,302
+2015-08,Sapporo,2165,"Cafe coffee, self-service chain",per cup,302
+2015-09,Sapporo,2165,"Cafe coffee, self-service chain",per cup,302
+2015-10,Sapporo,2165,"Cafe coffee, self-service chain",per cup,302
+2015-11,Sapporo,2165,"Cafe coffee, self-service chain",per cup,302
+2015-12,Sapporo,2165,"Cafe coffee, self-service chain",per cup,302
+2016-01,Sapporo,2165,"Cafe coffee, self-service chain",per cup,302
+2016-02,Sapporo,2165,"Cafe coffee, self-service chain",per cup,302
+2016-03,Sapporo,2165,"Cafe coffee, self-service chain",per cup,302
+2016-04,Sapporo,2165,"Cafe coffee, self-service chain",per cup,302
+2016-05,Sapporo,2165,"Cafe coffee, self-service chain",per cup,302
+2016-06,Sapporo,2165,"Cafe coffee, self-service chain",per cup,302
+2016-07,Sapporo,2165,"Cafe coffee, self-service chain",per cup,302
+2016-08,Sapporo,2165,"Cafe coffee, self-service chain",per cup,302
+2016-09,Sapporo,2165,"Cafe coffee, self-service chain",per cup,302
+2016-10,Sapporo,2165,"Cafe coffee, self-service chain",per cup,302
+2016-11,Sapporo,2165,"Cafe coffee, self-service chain",per cup,302
+2016-12,Sapporo,2165,"Cafe coffee, self-service chain",per cup,302
+2017-01,Sapporo,2165,"Cafe coffee, self-service chain",per cup,302
+2017-02,Sapporo,2165,"Cafe coffee, self-service chain",per cup,302
+2017-03,Sapporo,2165,"Cafe coffee, self-service chain",per cup,302
+2017-04,Sapporo,2165,"Cafe coffee, self-service chain",per cup,302
+2017-05,Sapporo,2165,"Cafe coffee, self-service chain",per cup,302
+2017-06,Sapporo,2165,"Cafe coffee, self-service chain",per cup,302
+2017-07,Sapporo,2165,"Cafe coffee, self-service chain",per cup,302
+2017-08,Sapporo,2165,"Cafe coffee, self-service chain",per cup,302
+2017-09,Sapporo,2165,"Cafe coffee, self-service chain",per cup,302
+2017-10,Sapporo,2165,"Cafe coffee, self-service chain",per cup,302
+2017-11,Sapporo,2165,"Cafe coffee, self-service chain",per cup,302
+2017-12,Sapporo,2165,"Cafe coffee, self-service chain",per cup,302
+2018-01,Sapporo,2165,"Cafe coffee, self-service chain",per cup,302
+2018-02,Sapporo,2165,"Cafe coffee, self-service chain",per cup,302
+2018-03,Sapporo,2165,"Cafe coffee, self-service chain",per cup,302
+2018-04,Sapporo,2165,"Cafe coffee, self-service chain",per cup,302
+2018-05,Sapporo,2165,"Cafe coffee, self-service chain",per cup,302
+2018-06,Sapporo,2165,"Cafe coffee, self-service chain",per cup,302
+2018-07,Sapporo,2165,"Cafe coffee, self-service chain",per cup,302
+2018-08,Sapporo,2165,"Cafe coffee, self-service chain",per cup,302
+2018-09,Sapporo,2165,"Cafe coffee, self-service chain",per cup,302
+2018-10,Sapporo,2165,"Cafe coffee, self-service chain",per cup,302
+2018-11,Sapporo,2165,"Cafe coffee, self-service chain",per cup,302
+2018-12,Sapporo,2165,"Cafe coffee, self-service chain",per cup,302
+2019-01,Sapporo,2165,"Cafe coffee, self-service chain",per cup,302
+2019-02,Sapporo,2165,"Cafe coffee, self-service chain",per cup,302
+2019-03,Sapporo,2165,"Cafe coffee, self-service chain",per cup,313
+2019-04,Sapporo,2165,"Cafe coffee, self-service chain",per cup,313
+2019-05,Sapporo,2165,"Cafe coffee, self-service chain",per cup,313
+2019-06,Sapporo,2165,"Cafe coffee, self-service chain",per cup,313
+2019-07,Sapporo,2165,"Cafe coffee, self-service chain",per cup,313
+2019-08,Sapporo,2165,"Cafe coffee, self-service chain",per cup,313
+2019-09,Sapporo,2165,"Cafe coffee, self-service chain",per cup,313
+2019-10,Sapporo,2165,"Cafe coffee, self-service chain",per cup,319
+2019-11,Sapporo,2165,"Cafe coffee, self-service chain",per cup,319
+2019-12,Sapporo,2165,"Cafe coffee, self-service chain",per cup,319
+2020-01,Sapporo,2165,"Cafe coffee, self-service chain",per cup,319
+2020-02,Sapporo,2165,"Cafe coffee, self-service chain",per cup,319
+2020-03,Sapporo,2165,"Cafe coffee, self-service chain",per cup,319
+2020-04,Sapporo,2165,"Cafe coffee, self-service chain",per cup,319
+2020-05,Sapporo,2165,"Cafe coffee, self-service chain",per cup,
+2020-06,Sapporo,2165,"Cafe coffee, self-service chain",per cup,319
+2020-07,Sapporo,2165,"Cafe coffee, self-service chain",per cup,319
+2020-08,Sapporo,2165,"Cafe coffee, self-service chain",per cup,319
+2020-09,Sapporo,2165,"Cafe coffee, self-service chain",per cup,319
+2020-10,Sapporo,2165,"Cafe coffee, self-service chain",per cup,319
+2020-11,Sapporo,2165,"Cafe coffee, self-service chain",per cup,319
+2020-12,Sapporo,2165,"Cafe coffee, self-service chain",per cup,319
+2021-01,Sapporo,2165,"Cafe coffee, self-service chain",per cup,319
+2021-02,Sapporo,2165,"Cafe coffee, self-service chain",per cup,319
+2021-03,Sapporo,2165,"Cafe coffee, self-service chain",per cup,319
+2021-04,Sapporo,2165,"Cafe coffee, self-service chain",per cup,319
+2021-05,Sapporo,2165,"Cafe coffee, self-service chain",per cup,319
+2021-06,Sapporo,2165,"Cafe coffee, self-service chain",per cup,319
+2021-07,Sapporo,2165,"Cafe coffee, self-service chain",per cup,319
+2021-08,Sapporo,2165,"Cafe coffee, self-service chain",per cup,319
+2021-09,Sapporo,2165,"Cafe coffee, self-service chain",per cup,319
+2021-10,Sapporo,2165,"Cafe coffee, self-service chain",per cup,319
+2021-11,Sapporo,2165,"Cafe coffee, self-service chain",per cup,319
+2021-12,Sapporo,2165,"Cafe coffee, self-service chain",per cup,319
+2022-01,Sapporo,2165,"Cafe coffee, self-service chain",per cup,319
+2022-02,Sapporo,2165,"Cafe coffee, self-service chain",per cup,319
+2022-03,Sapporo,2165,"Cafe coffee, self-service chain",per cup,319
+2022-04,Sapporo,2165,"Cafe coffee, self-service chain",per cup,350
+2022-05,Sapporo,2165,"Cafe coffee, self-service chain",per cup,350
+2022-06,Sapporo,2165,"Cafe coffee, self-service chain",per cup,350
+2022-07,Sapporo,2165,"Cafe coffee, self-service chain",per cup,350
+2022-08,Sapporo,2165,"Cafe coffee, self-service chain",per cup,350
+2022-09,Sapporo,2165,"Cafe coffee, self-service chain",per cup,350
+2022-10,Sapporo,2165,"Cafe coffee, self-service chain",per cup,350
+2022-11,Sapporo,2165,"Cafe coffee, self-service chain",per cup,350
+2022-12,Sapporo,2165,"Cafe coffee, self-service chain",per cup,350
+2023-01,Sapporo,2165,"Cafe coffee, self-service chain",per cup,350
+2023-02,Sapporo,2165,"Cafe coffee, self-service chain",per cup,350
+2023-03,Sapporo,2165,"Cafe coffee, self-service chain",per cup,350
+2023-04,Sapporo,2165,"Cafe coffee, self-service chain",per cup,350
+2023-05,Sapporo,2165,"Cafe coffee, self-service chain",per cup,350
+2023-06,Sapporo,2165,"Cafe coffee, self-service chain",per cup,350
+2023-07,Sapporo,2165,"Cafe coffee, self-service chain",per cup,350
+2023-08,Sapporo,2165,"Cafe coffee, self-service chain",per cup,350
+2023-09,Sapporo,2165,"Cafe coffee, self-service chain",per cup,350
+2023-10,Sapporo,2165,"Cafe coffee, self-service chain",per cup,350
+2023-11,Sapporo,2165,"Cafe coffee, self-service chain",per cup,350
+2023-12,Sapporo,2165,"Cafe coffee, self-service chain",per cup,350
+2024-01,Sapporo,2165,"Cafe coffee, self-service chain",per cup,350
+2024-02,Sapporo,2165,"Cafe coffee, self-service chain",per cup,350
+2024-03,Sapporo,2165,"Cafe coffee, self-service chain",per cup,380
+2024-04,Sapporo,2165,"Cafe coffee, self-service chain",per cup,380
+2024-05,Sapporo,2165,"Cafe coffee, self-service chain",per cup,380
+2024-06,Sapporo,2165,"Cafe coffee, self-service chain",per cup,380
+2024-07,Sapporo,2165,"Cafe coffee, self-service chain",per cup,380
+2024-08,Sapporo,2165,"Cafe coffee, self-service chain",per cup,380
+2024-09,Sapporo,2165,"Cafe coffee, self-service chain",per cup,380
+2024-10,Sapporo,2165,"Cafe coffee, self-service chain",per cup,380
+2024-11,Sapporo,2165,"Cafe coffee, self-service chain",per cup,380
+2024-12,Sapporo,2165,"Cafe coffee, self-service chain",per cup,380
+2025-01,Sapporo,2165,"Cafe coffee, self-service chain",per cup,380
+2025-02,Sapporo,2165,"Cafe coffee, self-service chain",per cup,380
+2025-03,Sapporo,2165,"Cafe coffee, self-service chain",per cup,380
+2025-04,Sapporo,2165,"Cafe coffee, self-service chain",per cup,380
+2025-05,Sapporo,2165,"Cafe coffee, self-service chain",per cup,380
+2025-06,Sapporo,2165,"Cafe coffee, self-service chain",per cup,380
+2025-07,Sapporo,2165,"Cafe coffee, self-service chain",per cup,380
+2025-08,Sapporo,2165,"Cafe coffee, self-service chain",per cup,380
+2025-09,Sapporo,2165,"Cafe coffee, self-service chain",per cup,380
+2025-10,Sapporo,2165,"Cafe coffee, self-service chain",per cup,380
+2025-11,Sapporo,2165,"Cafe coffee, self-service chain",per cup,380
+2025-12,Sapporo,2165,"Cafe coffee, self-service chain",per cup,380
+2026-01,Sapporo,2165,"Cafe coffee, self-service chain",per cup,380
+2026-02,Sapporo,2165,"Cafe coffee, self-service chain",per cup,380
+2026-03,Sapporo,2165,"Cafe coffee, self-service chain",per cup,394
+2026-04,Sapporo,2165,"Cafe coffee, self-service chain",per cup,394
+2026-05,Sapporo,2165,"Cafe coffee, self-service chain",per cup,394
+2026-06,Sapporo,2165,"Cafe coffee, self-service chain",per cup,394
+2026-07,Sapporo,2165,"Cafe coffee, self-service chain",per cup,394
+2026-08,Sapporo,2165,"Cafe coffee, self-service chain",per cup,394
+2015-01,Tokyo (23 wards),2165,"Cafe coffee, self-service chain",per cup,234
+2015-02,Tokyo (23 wards),2165,"Cafe coffee, self-service chain",per cup,234
+2015-03,Tokyo (23 wards),2165,"Cafe coffee, self-service chain",per cup,234
+2015-04,Tokyo (23 wards),2165,"Cafe coffee, self-service chain",per cup,234
+2015-05,Tokyo (23 wards),2165,"Cafe coffee, self-service chain",per cup,234
+2015-06,Tokyo (23 wards),2165,"Cafe coffee, self-service chain",per cup,234
+2015-07,Tokyo (23 wards),2165,"Cafe coffee, self-service chain",per cup,234
+2015-08,Tokyo (23 wards),2165,"Cafe coffee, self-service chain",per cup,234
+2015-09,Tokyo (23 wards),2165,"Cafe coffee, self-service chain",per cup,234
+2015-10,Tokyo (23 wards),2165,"Cafe coffee, self-service chain",per cup,234
+2015-11,Tokyo (23 wards),2165,"Cafe coffee, self-service chain",per cup,234
+2015-12,Tokyo (23 wards),2165,"Cafe coffee, self-service chain",per cup,234
+2016-01,Tokyo (23 wards),2165,"Cafe coffee, self-service chain",per cup,234
+2016-02,Tokyo (23 wards),2165,"Cafe coffee, self-service chain",per cup,234
+2016-03,Tokyo (23 wards),2165,"Cafe coffee, self-service chain",per cup,234
+2016-04,Tokyo (23 wards),2165,"Cafe coffee, self-service chain",per cup,235
+2016-05,Tokyo (23 wards),2165,"Cafe coffee, self-service chain",per cup,235
+2016-06,Tokyo (23 wards),2165,"Cafe coffee, self-service chain",per cup,235
+2016-07,Tokyo (23 wards),2165,"Cafe coffee, self-service chain",per cup,235
+2016-08,Tokyo (23 wards),2165,"Cafe coffee, self-service chain",per cup,235
+2016-09,Tokyo (23 wards),2165,"Cafe coffee, self-service chain",per cup,235
+2016-10,Tokyo (23 wards),2165,"Cafe coffee, self-service chain",per cup,235
+2016-11,Tokyo (23 wards),2165,"Cafe coffee, self-service chain",per cup,235
+2016-12,Tokyo (23 wards),2165,"Cafe coffee, self-service chain",per cup,235
+2017-01,Tokyo (23 wards),2165,"Cafe coffee, self-service chain",per cup,235
+2017-02,Tokyo (23 wards),2165,"Cafe coffee, self-service chain",per cup,235
+2017-03,Tokyo (23 wards),2165,"Cafe coffee, self-service chain",per cup,235
+2017-04,Tokyo (23 wards),2165,"Cafe coffee, self-service chain",per cup,235
+2017-05,Tokyo (23 wards),2165,"Cafe coffee, self-service chain",per cup,235
+2017-06,Tokyo (23 wards),2165,"Cafe coffee, self-service chain",per cup,235
+2017-07,Tokyo (23 wards),2165,"Cafe coffee, self-service chain",per cup,235
+2017-08,Tokyo (23 wards),2165,"Cafe coffee, self-service chain",per cup,235
+2017-09,Tokyo (23 wards),2165,"Cafe coffee, self-service chain",per cup,235
+2017-10,Tokyo (23 wards),2165,"Cafe coffee, self-service chain",per cup,235
+2017-11,Tokyo (23 wards),2165,"Cafe coffee, self-service chain",per cup,235
+2017-12,Tokyo (23 wards),2165,"Cafe coffee, self-service chain",per cup,235
+2018-01,Tokyo (23 wards),2165,"Cafe coffee, self-service chain",per cup,235
+2018-02,Tokyo (23 wards),2165,"Cafe coffee, self-service chain",per cup,235
+2018-03,Tokyo (23 wards),2165,"Cafe coffee, self-service chain",per cup,235
+2018-04,Tokyo (23 wards),2165,"Cafe coffee, self-service chain",per cup,235
+2018-05,Tokyo (23 wards),2165,"Cafe coffee, self-service chain",per cup,235
+2018-06,Tokyo (23 wards),2165,"Cafe coffee, self-service chain",per cup,235
+2018-07,Tokyo (23 wards),2165,"Cafe coffee, self-service chain",per cup,235
+2018-08,Tokyo (23 wards),2165,"Cafe coffee, self-service chain",per cup,235
+2018-09,Tokyo (23 wards),2165,"Cafe coffee, self-service chain",per cup,235
+2018-10,Tokyo (23 wards),2165,"Cafe coffee, self-service chain",per cup,235
+2018-11,Tokyo (23 wards),2165,"Cafe coffee, self-service chain",per cup,235
+2018-12,Tokyo (23 wards),2165,"Cafe coffee, self-service chain",per cup,235
+2019-01,Tokyo (23 wards),2165,"Cafe coffee, self-service chain",per cup,235
+2019-02,Tokyo (23 wards),2165,"Cafe coffee, self-service chain",per cup,235
+2019-03,Tokyo (23 wards),2165,"Cafe coffee, self-service chain",per cup,236
+2019-04,Tokyo (23 wards),2165,"Cafe coffee, self-service chain",per cup,236
+2019-05,Tokyo (23 wards),2165,"Cafe coffee, self-service chain",per cup,237
+2019-06,Tokyo (23 wards),2165,"Cafe coffee, self-service chain",per cup,237
+2019-07,Tokyo (23 wards),2165,"Cafe coffee, self-service chain",per cup,237
+2019-08,Tokyo (23 wards),2165,"Cafe coffee, self-service chain",per cup,237
+2019-09,Tokyo (23 wards),2165,"Cafe coffee, self-service chain",per cup,237
+2019-10,Tokyo (23 wards),2165,"Cafe coffee, self-service chain",per cup,241
+2019-11,Tokyo (23 wards),2165,"Cafe coffee, self-service chain",per cup,241
+2019-12,Tokyo (23 wards),2165,"Cafe coffee, self-service chain",per cup,241
+2020-01,Tokyo (23 wards),2165,"Cafe coffee, self-service chain",per cup,241
+2020-02,Tokyo (23 wards),2165,"Cafe coffee, self-service chain",per cup,241
+2020-03,Tokyo (23 wards),2165,"Cafe coffee, self-service chain",per cup,241
+2020-04,Tokyo (23 wards),2165,"Cafe coffee, self-service chain",per cup,224
+2020-05,Tokyo (23 wards),2165,"Cafe coffee, self-service chain",per cup,240
+2020-06,Tokyo (23 wards),2165,"Cafe coffee, self-service chain",per cup,241
+2020-07,Tokyo (23 wards),2165,"Cafe coffee, self-service chain",per cup,241
+2020-08,Tokyo (23 wards),2165,"Cafe coffee, self-service chain",per cup,241
+2020-09,Tokyo (23 wards),2165,"Cafe coffee, self-service chain",per cup,241
+2020-10,Tokyo (23 wards),2165,"Cafe coffee, self-service chain",per cup,241
+2020-11,Tokyo (23 wards),2165,"Cafe coffee, self-service chain",per cup,241
+2020-12,Tokyo (23 wards),2165,"Cafe coffee, self-service chain",per cup,241
+2021-01,Tokyo (23 wards),2165,"Cafe coffee, self-service chain",per cup,241
+2021-02,Tokyo (23 wards),2165,"Cafe coffee, self-service chain",per cup,241
+2021-03,Tokyo (23 wards),2165,"Cafe coffee, self-service chain",per cup,241
+2021-04,Tokyo (23 wards),2165,"Cafe coffee, self-service chain",per cup,249
+2021-05,Tokyo (23 wards),2165,"Cafe coffee, self-service chain",per cup,240
+2021-06,Tokyo (23 wards),2165,"Cafe coffee, self-service chain",per cup,240
+2021-07,Tokyo (23 wards),2165,"Cafe coffee, self-service chain",per cup,240
+2021-08,Tokyo (23 wards),2165,"Cafe coffee, self-service chain",per cup,240
+2021-09,Tokyo (23 wards),2165,"Cafe coffee, self-service chain",per cup,240
+2021-10,Tokyo (23 wards),2165,"Cafe coffee, self-service chain",per cup,240
+2021-11,Tokyo (23 wards),2165,"Cafe coffee, self-service chain",per cup,240
+2021-12,Tokyo (23 wards),2165,"Cafe coffee, self-service chain",per cup,240
+2022-01,Tokyo (23 wards),2165,"Cafe coffee, self-service chain",per cup,240
+2022-02,Tokyo (23 wards),2165,"Cafe coffee, self-service chain",per cup,240
+2022-03,Tokyo (23 wards),2165,"Cafe coffee, self-service chain",per cup,240
+2022-04,Tokyo (23 wards),2165,"Cafe coffee, self-service chain",per cup,245
+2022-05,Tokyo (23 wards),2165,"Cafe coffee, self-service chain",per cup,245
+2022-06,Tokyo (23 wards),2165,"Cafe coffee, self-service chain",per cup,245
+2022-07,Tokyo (23 wards),2165,"Cafe coffee, self-service chain",per cup,245
+2022-08,Tokyo (23 wards),2165,"Cafe coffee, self-service chain",per cup,245
+2022-09,Tokyo (23 wards),2165,"Cafe coffee, self-service chain",per cup,245
+2022-10,Tokyo (23 wards),2165,"Cafe coffee, self-service chain",per cup,245
+2022-11,Tokyo (23 wards),2165,"Cafe coffee, self-service chain",per cup,245
+2022-12,Tokyo (23 wards),2165,"Cafe coffee, self-service chain",per cup,258
+2023-01,Tokyo (23 wards),2165,"Cafe coffee, self-service chain",per cup,267
+2023-02,Tokyo (23 wards),2165,"Cafe coffee, self-service chain",per cup,267
+2023-03,Tokyo (23 wards),2165,"Cafe coffee, self-service chain",per cup,267
+2023-04,Tokyo (23 wards),2165,"Cafe coffee, self-service chain",per cup,267
+2023-05,Tokyo (23 wards),2165,"Cafe coffee, self-service chain",per cup,267
+2023-06,Tokyo (23 wards),2165,"Cafe coffee, self-service chain",per cup,267
+2023-07,Tokyo (23 wards),2165,"Cafe coffee, self-service chain",per cup,267
+2023-08,Tokyo (23 wards),2165,"Cafe coffee, self-service chain",per cup,267
+2023-09,Tokyo (23 wards),2165,"Cafe coffee, self-service chain",per cup,267
+2023-10,Tokyo (23 wards),2165,"Cafe coffee, self-service chain",per cup,267
+2023-11,Tokyo (23 wards),2165,"Cafe coffee, self-service chain",per cup,267
+2023-12,Tokyo (23 wards),2165,"Cafe coffee, self-service chain",per cup,267
+2024-01,Tokyo (23 wards),2165,"Cafe coffee, self-service chain",per cup,267
+2024-02,Tokyo (23 wards),2165,"Cafe coffee, self-service chain",per cup,272
+2024-03,Tokyo (23 wards),2165,"Cafe coffee, self-service chain",per cup,283
+2024-04,Tokyo (23 wards),2165,"Cafe coffee, self-service chain",per cup,287
+2024-05,Tokyo (23 wards),2165,"Cafe coffee, self-service chain",per cup,276
+2024-06,Tokyo (23 wards),2165,"Cafe coffee, self-service chain",per cup,276
+2024-07,Tokyo (23 wards),2165,"Cafe coffee, self-service chain",per cup,276
+2024-08,Tokyo (23 wards),2165,"Cafe coffee, self-service chain",per cup,276
+2024-09,Tokyo (23 wards),2165,"Cafe coffee, self-service chain",per cup,276
+2024-10,Tokyo (23 wards),2165,"Cafe coffee, self-service chain",per cup,276
+2024-11,Tokyo (23 wards),2165,"Cafe coffee, self-service chain",per cup,276
+2024-12,Tokyo (23 wards),2165,"Cafe coffee, self-service chain",per cup,296
+2025-01,Tokyo (23 wards),2165,"Cafe coffee, self-service chain",per cup,301
+2025-02,Tokyo (23 wards),2165,"Cafe coffee, self-service chain",per cup,301
+2025-03,Tokyo (23 wards),2165,"Cafe coffee, self-service chain",per cup,294
+2025-04,Tokyo (23 wards),2165,"Cafe coffee, self-service chain",per cup,294
+2025-05,Tokyo (23 wards),2165,"Cafe coffee, self-service chain",per cup,294
+2025-06,Tokyo (23 wards),2165,"Cafe coffee, self-service chain",per cup,294
+2025-07,Tokyo (23 wards),2165,"Cafe coffee, self-service chain",per cup,294
+2025-08,Tokyo (23 wards),2165,"Cafe coffee, self-service chain",per cup,294
+2025-09,Tokyo (23 wards),2165,"Cafe coffee, self-service chain",per cup,294
+2025-10,Tokyo (23 wards),2165,"Cafe coffee, self-service chain",per cup,294
+2025-11,Tokyo (23 wards),2165,"Cafe coffee, self-service chain",per cup,294
+2025-12,Tokyo (23 wards),2165,"Cafe coffee, self-service chain",per cup,294
+2026-01,Tokyo (23 wards),2165,"Cafe coffee, self-service chain",per cup,294
+2026-02,Tokyo (23 wards),2165,"Cafe coffee, self-service chain",per cup,294
+2026-03,Tokyo (23 wards),2165,"Cafe coffee, self-service chain",per cup,294
+2026-04,Tokyo (23 wards),2165,"Cafe coffee, self-service chain",per cup,294
+2026-05,Tokyo (23 wards),2165,"Cafe coffee, self-service chain",per cup,294
+2026-06,Tokyo (23 wards),2165,"Cafe coffee, self-service chain",per cup,294
+2026-07,Tokyo (23 wards),2165,"Cafe coffee, self-service chain",per cup,294
+2026-08,Tokyo (23 wards),2165,"Cafe coffee, self-service chain",per cup,312
