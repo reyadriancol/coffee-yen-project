@@ -43,8 +43,4 @@ Prices are in **yen**, average of surveyed stores in each city.
 | 2162 | Cafe coffee, coffee shop | per cup | Hot coffee at a traditional coffee shop, dine-in (not self-service or coffee stands) |
 | 2165 | Cafe coffee, self-service chain | per cup | Hot coffee, small size, at a self-service coffee chain, dine-in |
 
-Item 2165 starts January 2015. Sapporo and Kyoto are blank for May 2020 (no data published, likely COVID closures).
 
-**Retail prices are raw; the CPI is adjusted.** The CPI adjusts for specification changes like the bag sizes above. For the "how much did prices really rise" question, use the CPI. Use the city retail prices for the city comparison (is Naha cheaper? does it lag Tokyo?).
-
-**Single-city monthly prices are noisy.** Ground coffee and instant coffee jump around from month to month because of store sales. Use 3 or 12-month averages for charts.
