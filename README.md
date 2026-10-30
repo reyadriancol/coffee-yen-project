@@ -48,7 +48,7 @@ Coffee is a big hobby of mine. I roast my own beans and make espresso at home, a
 | Source | Series | Coverage |
 |---|---|---|
 | [Japan Customs, Trade Statistics of Japan](https://www.customs.go.jp/toukei/info/index_e.htm) | Green coffee imports, HS 0901.11, total and by origin country | Jan 2010 to Aug 2026, monthly |
-| [FRED](https://fred.stlouisfed.org/) | Arabica (PCOFFOTMUSDM) and Robusta (PCOFFROBUSDM), IMF, U.S. cents per lb | Monthly |
+| FRED: [Arabica](https://fred.stlouisfed.org/series/PCOFFOTMUSDM), [Robusta](https://fred.stlouisfed.org/series/PCOFFROBUSDM) | Arabica (PCOFFOTMUSDM) and Robusta (PCOFFROBUSDM), IMF, U.S. cents per lb | Monthly |
 | [FRED](https://fred.stlouisfed.org/series/EXJPUS) | Yen per U.S. dollar (EXJPUS) | Jan 2010 to Sep 2026, monthly |
 | [Statistics Bureau of Japan, CPI](https://www.e-stat.go.jp/stat-search/files?tstat=000001243876) | Coffee item price indexes, 2025 base | Jan 2010 to Aug 2026, monthly |
 | [Statistics Bureau of Japan, Retail Price Survey](https://www.e-stat.go.jp/dbview?sid=0003421913) | Store and cafe coffee prices in Sapporo, Tokyo, Kyoto, Naha | Jan 2010 to Aug 2026, monthly |
@@ -57,7 +57,7 @@ Coffee is a big hobby of mine. I roast my own beans and make espresso at home, a
 
 - Customs data has no ready-made time series. I pulled each month separately and checked that monthly totals match the published annual total, and that country rows sum to each month's total.
 - The Arabica file starts in July 2010, so the merged table has gaps in early 2010. I kept them visible with an outer join instead of dropping months.
-- Much of the e-Stat data is published only in Japanese. I translated item names, cities, and column labels. See [`DATA_NOTES.md`](DATA_NOTES.md).
+- Much of the e-Stat data is published only in Japanese. I translated item names, cities, and column labels to English.
 - The CPI was rebased to 2025 = 100 in August 2026. I rescaled everything to 2015 = 100 for comparison.
 
 ## Approach
@@ -80,7 +80,6 @@ coffee-yen-project/
 │   ├── 01_first_look.ipynb            first exploration
 │   ├── 02_coffee_yen_analysis.ipynb   full analysis, start here
 │   └── fig*.png                       charts used in the write-up
-├── DATA_NOTES.md                      sources, units, translations, caveats
 └── README.md
 ```
 

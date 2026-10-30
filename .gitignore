@@ -13,3 +13,7 @@ desktop.ini
 
 # Excel temp files when a CSV is open
 ~$*
+
+# Personal notes (not for GitHub)
+DATA_NOTES.md
+*.docx
